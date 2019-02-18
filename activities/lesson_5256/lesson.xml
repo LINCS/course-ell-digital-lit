@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="176" moduleid="5256" modulename="lesson" contextid="16152">
+  <lesson id="176">
+    <course>138</course>
+    <name>Unit 4: Part 2: Focus on the Students</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1456679585</timemodified>
+    <pages>
+      <page id="983">
+        <prevpageid>0</prevpageid>
+        <nextpageid>984</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454902698</timecreated>
+        <timemodified>0</timemodified>
+        <title>Overview</title>
+        <contents>&lt;table style="border-color: #19568b; border-width: 2px; ; width: 25%;" 2="" cellpadding="5" cellspacing="5" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;A growing proportion of the workforce will encounter work situations that pose unforeseen problems that they need to resolve.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;(&lt;a href="http://static1.squarespace.com/static/51bb74b8e4b0139570ddf020/t/551c3e82e4b0d2fede6481f9/1427914370277/Reder_PIAAC.pdf%20" title="Reder 2015" target="_blank"&gt;Reder, 2015, p.3&lt;/a&gt;).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy and problem-solving skills are important for work, school, and community. Research has demonstrated that these skills are connected to wages, political participation, and health.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adult English language learners need strong digital literacy and problem-solving skills. Teachers and program administrators can help ELLs develop these skills by integrating digital activities across the curriculum, in all types of programs, in every subject, and at every level.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;English language learners face challenges in problem solving in technology-rich environments; these challenges include language skills, digital literacy skills, and unfamiliarity with the way that technologies are used in different settings and for different purposes.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1984">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454902698</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="984">
+        <prevpageid>983</prevpageid>
+        <nextpageid>985</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454903004</timecreated>
+        <timemodified>1461603315</timemodified>
+        <title>Problem Solving</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-31.mp3"&gt;ELL_Mod2_U4_Slide-31.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Imagine that a student in one of your adult English-language-acquisition classes had the following problem. We will call it the Parent-Teacher-Conference Problem.&lt;/p&gt;
+&lt;p&gt;Late one afternoon, the woman’s son told her that she had to go to his parent–teacher conference that night. He didn’t know what time or where she should go but knew that she needed to attend. The woman was willing to attend, but she didn’t know how to find out where she should go and the time of the conference. The school was already closed, and so she could not call on the phone. This example will be used several times in this unit.&lt;/p&gt;
+&lt;p&gt;This was a technology-rich environment because, at this school, communication between teachers and parents occurred primarily through a class blog, text, and e-mail. Communication between the school and families happened on the school website, which included the school calendar. The problem presented a variety of difficulties for the mother.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/fig4v2.png" width="200" height="504" alt="" style="float: right; margin: 5px 10px;" /&gt;There are five basic steps to solving problems in technology-rich environments:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Understand the nature of the problem.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make a plan.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Monitor progress.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select information.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make use of the information.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Parent–Teacher Conference Problem&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1985">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454903004</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1986">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454903004</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="985">
+        <prevpageid>984</prevpageid>
+        <nextpageid>986</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454903967</timecreated>
+        <timemodified>1457731336</timemodified>
+        <title>Understand the Nature of the Problem</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-32.mp3"&gt;ELL_Mod2_U4_Slide-32.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The easiest way to think about the first step in problem solving is to consider a problem that provides a context. Our sample problem is called the Buying-a-Computer Problem, and it will be referenced several times in this unit.&lt;/p&gt;
+&lt;p&gt;These are the particulars: A student in your class wants to buy a computer for her family to use. Her children need it for their schoolwork, and she wants to use it for her own learning. She wants to get Internet access, also, but is worried about the cost; money spent on a computer and spent on Internet access will mean less money available for rent, groceries, and gas. She would like to get the computer and Internet access before the next school term, which starts in 5 weeks.&lt;/p&gt;
+&lt;p&gt;Understanding the nature of the problem includes identifying goals. In this example, the student has two goals, to identify the lowest cost computer and to identify the lowest cost Internet. A second part of understanding the nature of the problem is predicting what the solution might look like. In this case, your student can predict that the solution will probably include the brand of a computer, the cost of the computer, where to buy the computer, the name and cost of Internet service, and how to sign up for Internet. Predicting what a solution might look like takes practice and is likely to involve cultural assumptions. When you design your own problem-solving lesson, think about what your students can do with the funds of knowledge that they have as adults, as well as what they need to learn.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="2" cellpadding="5" cellspacing="5" align="right" style="border-color: #19568b; border-width: 2px; width: 25%; float: right;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/67600669_thumbnail.jpg" width="250" height="250" alt="" style="font-family: arial, helvetica, clean, sans-serif; font-size: medium; line-height: 19.6959991455078px; margin: 10px auto; display: block;" /&gt;&lt;br /&gt;&lt;em style="font-size: 13px; line-height: 1.5;"&gt;The Buying-a-Computer Problem: A student in your class wants to buy a computer for her family to use. Her children need it for their schoolwork, and she wants to use it for her own learning. She wants to get Internet access, also, but is worried about the cost; money spent on a computer and on Internet access will mean less money available for rent, groceries, and gas. She would like to get the computer and Internet access before the next school term, which starts in 5 weeks.&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Understanding the nature of the problem includes&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identifying goals&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Predicting what the solution may look like&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In the example provided (box at right), the student has at least two goals:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identifying the lowest cost computer&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identifying the lowest cost Internet access&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;She can predict that the solution will include&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The name of a computer&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The cost of the computer&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Where to buy the computer&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The name and cost of Internet service&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How to sign up for Internet&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1987">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454903967</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1988">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454903967</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="986">
+        <prevpageid>985</prevpageid>
+        <nextpageid>987</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454904130</timecreated>
+        <timemodified>1457731399</timemodified>
+        <title>Make a Plan</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-33.mp3"&gt;ELL_Mod2_U4_Slide-33.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;There are three steps in making a plan: (1) identifying the resources available, such as Internet tools; other technologies; and nontechnical resources, such as people to talk to; (2) determining the amount of time that can be spent on finding a solution and the deadline for solving the problem; and (3) designing the format for the solution. In our example, Buying-a- Computer Problem, the resources include searching the Internet, talking to people at the school, and asking friends for advice. The time line is already set out in the problem—the computer and Internet service need to be purchased and ready within 5 weeks. Thinking about formats is very helpful in problem solving. In this case a table or spreadsheet can be helpful for collecting information and comparing it.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/67600669_thumbnail.jpg" width="350" height="350" alt="" style="float: right; margin: 10px;" /&gt;Making a plan includes &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identifying the resources available, such as Internet tools, other technologies, and nontechnical resources (e.g., people )&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Determining the amount of time that can be spent on finding a solution and the deadline for solving the problem&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Designing the format for the solution&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For example, in the Buying-a-Computer Problem, resources include Internet searching, people at the school, and friends.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Since the student wants to resolve the problem within 5 weeks, it is important for her start right away.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A spreadsheet or table to compare the results of the search may be a useful format for the solution.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-affd9663-3ebf-d28a-2cc7-772b4002cb0f"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1989">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904130</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1990">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904130</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="987">
+        <prevpageid>986</prevpageid>
+        <nextpageid>988</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454904226</timecreated>
+        <timemodified>1457731472</timemodified>
+        <title>Select Information</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-34.mp3"&gt;ELL_Mod2_U4_Slide-34.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Selecting information includes making reasoned guesses about where information is and how to locate it. While much of the search will be on the Internet, there may be other resources to use, such as print resources, a community expert, or the librarian at the local library. Selecting information also involves assessing the relevance, accuracy, reliability, and bias, or perspective, of the information and its source. In the Buying-a-Computer Problem, selected information may include websites that are judged to be reputable sellers of computers. Who is considered reputable is an important question and may be more important than English language learners are used to. For example, Craigslist or other online individual sellers may not be reputable sources for computers.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Selecting information includes searching for the information required to solve the problem. Much of the search will be on the Internet, but there may be other resources used, as well.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Selecting information includes making reasoned guesses about where information is and how to locate it.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Selecting information also involves assessing the relevance, accuracy, reliability, and bias or perspective of the information and its source.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In the Buying-a-Computer Problem, selected information may include websites that are judged to be reputable sellers of computers.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1991">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904226</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1992">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904226</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="988">
+        <prevpageid>987</prevpageid>
+        <nextpageid>989</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454904322</timecreated>
+        <timemodified>1457751446</timemodified>
+        <title>Make Use of the Information</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-35.mp3"&gt;ELL_Mod2_U4_Slide-35.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In this step, the students use the information to consider the different options and select the most viable solution, often organizing or reorganizing the information. This step is especially useful for the English-language-acquisition process. By this point in the lesson or unit, students will be familiar with the topic and the language used in the activity. Using the information that they have selected, students organize it or transform it into a different format. This is good for fluency building, language practice, and digital literacy. For example, students may make a spreadsheet of the computer prices, qualities, and dates available, or make a table that includes the different jobs available, the responsibilities, pay, and travel distance.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Untitled.png" width="215" height="221" alt="" style="float: right; margin: 5px;" /&gt;Making use of the information involves organizing the information that helps to reach a solution.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This step is especially useful for the English- language-acquisition process. Using the information that they have selected, students organize it or transform it into a different format. This is good for fluency building, language practice, and digital literacy.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For example, students may make a spreadsheet of the computer prices, qualities, and dates available, or a table that includes the different jobs available, the responsibilities, pay, and travel distance.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;In this step, the students use the information to consider the different options and select the most viable solution&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1993">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904322</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1994">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904322</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="989">
+        <prevpageid>988</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454904451</timecreated>
+        <timemodified>1461891367</timemodified>
+        <title>Make Use of the Information 2</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-35B.mp3"&gt;ELL_Mod2_U4_Slide-35B.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Sometimes solving a problem includes communicating with other people about the solution. If that is the case, then this communication is part of the solution. As an English language teacher you are accustomed to helping students learn language needed to accomplish a task, and this is another such case. Depending on the problem and the lesson or unit that it relates to, the students may do one of many different things, including&lt;/p&gt;
+&lt;p&gt;-Write an e-mail to the teacher about a missed parent–teacher conference&lt;br /&gt; -Make a PowerPoint presentation detailing the best computer to buy and Internet service to get -Add selected job search websites to a blog documenting the job search process&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/53031002_thumbnail.jpg" width="250" height="238" alt="" style="float: right; margin: 5px;" /&gt;If making use of the information is part of the problem, this step also includes communicating with relevant people to convey the solution reached.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are many different ways that the students can communicate the information. What is appropriate depends on the curriculum unit and the students.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The students may&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Write an e-mail to the teacher about a missed parent–teacher conference&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make a PowerPoint presentation detailing the best computer to buy and Internet service to get&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Add selected job search websites to a blog documenting the job search process&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1995">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904451</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1996">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454904451</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

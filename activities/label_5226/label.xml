@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1163" moduleid="5226" modulename="label" contextid="16122">
+  <label id="1163">
+    <name>You will be able to navigate through the material ...</name>
+    <intro>&lt;p&gt;You will be able to navigate through the material by clicking through the buttons on each page. When you've completed the section, it will tell you that you have finished the lesson. You will then have the option to return back to the main page of the module and move onto the next item in that unit. Use the progress indicators on the main page of the course to determine where you have left off.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;address&gt;&lt;span&gt;This course was prepared with funding from the U.S. Department of Education, Office of Career, Technical and Adult Education, under contract No. ED-VAE-13-C-0058. The opinions expressed herein do not necessarily reflect the opinions or policies of the U.S. Department of Education. This document is in the public domain and may be reproduced without permission.&lt;/span&gt;&lt;/address&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1539615054</timemodified>
+  </label>
+</activity>

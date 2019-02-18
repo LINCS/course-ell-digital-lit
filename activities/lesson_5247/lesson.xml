@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="172" moduleid="5247" modulename="lesson" contextid="16143">
+  <lesson id="172">
+    <course>138</course>
+    <name>Unit 3 Overview</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454772429</timemodified>
+    <pages>
+      <page id="926">
+        <prevpageid>0</prevpageid>
+        <nextpageid>927</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771583</timecreated>
+        <timemodified>1457724090</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This professional development module is part of a suite of related resources. The suite includes the following resources:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Issue Brief &lt;br class="kix-line-break" /&gt;This issue brief presents a broad overview of digital literacy as it relates to adult learners in English language acquisition programs. It is intended to serve as an introduction to the topic of digital literacy that teachers and administrators can use as a springboard to additional in-depth resources.&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Companion Learning Resource&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This digital magazine is a practical, comprehensive instructional resource written specifically for teachers. It provides numerous examples of instructional models, strategies, tools, and tasks for integrating digital literacy into English language instruction..  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The issue brief and companion learning resource can be found at &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://lincs.ed.gov/programs/eslpro" title="Learning Resources" target="_blank"&gt;https://lincs.ed.gov/programs/eslpro&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1873">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771583</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="927">
+        <prevpageid>926</prevpageid>
+        <nextpageid>928</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771755</timecreated>
+        <timemodified>1457724149</timemodified>
+        <title>Definition of Digital Literacy</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-4.mp3"&gt;ELL_Mod2_U3_Slide-4.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Digital literacy includes a wide range of skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information, including using basic digital skills in meaningful ways. It also means having the skills, strategies, and dispositions to use those skills to solve problems in increasingly technology-rich environments. These skills are important for participation in 21st century life, including education, work, and community.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="3" cellspacing="3"&gt;&lt;colgroup&gt;&lt;col width="45%" /&gt;&lt;col width="55%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The term digital literacy means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information (U.S. Department of Education, 2015).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy also means the ability to use those skills to solve problems in the increasingly technology-rich environments of 21st century life (Leu, Kinzer, Coiro, Castek, &amp;amp; Henry, 2013).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/wordle.png" width="233" height="364" alt="Decorative" style="margin: 10px; float: left;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1874">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1875">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="928">
+        <prevpageid>927</prevpageid>
+        <nextpageid>929</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771853</timecreated>
+        <timemodified>1460217358</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-5.mp3"&gt;ELL_Mod2_U3_Slide-5.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to Unit 3! This unit is part of an online module on integrating digital literacy into adult English language instruction. The four units in this professional development module parallel the definition of digital literacy introduced on the previous page.&lt;/p&gt;
+&lt;p&gt;Unit 1 focuses on basic digital literacy skills, the importance of digital literacy, and ways to integrate digital literacy meaningfully into instruction. It is a good idea to start with Unit 1 and then move to any of the other units. Unit 2 focuses on information and communication technologies and the ways that creating and communicating information digitally also promotes English language learning. Unit 3 looks at digital information literacy and how to help students learn to find, understand, and critically evaluate information on the Internet. Unit 4 incorporates a wide range of digital literacies into problem-solving in technology-rich environments and is for teachers who have already been integrating digital literacy into their practice and want to take it further.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Welcome to Unit 3 of the module on Integrating Digital Literacy Into Adult English Language Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: Digital Literacy in Our lives&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication Technologies for Language Learning&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Digital Information Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich Environments&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;While this unit can be done on its own, it is best if you first do Unit 1, “Digital Literacy in Our Lives.”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit looks at digital information literacy in adult English language instruction. The unit describes how to integrate activities that focus on how to search the Internet, analyze search results, evaluate those results, and read the information critically. A variety of video and web-based resources are included, many of which can be used with students.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1876">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1877">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="929">
+        <prevpageid>928</prevpageid>
+        <nextpageid>930</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771993</timecreated>
+        <timemodified>1460217376</timemodified>
+        <title>Organization of This Unit</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-6.mp3"&gt;ELL_Mod2_U3_Slide-6.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This unit is organized so that, first, you focus on yourself and the way that you do (or don’t) use technology to perform a variety of functions in your own life. From this point, the unit presents information about effective Internet searching and ways to help adult English language learners develop skills in Internet searching and evaluating the results by integrating searching activities regularly into your lessons or units. To complete the unit, you will design an activity that you could do in one of your classes.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 1: Focus on the Teacher&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Start-with-what-you-know activity&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 2: Focus on the Student&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; An integration approach&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; SEARCH strategies&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Exploration activity&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 3: Internet Search Activity&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Design an activity to use in your own class&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1878">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1879">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="930">
+        <prevpageid>929</prevpageid>
+        <nextpageid>931</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1456674818</timecreated>
+        <timemodified>1457724480</timemodified>
+        <title>Extra Learning Opportunities</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/58056366_thumbnail.jpg" width="120" height="120" alt="" style="margin: 5px; float: right;" /&gt;Tech Tips&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Tech Tips are distributed throughout the unit and provide advice about strategies for dealing with the unexpected, as well as ideas for solutions to issues raised in technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="float: right; margin: 5px;" /&gt;To Go Deeper&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Also distributed throughout the unit are readings for those who want to delve deeper into the specific topic. Most of the resources can be found at a public or academic library.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you'd like to delve deeper into topics while you are learning, establish (or activate) an account with your library and find out how to get journal articles online and how to get academic books.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/58056366_thumbnail.jpg" width="120" height="120" alt="" style="margin: 5px;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Tech Tip&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here is your first tech tip. There are many links in this unit, and as is always the case with links, they may become broken. If so, try to use a browser to search for the site, using a name from the link, the title, or other description. If you can’t find it, don’t worry and move on.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1886">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1456674818</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1887">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1456674818</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="931">
+        <prevpageid>930</prevpageid>
+        <nextpageid>934</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772069</timecreated>
+        <timemodified>1457724542</timemodified>
+        <title>Storage and Organization of Resources</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this unit, there are many different Internet resources to use in your own learning as well as to consider for use with your students. If you have not already created a way to save and organize Internet links and other digital resources, now is a good time to start. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/58056366_thumbnail.jpg" width="120" height="120" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;Tech Tip&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You can save and organize your Internet links so that you can access them from any computer. Consider asking your colleagues where they save and access their Internet links so that you can use a bookmarking resource to share your resources and look at your colleagues’ resources. Diigo.com is a popular social bookmarking site, but by the time that you read this, there may be newer and better ways to save, organize, and share your Internet resources. Here is a link to a review of 10 popular social bookmarking sites: &lt;a href="http://www.educatorstechnology.com/2014/02/10-excellent-social-bookmarking-tools.html" title="Popular Social Bookmarking Sites" target="_blank"&gt;http://www.educatorstechnology.com/2014/02/10-excellent-social-bookmarking-tools.html&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1880">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772069</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1881">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772069</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="934">
+        <prevpageid>931</prevpageid>
+        <nextpageid>932</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771474</timecreated>
+        <timemodified>1457724629</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-9.mp3"&gt;ELL_Mod2_U3_Slide-9.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You can earn a certificate of completion by doing three activities: completing an activity to think about what you know, completing an exploration activity, and designing an Internet search activity that you could use in your own class.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000000724284_Small.jpg" width="250" height="187" alt="" style="margin: 5px; float: right;" /&gt;You can earn a certificate of completion by completing the three unit activities:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Select and complete a start-with-what-you-know activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Complete an exploration activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Design an Internet search activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1871">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1872">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="933">
+        <prevpageid>932</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772723</timecreated>
+        <timemodified>1461891297</timemodified>
+        <title>Digital Information Literacy</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-11.mp3"&gt;ELL_Mod2_U3_Slide-11.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Using the Internet to find and evaluate information can support English language acquisition and digital literacy development as well as development of a set of soft skills. These soft skills are consistently requested by employers and include, among other things, critical thinking, problem-solving, collaboration skills, and the ability to learn autonomously. These soft skills are particularly important, yet challenging, for adult English language learners because the skills are embedded in cultural assumptions that are likely to be unfamiliar. The soft skills also utilize functional language that needs to be learned, such as making requests and presenting information that may conflict with other’s opinions.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Using the Internet to find and evaluate information can support English language learning, digital literacy development, and the  development of skills in  &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;critical thinking,   &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;problem-solving, &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;collaboration, and  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;autonomous learning.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1884">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1885">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="932">
+        <prevpageid>934</prevpageid>
+        <nextpageid>933</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772310</timecreated>
+        <timemodified>1460217451</timemodified>
+        <title>Employability Skills</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-10.mp3"&gt;ELL_Mod2_U3_Slide-10.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;English language learners preparing for careers, education, and training need to become proficient in information literacy (as show by research by Parrish &amp;amp; Johnson, 2010). More than just language skills for daily life, adult ELLs increasingly need access to things such as information contained in company and training websites that often include cultural and linguistic assumptions unfamiliar to English language learners.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right"&gt;&lt;caption&gt;&lt;img src="@@PLUGINFILE@@/skills.png" width="350" height="252" alt="This graphic displays the employability skills framework that includes a central circle titled “Employability.” Surrounding this circle are three categories: Applied knowledge; workplace skills; and effective relationships. On the outside of these categories are specific skills aligned to these categories. For effective relationships this includes: interpersonal skills and personal qualities. For Workplace skills this includes: technology use; systems thinking; communication skills; information use; and resource management. For applied knowledge this includes: resource management; critical thinking skills; and applied academic skills. " style="float: right; margin: 10px;" /&gt;&lt;/caption&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span id="docs-internal-guid-80e343c7-a84e-fb97-b79d-9d55d20b0929"&gt;&lt;a href="http://cte.ed.gov/employabilityskills/index.php/framework/#sthash.p%20P8cPUwr.dpuf" title="Employability Skills Framework" target="_blank"&gt;Employability Skills Framework&lt;/a&gt;  &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Employability skills are those that are necessary for success in the labor market at all employment levels and in all sectors. See more at  &lt;a href="http://cte.ed.gov/employabilityskills/index.php/framework/#sthash.p%20P8cPUwr.dpuf" title="Employability Skills" target="_blank"&gt;http://cte.ed.gov/employabilityskills/ index.php/framework/#sthash.p P8cPUwr.dpuf&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The ability to find and evaluate information is especially important in work and career settings. All of these skills are identified as highly valuable and necessary by a wide variety of initiatives, including the following:   &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.careertech.org/career-clusters" title="Career Clusters Framework" target="_blank"&gt; Career Clusters® Framework&lt;/a&gt;, National Association of State Directors of Career Technical Education Consortium;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.conferenceboard.ca/topics/education/learning-tools/employability-skills.aspx" title="Employability Skills" target="_blank"&gt; Employability Skills 2000+&lt;/a&gt;, The Conference Board of Canada [link]; and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://wdr.doleta.gov/SCANS/whatwork/whatwork.pdf" title="Secretary's Commission on Achieving Necessary Skills" target="_blank"&gt; Secretary’s Commission on Achieving Necessary Skills&lt;/a&gt; (SCANS), U.S. Department of Labor [link].&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For more information about skills that English language learners need for careers, see Preparing English Learners for Work and Career Pathways: Issue Brief, Professional Development Module, and Companion Learning Resource available here: &lt;a href="https://lincs.ed.gov/programs/eslpro" title="LINCS ESL Pro" target="_blank"&gt;https://lincs.ed.gov/programs/eslpro&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1882">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772310</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1883">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772310</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

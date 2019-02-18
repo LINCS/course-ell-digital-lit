@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="174" moduleid="5249" modulename="lesson" contextid="16145">
+  <lesson id="174">
+    <course>138</course>
+    <name>Unit 3: Part 2: Focus on the Students</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454797068</timemodified>
+    <pages>
+      <page id="942">
+        <prevpageid>0</prevpageid>
+        <nextpageid>943</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454797182</timecreated>
+        <timemodified>1457725596</timemodified>
+        <title>Overview</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;English language acquisition can be enhanced by activities that are relevant to learners’ lives, goals, and interests.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Learning experiences should promote  &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; autonomy,  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; choice, &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; collaboration, &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; meaningful communication, and &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; metacognitive awareness.   &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Metacognitive awareness is the practice of thinking about one’s own thinking and learning. This involves paying attention to learning strategies and using more of the effective strategies and fewer of the ineffective ones. Effective instruction teaches learning strategies explicitly.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1902">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454797182</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="943">
+        <prevpageid>942</prevpageid>
+        <nextpageid>944</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454797271</timecreated>
+        <timemodified>1457750156</timemodified>
+        <title>Focus on the Students</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-22.mp3"&gt;ELL_Mod2_U3_Slide-22.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Digital literacy activities support &lt;em&gt;&lt;strong&gt;both&lt;/strong&gt;&lt;/em&gt; English language learning and the development of digital literacy skills, including finding and evaluating information online. Adult English language learners bring their own beliefs about thinking, language, and learning strategies to digital tasks. These beliefs influence the way that ELLs approach and accomplish digital tasks. When planning instructional activities, teachers can think about their own beliefs about thinking, language, and learning strategies and predict that their ELL students’ beliefs will be different.&lt;/p&gt;
+&lt;p&gt;Adult ELLs can develop digital literacy skills to learn independently and have more choices in their own learning. Effective digital literacy activities use collaboration, facilitating meaningful, goal ­directed communication as learners work together to complete the activity. The skills required for working in teams are part of the cultural knowledge required for English language learners’ success in college and careers (as demonstrated in &lt;a href="@@PLUGINFILE@@/ELL_Context_Instruction_508.pdf" title="Issue Brief"&gt;Wrigley, 2015&lt;/a&gt;). Effective digital literacy instruction promotes metacognitive awareness and explicitly teaches a variety of strategies. In general, all students, including English language learners are motivated and engaged in learning to use technology in their education.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy activities support&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;autonomy,  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;choice,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;collaboration, &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;meaningful communication,  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;metacognitive awareness, and    &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;student motivation and engagement.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1903">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454797271</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1904">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454797271</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="944">
+        <prevpageid>943</prevpageid>
+        <nextpageid>945</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454798358</timecreated>
+        <timemodified>0</timemodified>
+        <title>Focus on the Students 2</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic- or theme-­based, problem-based, or project-­based approaches are easily enhanced with digital literacy. In these approaches, integrated digital literacy activities are supported in a variety of ways:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; A purpose for learning is established. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Students have developed the background knowledge to bring to the activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; The language (vocabulary and grammar) that students encounter is more likely to be familiar. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Relevant and just-­in-­time learning is related to accomplishing the activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Examples of Internet searches that can be integrated into lessons or units are described below.&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5"&gt;&lt;colgroup&gt;&lt;col width="175px" /&gt;&lt;col width="585px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lower Level&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(more searching, less evaluating)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic: In a unit on geography/countries, What time is it in [name of country]?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic: In a unit on local business, What are the addresses and phone numbers of local stores?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Project: Which supermarket is the cheapest (Gaer, 1998)?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Intermediate Level&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(searching and some evaluating)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic: In a unit on finance, find the nearest branch of various banks and credit unions.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Project: How can you buy a car?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic: In a unit on medicine, find the locations and hours of the nearest pharmacies.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Project: &lt;a href="http://www.slideshare.net/jtrupin" title="Make a presentation on a chronic health condition" target="_blank"&gt;Make a presentation on chronic health conditions&lt;/a&gt; (Trupin, 2010). &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Advanced Level&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(searching with a focus on evaluating)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="row"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic: In a unit on consumerism, compare features and prices of an object or service.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problem: What to do about conflicting medical information.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Project: On a vacation to Vancouver, BC, find three sightseeing locations that your family or friends would like.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1905">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1906">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="945">
+        <prevpageid>944</prevpageid>
+        <nextpageid>946</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454798423</timecreated>
+        <timemodified>1457726236</timemodified>
+        <title>Overview of an Integration Approach</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-24.mp3"&gt;ELL_Mod2_U3_Slide-24.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Integrating digital literacy skill-building activities into existing lessons and units is better than teaching the skills in isolation. Here is an overview of the basic principles of this approach. First, identify an Internet search that is appropriate for the lesson or unit. Second, in the design of the activity, position technology as a tool to complete the project rather than the goal itself. For example, in a low-level adult English language acquisition class, you might have a unit on food and shopping. It would be appropriate to add an Internet search activity in which the students identify the supermarket that is the cheapest for food items that the students have indicated are important to them. Design the activity so that the students can follow the same process for a search in each unit to provide many opportunities for practice. A set of activities that can serve as a guide to designing the activity for your class, represented by the mnemonic S-E-A-R-C-H, will be described in a little bit. Finally, as the need arises, teach mini-lessons that are needed to complete the activity. The mini-lessons can be on vocabulary or grammar needed for the topic or on a digital skill such as how to identify an advertisement in a search result. A list of helpful online resources is included at the end of this unit.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Basic principles:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Identify a related Internet search activity for each unit.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Position technology as a tool to complete the project or answer the question, not the goal itself.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Design the Internet search activity to be similar for each unit to provide many opportunities for practice with increasing independence.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Teach mini-lessons on the digital skills on a just­-in-­time basis, as they are needed, to accomplish the task. (A list of resources is at the end of this unit, and resources are embedded throughout.)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1907">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798423</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1908">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798423</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="946">
+        <prevpageid>945</prevpageid>
+        <nextpageid>947</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454798556</timecreated>
+        <timemodified>0</timemodified>
+        <title>Overview of an Integration Approach 2</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;When integrating a new digital activity into your class, find out what students already know and do.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make an “I can __” list. Depending on the level of your class, present this activity as a whole class discussion or as an information grid activity in which students ask one another. Be sure to generate ideas from students and make your own list.&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5"&gt;&lt;colgroup&gt;&lt;col width="336px" /&gt;&lt;col width="145px" /&gt;&lt;col width="126px" /&gt;&lt;col width="152px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="border-color: #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can use the Internet to . . .&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border-color: #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;On my computer&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border-color: #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;On my phone&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th style="border-color: #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;On another device&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Find a translation of an English word.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select a class that I want to take.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Find an address or a map.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Communicate with my child’s teacher or school.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Find recipes.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Find out how to spell a new word.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Compare prices on items I want to buy.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Get an answer to a medical question.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Other: _________________________&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="col"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1909">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798556</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1910">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798556</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="947">
+        <prevpageid>946</prevpageid>
+        <nextpageid>948</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454798685</timecreated>
+        <timemodified>1457726310</timemodified>
+        <title>Finding Information: Searching Online</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-26.mp3"&gt;ELL_Mod2_U3_Slide-26.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Henry created a mnemonic device to remember the process for finding and evaluating information online. It is S–E–A–R–C–H, search. The “S” is for “set a purpose for searching.” The “E” is for “employ effective search strategies.” The “A” is for “analyze search engine results.” The “R” is for “read critically and synthesize information.” The “C” is for “cite your sources.” The “H” is for the question, “How successful was your search?” Searching online is likely to be a new type of task for your adult English language learning students, and some of the steps involved make cultural and linguistic assumptions, including the idea that taking a critical perspective is appropriate.&lt;/p&gt;
+&lt;p&gt;To begin learning the new skill of searching, start with a topic and language that are very familiar to your adult English language learning students. Especially with low-level ELLs, consider starting with a search that the students already know the answer to. When teaching a new skill, the language used and the topic should be well known so that the students’ focus is on the new skill: how to find and evaluate information online.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/search.png" width="350" height="452" alt="decorative" style="float: right; margin: 10px;" /&gt;In the article “SEARCHing for an Answer: The Critical Role of New Literacies While Reading on the Internet,” the author (Henry, 2006) presents a mnemonic device for remembering the strategies to use when searching for information. The mnemonic is to help both students and teachers remember the strategies.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1911">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798685</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1912">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798685</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="948">
+        <prevpageid>947</prevpageid>
+        <nextpageid>949</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454798776</timecreated>
+        <timemodified>0</timemodified>
+        <title>S  E  A  R  C  H Set a purpose for searching</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/s.png" width="250" height="323" alt="decorative" style="float: right; margin: 10px;" /&gt;Help students learn to narrow a topic by identifying a purpose or goal for searching. The purpose or goal will closely relate to the topic, problem, or project that is the focus of the unit. You might use guiding questions, such as&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What do I need to know to accomplish this task?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What will I do with this information?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You might encourage the students to start with an inquiry, such as&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Where is the nearest bank?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What is asthma?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;When is the end of the school year at my child’s school? &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1913">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798776</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1914">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798776</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="949">
+        <prevpageid>948</prevpageid>
+        <nextpageid>950</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454798972</timecreated>
+        <timemodified>1457726526</timemodified>
+        <title>S  E  A  R  C  H Employ effective search strategies</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio: &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-28.mp3"&gt;ELL_Mod2_U3_Slide-28.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Employing effective search strategies is an important skill in finding and evaluating information online. Just like with prereading strategies, effective search strategies consistently compare what is already known to the information found. Adult ELLs can’t rely on only nuances of language and must also use their funds of knowledge in their search strategies. For example, in a low-level class on the topic of shopping or consumerism, an appropriate search would be to find the prices of things that the students already buy at stores that they are familiar with. By using information that is already familiar (the cost of the item) and language that is already familiar (the name of the item, the name of the stores, prices), the students can focus on the new task-the Internet search. In the structure of the activity, be sure to model the strategy of comparing information that is discovered to what the students already know. This works toward the skill of critically evaluating information found online.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Similar to pre­reading strategies, effective online search strategies start with what students already know. This is helpful because it&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;reviews vocabulary that might be encountered,&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;supports purpose in the search,&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;reminds students of prior knowledge that new information can be compared against, and&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;models an effective strategy.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; One strategy to help students think about what they know is to use a KWL Chart, shown below. &lt;/span&gt;&lt;/p&gt;
+&lt;table border="1" cellpadding="5" cellspacing="5" style="width: 570px; border: 1px solid #000000;" align="center"&gt;&lt;colgroup&gt;&lt;col width="190" span="3" /&gt; &lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr height="28"&gt;&lt;th align="center" valign="top" style="border-color: #000000;" scope="col"&gt;
+&lt;p&gt;What I &lt;span style="text-decoration: underline;"&gt;K&lt;/span&gt;now&lt;/p&gt;
+&lt;/th&gt;&lt;th align="center" valign="top" style="border-color: #000000;" scope="col"&gt;
+&lt;p&gt;What I &lt;span style="text-decoration: underline;"&gt;W&lt;/span&gt;ant to Know&lt;/p&gt;
+&lt;/th&gt;&lt;th align="center" valign="top" style="border-color: #000000;" scope="col"&gt;
+&lt;p&gt;What I &lt;span style="text-decoration: underline;"&gt;L&lt;/span&gt;earned&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr height="136"&gt;
+&lt;td valign="top" style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What I usually pay for [favorite item] ______&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top" style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What does [favorite item] cost at stores nearby?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top" style="border: 1px solid #000000;" scope="col"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Store 1: ____&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Store 2: ____&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Store 3: ____&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;How does this compare with what I usually pay?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1915">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1916">
+            <jumpto>950</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Exploration Activity for Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1921">
+            <jumpto>951</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454798972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Exploration Activity for Teachers</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="950">
+        <prevpageid>949</prevpageid>
+        <nextpageid>951</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454799520</timecreated>
+        <timemodified>1470271297</timemodified>
+        <title>Exploration Activity: Administrators</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Here are four different resources about searching on the Internet that can help you know more about teaching students to do effective online searches. Look at one of these sources—or all of them. Bookmark the useful resources on your social bookmarking site, or &lt;span&gt;make a note of them.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Think about the information and resources as they relate to what teachers need to do. Think about the professional development that could support integrating Internet searching instruction into your programs.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;All About Online Search and Google Search Tips&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;Two short modules (be sure to watch the videos!) by GCFLearnFree.org: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.gcflearnfree.org/digitalskills/searchbetter" title="Search Better" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://www.gcflearnfree.org/ digitalskills/searchbetter &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Teach Your Students to Google&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;An article on searching with Google specifically: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.eschoolnews.com/2014/11/24/google-like-pro-678/" title="Searching with Google" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://www.eschoolnews.com/ 2014/11/24/google-like-pro-678/ &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span color="#ffffff" size="3" style="color: #ffffff; font-size: medium;"&gt;&lt;b&gt;Effective Internet Searching&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;A blog on slightly more advanced search tips: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://techtipsforteachers.weebly.com/blog/effective-internet-searching" title="Effective Searching" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://techtipsforteachers.weebly.com/ blog/effective-internet-searching&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Find information&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;A website with more advanced information and literacy strategies (be sure to read the linked sections and watch the videos): &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.learnthenet.com/learn-to-search/" title="Effective Searching" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt; http://www.learnthenet.com/learn-to-search/&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1917">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454799520</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1918">
+            <jumpto>952</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454799520</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="951">
+        <prevpageid>950</prevpageid>
+        <nextpageid>952</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454799611</timecreated>
+        <timemodified>1470271351</timemodified>
+        <title>Exploration Activity: Teachers</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Here are four different resources about searching on the Internet that can help you to know more about teaching students to do effective online searches. Look at one of these sources—or all of them. Bookmark the useful resources on your social bookmarking site, or make a note of them. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Think about the information and resources to determine how they may be useful to you and your students.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;All About Online Search and Google Search Tips&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;Two short modules (be sure to watch the videos!) by GCFLearnFree.org: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.gcflearnfree.org/digitalskills/searchbetter" title="Search Better" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://www.gcflearnfree.org/ digitalskills/searchbetter &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Teach Your Students to Google&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;An article on searching with Google specifically: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.eschoolnews.com/2014/11/24/google-like-pro-678/" title="Searching with Google" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://www.eschoolnews.com/ 2014/11/24/google-like-pro-678/ &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span color="#ffffff" size="3" style="color: #ffffff; font-size: medium;"&gt;&lt;b&gt;Effective Internet Searching&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;A blog on slightly more advanced search tips: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://techtipsforteachers.weebly.com/blog/effective-internet-searching" title="Effective Searching" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://techtipsforteachers.weebly.com/ blog/effective-internet-searching&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Find information&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;A website with more advanced information and literacy strategies (be sure to read the linked sections and watch the videos): &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.learnthenet.com/learn-to-search/" title="Effective Searching" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt; http://www.learnthenet.com/learn-to-search/&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1919">
+            <jumpto>949</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454799611</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1920">
+            <jumpto>952</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454799611</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="952">
+        <prevpageid>951</prevpageid>
+        <nextpageid>953</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459908151</timecreated>
+        <timemodified>1459957672</timemodified>
+        <title>Reflective Activity</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Consider the questions related to the option that you selected. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What resource(s) did you select?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How might each resource be useful to you in your instructional planning?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How could each resource be helpful to use with students (or not)?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1922">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908151</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1923">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908151</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="953">
+        <prevpageid>952</prevpageid>
+        <nextpageid>954</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459908395</timecreated>
+        <timemodified>0</timemodified>
+        <title>Things to Think About</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-36.mp3"&gt;ELL_Mod2_U3_Slide-36.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you move forward think about two things. First, think about what you have learned about strategies that are important in finding and evaluating information online and how you might incorporate them into a search activity that your students might do. Second, think about the resources that you have explored and whether or not you can use any of these resources with your students—many of the resources have visual and auditory elements that make them more effective than plain text for adult ELLs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000044836024_HiRes.jpg" width="203" height="179" style="float: right; margin: 5px;" /&gt;As you move forward, think about the following questions:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; What are the strategies that I have learned so far?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; What resources will be useful with my adult English language learning students?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1924">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908395</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1925">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908395</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="954">
+        <prevpageid>953</prevpageid>
+        <nextpageid>955</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459908609</timecreated>
+        <timemodified>1497277626</timemodified>
+        <title>S  E  A  R  C  H Analyze search engine results</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-37.mp3"&gt;ELL_Mod2_U3_Slide-37.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;New and inexperienced Internet searchers may be tempted to try to read every word of the search results summary or select the first several results to read carefully, without questioning the selection. Neither is an effective strategy. Adult English language learners may come from educational, linguistic, or cultural backgrounds where analyzing information with a critical perspective is not common.&lt;/p&gt;
+&lt;p&gt;Analyzing the search engine results is part of the critical thinking skills used in searching for information on the Internet. At a minimum, students need to be able to recognize results that are advertisements, fast facts, and results in different formats, such as maps. Some English language learners may find it helpful to look at results in image form to pick out results for closer reading. Model how you analyze search engine results by talking through your responses to the results of a search on a topic that is well known to you and to your students, using language that they know well. The point is to model the analysis, not to teach new language in the process. You want to reduce barriers to the students’ understanding. Additional helpful information can be found in GCFLearnFree.org® Google Search Tips. Analyzing search engine results takes considerable practice, so it is important to integrate online searching as a routine activity in every unit. More advanced English language learners might enjoy the A Google a Day site, which has a new "puzzle" each day that can be solved by conducting a Google search.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;New and inexperienced Internet searchers may be tempted to try to read every word of the search results summary or select the first several results to read carefully, without questioning the selection.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs need to be able to recognize results that are &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;advertisements or sponsored content;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;fast facts; and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;results in different formats, such as maps.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Some English language learners may find it helpful to look at results in image form to pick out results for closer reading.   &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Additional helpful information can be found in &lt;a href="https://www.gcflearnfree.org/searchbetter/google-search-tips/1/" title="Google Search Tips" target="_blank"&gt;GCFLearnFree.org&lt;/a&gt;® Google Search Tips.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;More advanced English language learners might enjoy the &lt;a href="http://www.agoogleaday.com" title="A Google a Day" target="_blank"&gt;A Google a Day&lt;/a&gt; site, which has a new "puzzle" each day that can be solved by conducting a Google search.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1926">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1927">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908609</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="955">
+        <prevpageid>954</prevpageid>
+        <nextpageid>956</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459908772</timecreated>
+        <timemodified>1497277365</timemodified>
+        <title>Reading a Web Page</title>
+        <contents>&lt;p&gt;&lt;object align="right" hspace="10" vspace="10" width="560" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/Iln9oG8Rsig?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="560" height="315" src="https://www.youtube.com/v/Iln9oG8Rsig?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 19.6959991455078px;"&gt;GCFLearnFree.org® &lt;/span&gt;&lt;a href="http://www.gcflearnfree.org/" title="GCF Learn Free" target="_blank" style="line-height: 19.6959991455078px;"&gt;http://www.gcflearnfree.org/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Once several search results have been selected, it is time for a close reading of those resources.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;English language learners may initially find it difficult to identify website content in a busy web page with advertisements and navigation taking up a good portion of the page.   &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Watch the 3 minute video from GCFLearnFree.org as it explains the different parts of a web page and where the content is.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span id="docs-internal-guid-94b6ffc5-3892-8641-46ed-7a0d0b131968"&gt;To read the full module go to &lt;a href="https://www.gcflearnfree.org/searchbetter/"&gt;https://www.gcflearnfree.org/searchbetter/&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1928">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1929">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459908772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="956">
+        <prevpageid>955</prevpageid>
+        <nextpageid>957</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459909067</timecreated>
+        <timemodified>0</timemodified>
+        <title>S E A R C H  Read critically and synthesize information</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-39.mp3"&gt;ELL_Mod2_U3_Slide-39.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Information on the Internet may be posted by people with an intent to inform, persuade, sell, and demonstrate, as well as to mislead. Anyone can put anything online. Because this is true, critical reading is an essential strategy when searching for information on the Internet. Critical reading involves being a healthy skeptic and answering key questions about the information and its sources in four key areas: relevance, accuracy, bias or perspective, and reliability. Kathy Schrock has created a reproducible with key questions in these areas; see the image on the right side of your screen). The depth to which you can pursue these questions depends on the level of your students and their experience with the Internet, among other things. Since critical evaluation is unfamiliar to many adult English language learners, it is important to model it carefully and often as well as to discuss it explicitly. Critical reading of information is a skill that takes practice.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="1" cellpadding="5" cellspacing="5" align="right" style="border-color: #19568b; border-width: 1px; ; width: 25%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;The Five W's of Web Site Evaluation&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Who&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;Who wrote the pages and are they an expert?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt; Is a biography of the author included?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;How can I find out more about the author?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;What&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;What does the author say is the purpose of the site?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;What else might the author have in mind for the site?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;What makes the site easy to use?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;What information is included and does this information differ from other sites?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;When&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;When was the site create?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;When was the site last updated?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Where&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;Where does the information come from?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;Where can I look to find out more about the sponsor of the site?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt;Why&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;Why is this information useful for my purpose?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;Why should I use the information?&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: small;"&gt;Why is this page better than another?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;©2001-2009 Kathy Schrock.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;Page may be reproduced for classroom use.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;Bookmark created by Kim Simonis.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Information on the Internet may be posted by people with an intent to inform, persuade, sell, and demonstrate, as well as to mislead. Anyone can put anything online. Because this is true, critical reading is an essential strategy when searching for information on the Internet.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Critical reading involves being a healthy skeptic and answering key questions about the information and its sources in four key areas:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; relevance, &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; accuracy, &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; bias or perspective, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; reliability.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Kathy Schrock has created &lt;a href="http://www.schrockguide.net/uploads/3/9/2/2/392267/5ws.pdf" title="Reproducible graphic" target="_blank"&gt;a reproducible&lt;/a&gt;, shown to the right, with key questions in these areas.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Table adapted from Kathy Schrock’s Guide to Everything “Critical Evaluation of Information” at&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;http://www.schrockguide.net/critical-evaluation.html&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1930">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909067</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1931">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909067</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="957">
+        <prevpageid>956</prevpageid>
+        <nextpageid>958</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459909222</timecreated>
+        <timemodified>0</timemodified>
+        <title>Read Critically and Synthesize Information: Additional Resources</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Here are two resources that have valuable information about reading critically and synthesizing information. Both provide information on this topic that is readily adaptable to adult English language learners. The Edutopia Blog by Julie Coiro is written about adolescents, and the GCFLearnFree.org module is created for adult learners. Both address how to ask critical questions, which is so important (and difficult) for adult ELLs to learn. &lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="50%" /&gt;&lt;col width="50%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Edutopia Blog&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Although the Edutopia blog is written about adolescents, it is applicable to adult English language learners as well. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;“Teaching Adolescents How To Evaluate the Quality of Online Information” (Coiro, 2014) &lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.edutopia.org/blog/evaluating-quality-of-online-info-julie-coiro" title="Evaluating quality of online information" target="_blank"&gt;&lt;span style="color: #ffffff; text-decoration: underline;"&gt;http://www.edutopia.org/blog/evaluating-quality-of-online-info-julie-coiro &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;GCFLearnFree.org Module&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;This GCFLearnFree.org module is part of the Search Better series.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;How to judge online information: &lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.gcflearnfree.org/digitalskills/searchbetter/judging-online-information" title="Judging Online Information" target="_blank"&gt;&lt;span style="color: #ffffff; text-decoration: underline;"&gt;http://www.gcflearnfree.org/digitalskills/searchbetter/judging-online-information &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1932">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909222</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1933">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909222</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="958">
+        <prevpageid>957</prevpageid>
+        <nextpageid>959</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459909472</timecreated>
+        <timemodified>1459957954</timemodified>
+        <title>S  E  A  R  C  H Cite your source</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-43.mp3"&gt;ELL_Mod2_U3_Slide-43.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;When students organize and communicate information, it is important for them to cite their sources. At every level, students can be exposed to the ideas of intellectual property and questions about “Whose idea is this?” Individual authorship is a concept embedded in culture and varies widely across the world. When integrating finding and evaluating information online into your adult English language acquisition classes, talk about the concept when reading a website. Discuss how ideas about the ownership of ideas and words vary across the world. To learn more about citing sources, intellectual property, and fair use, along with resources for students, see the GCFLearnFree.org® module on copyright and fair use linked from this page.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.gcflearnfree.org/%20" title="source"&gt;&lt;img src="@@PLUGINFILE@@/copyright.png" width="250" height="195" alt="decorative" style="float: right; margin: 10px;" /&gt;&lt;/a&gt;When students organize and communicate information, it is important for them to cite their sources. At every level, students can be exposed to the ideas of intellectual property and questions about “Whose idea is this?”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To learn more about citing sources, intellectual property, and fair use, along with resources for students, see the GCFLearnFree.org® module on &lt;a href="http://www.gcflearnfree.org/useinformationcorrectly/copyright-and-fair-use" title="Copyright and Fair Use Module" target="_blank"&gt;copyright and fair use&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1934">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1935">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909472</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="959">
+        <prevpageid>958</prevpageid>
+        <nextpageid>960</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459909697</timecreated>
+        <timemodified>1459957991</timemodified>
+        <title>S  E  A  R  C  H How successful was your search?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-44.mp3"&gt;ELL_Mod2_U3_Slide-44.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Part of the search process is to evaluate the success of the search. If the search yields the information that is needed, the search is finished. If not, the search needs to be revised. This is a cycle of search, evaluate, and search again until the information is found. A second and equally important part of evaluating the success of the search is about learning. Second language acquisition activities should support metacognitive awareness by asking students to think about their own learning. In the case of Internet searching activities, discuss the things that were easy, the things that were hard, and what helped when the activity was challenging. Have students share ideas with one another. In cases where students share a non-English language, it is very appropriate to use their non-English language in discussions about learning.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/search.png" width="350" height="452" style="float: right; margin: 10px;" alt="" /&gt;The search cycle.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Information found? Search is finished.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Information still needed? Revise search and try again.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Learning from the search process.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What was easy?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What was difficult?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;When the search was challenging, what helped?&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Discussions in proficient languages are appropriate for this purpose.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1936">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1937">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459909697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="960">
+        <prevpageid>959</prevpageid>
+        <nextpageid>961</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459910138</timecreated>
+        <timemodified>1498749377</timemodified>
+        <title>Internet Search Activity</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/32681018_thumbnail.jpg" width="350" height="336" style="float: right; margin: 5px;" /&gt;Design an Internet search activity that is appropriate for your students and that can be incorporated at least once into every unit throughout the class.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Within each unit, the search should align closely with the vocabulary, content, and purpose of the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Design the activity to go through the cycle of SEARCH strategies, at least as far as is appropriate for your students. Students’ English language literacy and basic digital literacy skills will play a role in how much evaluation is possible, but even very low level students can start with searches to answer basic questions.   &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Use mini­-lessons for strategic direct teaching. Resources are listed below.  &lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.rifli.org/find-resources/" title="Presentations on Website Basics" target="_blank"&gt;PowerPoint presentations on website basics&lt;/a&gt; designed for adult learners.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Short video courses about searching online, along with a downloadable PDF handout.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://digitallearn.org/learn/basic-search/what-search-engine" title="What is a search engine video" target="_blank"&gt;&lt;em&gt;What Is a Search Engine?&lt;/em&gt;&lt;/a&gt; (1:30) &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://www.digitallearn.org/courses/basic-search/lessons/basic-search" title="Basic Search Video" target="_blank"&gt;&lt;em&gt;Basic Search&lt;/em&gt;&lt;/a&gt; (3:00) &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://digitallearn.org/learn/basic-search/ads-search-results" title="Ads in Search Results video" target="_blank"&gt;&lt;em&gt;Ads in Search Results&lt;/em&gt;&lt;/a&gt; (:45)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://www.digitallearn.org/courses/basic-search/lessons/review%20" title="Search Review video" target="_blank"&gt;&lt;em&gt;Search Review&lt;/em&gt;&lt;/a&gt; (1:45)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://aps.schoolwires.com/cms/lib2/VA01000586/Centricity/Domain/74/reepcurriculum/techcurriculum.html" title="Technology Curriculum" target="_blank"&gt;REEP technology curriculum&lt;/a&gt; that integrates technology lessons with work­-related lesson plans.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1938">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910138</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1939">
+            <jumpto>961</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910138</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1950">
+            <jumpto>962</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910138</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="961">
+        <prevpageid>960</prevpageid>
+        <nextpageid>962</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459910339</timecreated>
+        <timemodified>1471898062</timemodified>
+        <title>Reflective Activity</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Questions for Reflection&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;What would your Internet search activity look like?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Identify a class into which you would like to integrate an Internet search activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; List three to four lessons or units that you can add the Internet search activity to. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;For each lesson or unit, what is the topic of the search? (For example: On a vacation to Vancouver, BC, find three sightseeing locations that your family or friends would like.)&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Briefly describe each element in SEARCH that you would include in the Internet activity for this class.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How will you ensure that each Internet search activity will give the students increasing independence?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Share your thoughts and your lesson activity with your Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16577#comment-16577" title="ESL Pro Module 2 Unit 3 Discussion Forum"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1940">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1941">
+            <jumpto>963</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910339</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="962">
+        <prevpageid>961</prevpageid>
+        <nextpageid>963</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459910525</timecreated>
+        <timemodified>1459958742</timemodified>
+        <title>Activity for Administrators</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000044836024_HiRes.jpg" width="350" height="308" style="float: right; margin: 5px;" /&gt;Questions for Reflection&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;What supports are required for teachers to be able to integrate Internet search activities into their classrooms? Support can take many forms, including:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;technical support,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;professional development opportunities,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;time for planning,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;available in-class devices,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;opportunities to collaborate with colleagues, and &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;many more kinds of support.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more, read &lt;a href="http://tytonpartners.com/library/learning-for-life-the-opportunity-for-technology-to-transform-adult-education/" title="The Opportunity for Technology To Transform Adult Education" target="_blank"&gt;&lt;em&gt;Learning for Life: The Opportunity for Technology To Transform Adult Education&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1942">
+            <jumpto>960</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910525</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1943">
+            <jumpto>963</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459910525</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="963">
+        <prevpageid>962</prevpageid>
+        <nextpageid>964</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459911038</timecreated>
+        <timemodified>1459957770</timemodified>
+        <title>Final Thoughts</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-47.mp3"&gt;ELL_Mod2_U3_Slide-47.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary style="text-align: left;"&gt;Audio transcript&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;There are benefits to starting with one Internet search activity that you can integrate into several units. For one thing, you will have the opportunity to fine-tune the activity so that it works well with your teaching style. For another, your students will become familiar with the structure of the task, and it will seem easy. Once you have become comfortable integrating a search activity into most of your units, consider expanding to integrate another aspect of digital literacy as a regular part of your class. You might go to Unit 2 of this module, called “Information and Communication Technologies for Language Learning,” and select one of the skills: listening, speaking, reading, writing, or vocabulary. Then, create an activity that you can integrate into multiple units in one of your classes. Perhaps you might create an activity that is for students at the same level, but you might also consider a different level that you teach. This would have the advantage of helping you gain experience integrating digital literacy activities at different levels. Continue integrating new digital literacy activities until digital literacy is part of your students’ everyday experience in class—as it is in their lives.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;There are benefits to starting with one Internet search activity that you can integrate into several units:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; You will have the opportunity to fine-tune the activity so that it works well with your teaching style.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Your students will become familiar with the structure of the task.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Once you have become comfortable integrating a search activity into most of your units, consider expanding to integrate another aspect of digital literacy as a regular part of your class.&lt;/span&gt;&lt;/p&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Go to Unit 2 of this module, “Information and Communication Technologies for Language Learning.” &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select “listening,” “speaking,” “reading,” “writing,” or “vocabulary,” and create an activity that you can integrate into multiple units in one of your classes.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Continue integrating new digital literacy activities until digital literacy is part of your students’ everyday experience in class—as it is in their lives.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1944">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911038</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1945">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911038</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="964">
+        <prevpageid>963</prevpageid>
+        <nextpageid>965</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459911169</timecreated>
+        <timemodified>1498749432</timemodified>
+        <title>Useful Links for Teachers</title>
+        <contents>&lt;h2 dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Resources for Teachers&lt;/span&gt;&lt;/h2&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Here is a list of some useful resources for teachers that have been mentioned in this unit:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Short online multimedia modules by GCF LearnFree.org—“All About Online Search,” “Google Search Tips,” “How to Read a Webpage,” “Judging Online Information,” “Evaluate a Webpage Practice,” and a quiz—at &lt;a href="http://www.gcflearnfree.org/digitalskills/searchbetter/" title="Search Better" target="_blank"&gt;http://www.gcflearnfree.org/digitalskills/searchbetter/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Kathy Schrock’s Guide to Everything “R.I.P.—Respect for Intellectual Property” at &lt;a href="http://www.schrockguide.net/intellectual-property.html" title="Intellectual Property Guide" target="_blank"&gt;http://www.schrockguide.net/intellectual-property.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Copyright and fair use module by GCF LearnFree.org at &lt;a href="http://www.gcflearnfree.org/digitalskills/useinformationcorrectly/copyright-and-fair-use" title="Copyright and Fair Use Guide" target="_blank"&gt;http://www.gcflearnfree.org/digitalskills/useinformationcorrectly/copyright-and-fair-use&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;REEP technology curriculum to integrate technology lessons with work-­related lesson plans at &lt;a href="http://aps.schoolwires.com/cms/lib2/VA01000586/Centricity/Domain/74/reepcurriculum/techcurriculum.html" target="_blank"&gt;http://aps.schoolwires.com/cms/lib2/VA01000586/Centricity/Domain/74/reepcurriculum/techcurriculum.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Resources That Can Be Used With Students&lt;/span&gt;&lt;/h2&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Here are some resources that can be useful with students, depending on their level and background:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Digitallearn.org has short video courses about searching online, along with a PDF downloadable handout:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://digitallearn.org/learn/basic-search/what-search-engine" title="What is a search engine video" target="_blank"&gt;&lt;em&gt;What Is a Search Engine?&lt;/em&gt;&lt;/a&gt; (1:30)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://www.digitallearn.org/courses/basic-search/lessons/basic-search" title="Basic Search Video" target="_blank"&gt;&lt;em&gt;Basic Search&lt;/em&gt;&lt;/a&gt; (3:00)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://digitallearn.org/learn/basic-search/ads-search-results" title="Ads in Search Results video" target="_blank"&gt;&lt;em&gt;Ads in Search Results&lt;/em&gt;&lt;/a&gt; (:45)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://www.digitallearn.org/courses/basic-search/lessons/review" title="Search Review video" target="_blank"&gt;&lt;em&gt;Search Review&lt;/em&gt;&lt;/a&gt; (1:45)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Use mini­-lessons for strategic direct teaching. &lt;span&gt;Although developed to fit into a computer literacy class, these presentations can serve as mini-lessons:&lt;/span&gt;  &lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.rifli.org/find-resources/" title="Presentations on Website Basics" target="_blank"&gt;PowerPoint presentations on website basics&lt;/a&gt; designed for lower level adult learners.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1946">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1947">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="965">
+        <prevpageid>964</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459911410</timecreated>
+        <timemodified>1461891333</timemodified>
+        <title>You have Completed Unit 3</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000000724284_Small.jpg" width="350" height="262" style="float: right; margin: 5px;" /&gt;Congratulations!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;You Have Completed Unit 3.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Thank you for participating in Unit 3 of Integrating Digital Literacy Into Adult English Language Instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;If you would like to learn more about integrating digital literacy into your classes, you can participate in additional units in this module.&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: Digital Literacy in Our lives&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication Technologies for Language Learning&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich Environments&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;A list of further resources is &lt;a href="@@PLUGINFILE@@/M2U3_References_508.docx" title="References"&gt;available here&lt;/a&gt; (&lt;a href="@@PLUGINFILE@@/M2U3_References.pdf" title="PDF version"&gt;printer-friendly version&lt;/a&gt;)&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1948">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911410</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1949">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911410</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

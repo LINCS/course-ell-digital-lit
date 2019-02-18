@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="170" moduleid="5240" modulename="lesson" contextid="16136">
+  <lesson id="170">
+    <course>138</course>
+    <name>Unit 2: Part 2: Focus on the Students</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454773717</timemodified>
+    <pages>
+      <page id="875">
+        <prevpageid>0</prevpageid>
+        <nextpageid>876</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454773801</timecreated>
+        <timemodified>1457711215</timemodified>
+        <title>A Way to Start</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-17.mp3"&gt;ELL_Mod2_U2_Slide-17.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;When you are trying out a new technology in the classroom, try one new thing at a time, and implement that one new thing widely across your class. By adding one new technology element, you can get to know it well and see whether and how student learning is supported in your classroom.&lt;/p&gt;
+&lt;p&gt;Students also benefit when the same type of new activity is performed regularly so that it becomes a predictable part of the classroom routine. Using the same new activity regularly allows multiple opportunities for student practice. Also, once students become familiar with the new activity, they can start to engage in the activity in their own way or for their own purposes.&lt;/p&gt;
+&lt;p&gt;For example, if you find that you want to give your students more opportunities for English listening and work on their listening fluency, introduce podcasts into your teaching. For each lesson that you already have scheduled, identify a podcast that addresses the same topic and uses similar vocabulary. Start by doing this in a way that is comfortable for you (for example, listen together as a class), and then, as students become familiar with accessing and listening to podcasts, increasingly let students listen on their own or in small groups. You might give different groups of students different podcasts to listen to as a way to individualize instruction, or you might allow students to select their own podcasts for listening practice.&lt;/p&gt;
+&lt;p&gt;The next section focuses on the ways in which English language acquisition can be supported through learning digital tasks and vice versa.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For the teacher:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Try one new activity related to technology.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Infuse that one new activity widely into your class.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrate the activity into your regular lessons.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Make it part of your routine.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Students benefit!&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Gives multiple opportunities for practice&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Can be contextualized to the lesson to leverage background knowledge and vocabulary&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Allows students to take ownership&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1770">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454773801</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="876">
+        <prevpageid>875</prevpageid>
+        <nextpageid>877</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454773981</timecreated>
+        <timemodified>1457711274</timemodified>
+        <title>English Language Acquisition</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;English language acquisition is facilitated when&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; students are exposed to large quantities of understandable language;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; students have many opportunities to interact with one another;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; activities are connected to students’ lives, interests, or goals;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; strategies for learning are explicitly taught; and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; the classroom environment is safe and supportive.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more about second language acquisition, check out the 2-hour free online course called ELL-U: &lt;em&gt;Second Language Acquisition&lt;/em&gt; available through the LINCS Learning Portal (&lt;a href="http://lincs.ed.gov" title="LINCS Site" target="_blank"&gt;http://lincs.ed.gov&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;There is also a Center for Adult English Language Acquisition brief by Peyton, Moore, and Young called &lt;em&gt;Evidence-Based, Student-Centered Instructional Practices&lt;/em&gt; that is a good overview. It is available at &lt;a href="http://www.cal.org/caelanetwork/resources/studentcentered.html" title="Evidence-Based, Student-Centered Instructional Practices" target="_blank"&gt;http://www.cal.org/caelanetwork/resources/studentcentered.html&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1771">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454773981</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1772">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454773981</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="877">
+        <prevpageid>876</prevpageid>
+        <nextpageid>878</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454774079</timecreated>
+        <timemodified>1457711323</timemodified>
+        <title>Digital Literacy and English Language Acquisition</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-19.mp3"&gt;ELL_Mod2_U2_Slide-19.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Developing the digital literacy skills to create and communicate information is a perfect match for English language acquisition. The two go hand in hand.&lt;/p&gt;
+&lt;p&gt;Through hands-on experiential use of digital technologies, ELLs can have additional language learning experiences. By having meaningful, contextualized experiences using English in digital settings, ELLs further experience technologies.&lt;/p&gt;
+&lt;p&gt;Digital skills can extend English language acquisition opportunities in many different areas&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs can learn language skills through digital tasks and learn digital skills through language tasks.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Digital environments provide additional opportunities for exposure to language that students understand.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Working collaboratively on digital tasks provides additional opportunities for student interaction.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Digital activities can extend the connection to students’ lives, interests, and goals.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Students can use the Internet in a language in which they are already proficient for learning English vocabulary and developing digital skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Digital learning strategies can be taught alongside other types of learning strategies.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(Quann &amp;amp; Satin, 2000)&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1773">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454774079</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1774">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454774079</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="878">
+        <prevpageid>877</prevpageid>
+        <nextpageid>879</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454774296</timecreated>
+        <timemodified>1457748473</timemodified>
+        <title>Digital Literacy and English Language Acquisition</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-20.mp3"&gt;ELL_Mod2_U2_Slide-20.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Like most adults, adult ELLs learn digital skills best when they are embedded in meaningful, contextualized activities, even at very beginning levels of English language acquisition. Approaches that work well for integrating digital tasks include project-based learning, contextualized instruction, problem-based learning, topic- or theme-based learning, and Learners’ Lives as Curriculum. In each of these approaches, the curriculum consists of units. Units can be a project, an industry, a problem, a topic, or a life event.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Adult ELLS, like most adults, learn basic digital skills better when the tasks are embedded in meaningful, contextualized activities.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Digital skills may be acquired through hands-on discovery learning while in pursuit of a meaningful goal rather than formal teaching of isolated skills, even at very low levels.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Approaches that work well for integrating digital tasks include&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.cal.org/caela/esl_resources/digests/ProjBase.html" title="Project Based Learning Resources" target="_blank"&gt;project-based learning&lt;/a&gt;,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Context_Instruction_508.pdf" title="Issue Brief"&gt;contextualized instruction&lt;/a&gt;,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.cal.org/caela/esl_resources/briefs/problembased.html" title="Problem Based Learning Resources" target="_blank"&gt;problem-based learning&lt;/a&gt;,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;topic- or theme-based learning, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://sites.google.com/site/learnerslives/llc-model" title="Curriculum Model" target="_blank"&gt;Learners’ Lives as Curriculum&lt;/a&gt;&lt;sup&gt;&lt;span style="font-size: x-small;"&gt;©&lt;/span&gt;&lt;/sup&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Each approach consists of a series of units; for example, a project, a problem, a topic, or a life event.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1775">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454774296</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1776">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454774296</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="879">
+        <prevpageid>878</prevpageid>
+        <nextpageid>880</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454774365</timecreated>
+        <timemodified>1457712400</timemodified>
+        <title>Distributed Expertise</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-21.mp3"&gt;ELL_Mod2_U2_Slide-21.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Technology is well suited for students to learn collaboratively and by trial and error, regardless of student level. You might pair a more technology-savvy student with a student who has less experience with technology; you might have a tech-savvy student serve as a roaming helper; you could demonstrate to the whole class and then have individual students or pairs of students do it themselves; or you might have outside volunteer helpers assist as needed. You need to create an environment in which it is expected that everyone will make many mistakes and that those mistakes are an important part of digital literacy.&lt;/p&gt;
+&lt;p&gt;You may wish to use direct teaching in those areas in which students are struggling. You may find that direct teaching in small groups can match instruction to student needs. While students in your class are working in groups or independently, you might work with a small group of students who are struggling with the digital aspects of the task.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology is well suited to learning collaboratively and by trial and error.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are many options for support among the distributed expertise in the class:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Pair a more technology-savvy student with a student who has less experience with technology.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Assign a tech-savvy student to the role of a roaming technology helper. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Model for the class, and then have students do it themselves.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;It is important to create an environment in which it is expected that everyone will make many mistakes and that these mistakes are an important part of digital literacy.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Use direct teaching in the areas where students are struggling.  &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1777">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454774365</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1778">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454774365</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="880">
+        <prevpageid>879</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454775165</timecreated>
+        <timemodified>1548708034</timemodified>
+        <title>Resources for Direct Teaching</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;The Rhode Island Family Literacy Initiative (RIFLI) has developed PowerPoint presentations for direct instruction with low-level adult English language learners.&lt;/span&gt;&lt;/p&gt;
+&lt;!--&lt;p dir="ltr"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Each box is linked to a presentation on the topic.&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 80%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Computer-Basics-Part-1-1.pptx" title="Read more: Computer Basics Part 1" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Computer Basics--Part 1&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Computer-Basics-Part-2-1.pptx" title="Read More: Computer Basics Part 2" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Computer Basics--Part 2&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Website-Basics-Part-1-1.pptx" title="Read More: Website Basics Part 1" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Website Basics--Part 1&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Website-Basics-Part-2-1.pptx" title="Read More: Website Basics Part 2" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Website Basics--Part 2&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Safety-and-Privacy-Slideshow-1-1.pptx" title="Read More: Internet Safety and Privacy" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Internet Safety and Privacy&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Email-Part-1-1.pptx" title="Read More: E-mail Basics Part 1" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;E-Mail Basics--Part 1&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2014/03/RIFLI-Email-Part-2-1-1-sl.pptx" title="Read More: E-mail Basics Part 2" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;E-Mail Basics--Part 2&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2014/03/RIFLI-Microsoft-Word-Part-1-sl.pptx" title="Read More: Microsoft Word Basics Part 1" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Microsoft Word Basics--Part 1&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/find-resources/" title="Associated documents available here" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;additional resources&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;a href="http://www.rifli.org/wp-content/uploads/2015/01/RIFLI-Microsoft-Word-Part-2-1.pptx" title="Read More: Microsoft Word Basics Part 2" target="_blank"&gt;&lt;strong&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Microsoft Word Basics--Part 2&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://www.rifli.org/find-resources/" title="Associated documents available here" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;additional resources&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;//--&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Documents associated with these presentations are available at &lt;a href="https://sites.google.com/ri-iste.org/ri-adulted/tech-hub/digital-literacy-skills-curriculum"&gt;https://sites.google.com/ri-iste.org/ri-adulted/tech-hub/digital-literacy-skills-curriculum&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: small;"&gt;Used with permission. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1779">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454775165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1780">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454775165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

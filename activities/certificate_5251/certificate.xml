@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="101" moduleid="5251" modulename="certificate" contextid="16147">
+  <certificate id="101">
+    <name>Unit 3 Certificate</name>
+    <intro>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You have met the requirements for a Certificate of Completion for this unit. Save or print this certificate for your records.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Click &lt;b&gt;ELLLangNeeds &lt;/b&gt;in the Navigation pane to the left of the screen or in the breadcrumbs near the top of the screen to select your next activity.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs_section</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>1</printdate>
+    <datefmt>2</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>2</printhours>
+    <printteacher>0</printteacher>
+    <customtext>Digital Literacy for ELA: Digital Information</customtext>
+    <printsignature>Cheryl-Keenan.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1451595867</timecreated>
+    <timemodified>1460222145</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

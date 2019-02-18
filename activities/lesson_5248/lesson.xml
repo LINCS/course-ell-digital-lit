@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="173" moduleid="5248" modulename="lesson" contextid="16144">
+  <lesson id="173">
+    <course>138</course>
+    <name>Unit 3: Part 1: Focus on the Teacher/Administrator</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454795652</timemodified>
+    <pages>
+      <page id="935">
+        <prevpageid>0</prevpageid>
+        <nextpageid>936</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454795704</timecreated>
+        <timemodified>1454796497</timemodified>
+        <title>Are you a Teacher or Administrator?</title>
+        <contents>&lt;p&gt;Please select one of the options below to indicate your pathway.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1888">
+            <jumpto>936</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454795704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Teacher</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1889">
+            <jumpto>937</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454795704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrator</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="936">
+        <prevpageid>935</prevpageid>
+        <nextpageid>937</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454796374</timecreated>
+        <timemodified>1498748565</timemodified>
+        <title>Focus on the Teacher</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Start With What You Know&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Just as when you are working with students, it is good to start with what you already know. For this activity, think about your own experiences and where you are on the digital literacy continuum (see Unit 1 for information on the digital literacy continuum). &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are three options to choose from. &lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Option 1&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Choose this option if you are an experienced searcher and are confident about your searching abilities. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; Pick one of the questions below. Use the Internet to find possible answer(s). &lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;1. You want to volunteer in your local community but aren’t sure where to find volunteer opportunities that interest you. You want to see if there is a web page that can help you select a volunteer opportunity from among different options.&lt;/span&gt;&lt;span style="color: #ffffff;"&gt; 2. You want to buy a printer, but you aren’t sure which model is the best value.&lt;/span&gt;&lt;span style="color: #ffffff;"&gt; 3. You want to try a new restaurant in your area, but you aren’t sure which one. You’d like to find a highly ­rated restaurant that isn’t too expensive and isn’t too far away.&lt;/span&gt;&lt;span style="color: #ffffff;"&gt; 4. You have colleagues who really enjoying reading the online blogs of several teachers, and you’d like to do that, too. However, you aren’t sure how to find teachers who blog and who are similarly interested in integrating technology into their teaching.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Option 2&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Choose this option if you regularly use the Internet but aren’t confident about your searching abilities. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;November Learning Web Literacy Quiz &lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Read through the information literacy resources on the November Learning website, and take the web literacy quiz: &lt;a href="http://novemberlearning.com/educational-resources-for-educators/information-literacy-resources/" target="_blank"&gt;http://novemberlearning.com/educational-resources-for-educators/information-literacy-resources/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span color="#ffffff" size="3" style="color: #ffffff; font-size: medium;"&gt;&lt;b&gt;Option 3&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Choose this option if you are not at all familiar with the Internet and searching. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Northstar Digital Literacy Assessment (Module 2) &lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;Take Module 2 (“World Wide Web”) of the Northstar Digital Literacy Assessment. Click this link for access: &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://digitalliteracyassessment.org/" title="Digital Literacy Assessment" target="_blank"&gt;&lt;span style="color: #ffffff;"&gt;http://digitalliteracyassessment.org/ &lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1890">
+            <jumpto>935</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454796374</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1891">
+            <jumpto>938</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454796374</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="937">
+        <prevpageid>936</prevpageid>
+        <nextpageid>938</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454796473</timecreated>
+        <timemodified>1498748712</timemodified>
+        <title>Focus on the Administrator</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Start With What You Know&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;As is true for all adults, it is good to start with what you already know. For this activity, think about your own experiences and where you are on the digital literacy continuum (see Unit 1 for information on the digital literacy continuum). &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are three options to choose from. &lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;col width="25%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Option 1&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Choose this option if you are an experienced searcher and are confident about your searching abilities. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; Pick one of the questions below. Use the Internet to find possible answer(s). &lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="color: #ffffff;"&gt;1. You want to volunteer in your local community but aren’t sure where to find volunteer opportunities that interest you. You want to see if there is a web page that can help you select a volunteer opportunity from among different options.&lt;/span&gt;&lt;span style="color: #ffffff;"&gt; 2. You want to buy a printer, but you aren’t sure which model is the best value.&lt;/span&gt;&lt;span style="color: #ffffff;"&gt; 3. You want to try a new restaurant in your area, but you aren’t sure which one. You’d like to find a highly ­rated restaurant that isn’t too expensive and isn’t too far away.&lt;/span&gt;&lt;span style="color: #ffffff;"&gt; 4. You have colleagues who really enjoying reading the online blogs of several teachers, and you’d like to do that, too. However, you aren’t sure how to find teachers who blog and who are similarly interested in integrating technology into their teaching.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Option 2 &lt;/span&gt;&lt;/strong&gt;&lt;span style="font-size: medium;"&gt;(best for Administrators)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Choose this option if you regularly use the Internet but aren’t confident about your searching abilities. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;November Learning Web Literacy Quiz &lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Read through the information literacy resources on the November Learning website, and take the web literacy quiz: &lt;a href="http://novemberlearning.com/educational-resources-for-educators/information-literacy-resources/" target="_blank"&gt;&lt;span&gt;http://novemberlearning.com/educational-resources-for-educators/information-literacy-resources/&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span color="#ffffff" size="3" style="color: #ffffff; font-size: medium;"&gt;&lt;b&gt;Option 3&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Choose this option if you are not at all familiar with the Internet and searching. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;Northstar Digital Literacy Assessment (Module 2)&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1892">
+            <jumpto>935</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454796473</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1893">
+            <jumpto>939</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454796473</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="938">
+        <prevpageid>937</prevpageid>
+        <nextpageid>939</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459907149</timecreated>
+        <timemodified>1462476166</timemodified>
+        <title>Reflective Activity (instructors)</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make notes for yourself on the questions related to the option that you selected. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Option 1 questions&lt;/strong&gt;: What search strategies did you use? (Which search engine, what search terms, etc.) How did you read the search results? Did you read each thoroughly? If you scanned the results, what were you scanning for? When you carefully read certain results, what were you looking for? On what criteria were you evaluating what you read?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Option 2 questions&lt;/strong&gt;: How many did you get correct? How did you originally learn these things? What information was new to you? Did knowing this new information help you? If so, how did it help you?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Option 3 questions&lt;/strong&gt;: How many did you get correct? How did you originally learn these things? What items were a challenge to you? Would it help you to build this skill? If so, how could you build this skill?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1894">
+            <jumpto>936</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907149</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1895">
+            <jumpto>940</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907149</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="939">
+        <prevpageid>938</prevpageid>
+        <nextpageid>940</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459907363</timecreated>
+        <timemodified>1461603008</timemodified>
+        <title>Reflective Activity (administrators)</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000044836024_HiRes.jpg" width="350" height="308" style="float: right; margin: 5px;" alt="" /&gt;Answer the questions related to the option that you selected. Add a submission below, enter your responses and save.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Option 1 questions&lt;/strong&gt;: What search strategies did you use? (Which search engine, what search terms, etc.) How did you read the search results? Did you read each thoroughly? If you scanned the results, what were you scanning for? When you carefully read certain results, what were you looking for? On what criteria were you evaluating what you read?  What does this tell you about the skills needed for searching and evaluating information online? What support do teachers need to bring this into their classes?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Option 2 questions&lt;/strong&gt;: How many did you get correct? How did you originally learn these things? What information was new to you? Did knowing this new information help you? If so, how did it help you? How can you support teachers as they teach this information?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Option 3 questions&lt;/strong&gt;: How many did you get correct? How did you originally learn these things? What items were a challenge to you? Would it help you to build this skill? If so, how could you build this skill? How can you support teachers to teach this skill?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1896">
+            <jumpto>937</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907363</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1897">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907363</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="940">
+        <prevpageid>939</prevpageid>
+        <nextpageid>941</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459907826</timecreated>
+        <timemodified>0</timemodified>
+        <title>Keep in Mind</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-19.mp3"&gt;ELL_Mod2_U3_Slide-19.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you move through the rest of the unit, keep in mind your experience in this last activity. Think about what you needed to know to be able to do complete the activity. Think about what was difficult and what was not. This is part of your digital information literacy skills. Now, think about the students in your classes and programs. As adult English language learners they bring different funds of knowledge as well as a different set of linguistic and cultural assumptions. In addition, they are having digital experiences in a language in which they are not yet proficient, which adds a level of complexity to digital information literacy.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Your adult English language students, as immigrants and refugees,&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; bring different funds of knowledge to digital information literacy,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; have linguistic and cultural assumptions that are different than yours and different than a website designer’s, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; have the additional complexity of working in a language in which they are not yet proficient.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1898">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907826</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1899">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907826</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="941">
+        <prevpageid>940</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459907947</timecreated>
+        <timemodified>1461891317</timemodified>
+        <title>The Role of Teachers</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U3_Slide-20.mp3"&gt;ELL_Mod2_U3_Slide-20.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Technology brings special challenges for teachers. For one thing, no individual teacher can hope to know everything about the constantly changing nature of technology and the related digital skills. For another, individual students will have expertise in different technologies or applications, enabling the distribution of knowledge throughout the classroom. This can be a very good thing because in this situation, the role of teachers shift: They become orchestrators of learning contexts rather than dispensers of skills, serving to facilitate learning and often learning alongside their students. This is a good match for adult learners in general and adult English language learners in particular, with their variety of life experiences, diverse funds of knowledge, and frequent strengths in experiential learning. As an orchestrator of learning you can help students work collaboratively as well as individually to make their own mistakes and learn from those mistakes. The “creative chaos” that can be part of collaborative and individual learning can be a powerful learning force in a classroom.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology is always evolving, and the digital literacies required for modern life evolve as well.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Students have a variety of experiences using technology in other languages and in English.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Regardless of their English language abilities, some students will have considerable skills in digital literacy, while others will have very little experience or none at all.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Knowledge is distributed through the classroom, and individual students will have expertise in different areas.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Individual teachers can’t know everything.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The teacher moves from the role of dispenser of literacy skills to the orchestrator of learning contexts.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; The teacher orchestrates instructional activities to move students toward working collaboratively and individually, expecting them to make mistakes (and learn from them). &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; “Creative chaos” in a language classroom can be a powerful force.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1900">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907947</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1901">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459907947</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

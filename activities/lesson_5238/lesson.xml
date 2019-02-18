@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="168" moduleid="5238" modulename="lesson" contextid="16134">
+  <lesson id="168">
+    <course>138</course>
+    <name>Unit 2 Overview</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1456592198</timemodified>
+    <pages>
+      <page id="865">
+        <prevpageid>0</prevpageid>
+        <nextpageid>866</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771583</timecreated>
+        <timemodified>1456592027</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This professional development module is part of a suite of related resources. The suite includes the following resources:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Issue Brief &lt;br class="kix-line-break" /&gt;This issue brief presents a broad overview of digital literacy as it relates to adult learners in English language acquisition programs. It is intended to serve as an introduction to the topic of digital literacy that teachers and administrators can use as a springboard to additional in-depth resources.&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Companion Learning Resource&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This digital magazine is a practical, comprehensive instructional resource written specifically for teachers. It provides numerous examples of instructional models, strategies, tools, and tasks for integrating digital literacy into English language instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The issue brief and companion learning resource can be found at &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://lincs.ed.gov/programs/eslpro" title="Learning Resources" target="_blank"&gt;https://lincs.ed.gov/programs/eslpro&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1754">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771583</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="866">
+        <prevpageid>865</prevpageid>
+        <nextpageid>867</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771755</timecreated>
+        <timemodified>1457710372</timemodified>
+        <title>Definition of Digital Literacy</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-4.mp3"&gt;ELL_Mod2_U2_Slide-4.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Digital literacy includes a wide range of skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information, including using basic digital skills in meaningful ways. It also means having the skills, strategies, and dispositions to use those skills to solve problems in increasingly technology-rich environments. These skills are important for participation in 21st century life, including education, work, and community.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="1" cellspacing="1" align="center" style="width: 100%;"&gt;&lt;colgroup&gt;&lt;col width="45%" /&gt;&lt;col width="55%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The term digital literacy means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information (U.S. Department of Education, 2015).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy also means the ability to use those skills to solve problems in the increasingly technology-rich environments of 21st century life (Leu, Kinzer, Coiro, Castek, &amp;amp; Henry, 2013).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/wordle.png" width="210" height="328" alt="Decorative" style="float: right; margin: 10px;" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1755">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1756">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="867">
+        <prevpageid>866</prevpageid>
+        <nextpageid>868</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771853</timecreated>
+        <timemodified>1460217111</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-5.mp3"&gt;ELL_Mod2_U2_Slide-5.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to Unit 2. This unit is part of an online module on integrating digital literacy into adult English language instruction. The four units in this professional development module parallel the definition of digital literacy introduced on the previous slide.&lt;/p&gt;
+&lt;p&gt;Unit 1 focuses on basic digital literacy skills, the importance of digital literacy, and ways to integrate digital literacy meaningfully into instruction. It is a good idea to start with Unit 1 and then move to any of the other units. Unit 2 focuses on information and communication technologies and the ways that creating and communicating information digitally also promotes English language learning. Unit 3 looks at digital information literacy and how to help students learn to find, understand, and critically evaluate information on the Internet. Unit 4 incorporates a wide range of digital literacies into problem-solving in technology-rich environments and is for teachers who have already been integrating digital literacy into their practice and want to take it further.&lt;/p&gt;
+&lt;p&gt;By participating in this unit, teachers, professional developers, and administrators can learn how to use information and communication technologies to enhance opportunities for their adult English language learning students to increase their English language acquisition and their digital literacy skills at the same time.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Welcome to Unit 2 of the module on Integrating Digital Literacy Into Adult English Language Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: Digital Literacy in Our lives&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication Technologies for Language Learning&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Digital Information Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich Environments&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;While this unit can be done on its own, it is best if you first do Unit 1, “Digital Literacy in Our Lives.”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit focuses on ways to integrate technology to both increase language learning and to develop digital literacy, with an emphasis on listening, speaking, reading, writing, and vocabulary in English language acquisition.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1757">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1758">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="868">
+        <prevpageid>867</prevpageid>
+        <nextpageid>869</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771993</timecreated>
+        <timemodified>1460217131</timemodified>
+        <title>Important Points to Remember About Digital Literacy</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-6.mp3"&gt;ELL_Mod2_U2_Slide-6.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In Unit 1, you heard some things about digital literacy that have significant implications for English language instruction. These important points are to remind you about takeaways from Unit 1 that serve as the foundation for this unit.&lt;/p&gt;
+&lt;p&gt;First, it is common for English language learners, or ELLs—and their teachers—to have a variety of experiences with technology and a variety of digital skills.&lt;/p&gt;
+&lt;p&gt;Second, because technology is always evolving, everyone is a learner regarding technology.&lt;/p&gt;
+&lt;p&gt;Third, effective approaches take advantage of what individuals in the group already know and do.&lt;/p&gt;
+&lt;p&gt;Fourth, with technology the teacher is a facilitator and co-learner rather than an expert.&lt;/p&gt;
+&lt;p&gt;Fifth, adult ELLs, like most adults, learn basic digital skills better when the tasks are embedded in meaningful, contextualized classroom activities.&lt;/p&gt;
+&lt;p&gt;Sixth, ELLs can learn language skills through digital tasks and learn digital skills through language tasks.&lt;/p&gt;
+&lt;p&gt;Finally, adult ELLs may acquire digital skills more effectively through hands-on discovery learning while in pursuit of a meaningful goal than through receiving formal teaching of isolated skills.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000025672401_HiRes%20%281%29.jpg" width="350" height="207" alt="" style="float: right; margin: 5px;" /&gt;It is common for English language learners (ELLs)—and their teachers—to have a variety of experiences with technology and a variety of digital skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Because technology is always evolving, everyone is a learner when it comes to technology.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Effective approaches take advantage of what individuals in the group already know and do.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;With technology, the teacher is a facilitator and co-learner rather than an expert.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs, like most adults, learn basic digital skills better when the tasks are embedded in meaningful, contextualized classroom activities.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs can learn language skills through digital tasks and learn digital skills through language tasks.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital skills may be more effectively acquired through hands-on discovery learning while in pursuit of a meaningful goal than through formal teaching of isolated skills, even at very low levels.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1759">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1760">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="869">
+        <prevpageid>868</prevpageid>
+        <nextpageid>870</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772069</timecreated>
+        <timemodified>1457710624</timemodified>
+        <title>Why is Digital Literacy Important to Adult English Language Learners?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-7.mp3"&gt;ELL_Mod2_U2_Slide-7.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you saw in Unit 1, there are many reasons why digital literacy is important to adult ELLs. They include being ready for the workforce, advancing one’s career, being able to participate in education and training, being able to support one’s children’s education, being involved in the community, staying connected with loved ones, and creating new social networks.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are many reasons why digital literacy is important to adult ELLs. A few reasons are:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; workforce readiness,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; career advancement,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; education and training,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; children’s education,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; community involvement,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; staying connected with loved ones, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; creating new social networks.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1761">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772069</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1762">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772069</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="870">
+        <prevpageid>869</prevpageid>
+        <nextpageid>871</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772310</timecreated>
+        <timemodified>1460217154</timemodified>
+        <title>Organization of This Unit</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-8.mp3"&gt;ELL_Mod2_U2_Slide-8.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This unit is organized so that, first, you focus on yourself and the way that you do (or do not) use technology to perform a variety of functions in your own life. From this point, the focus is on these same functions in the lives of English language learners as well as functions in their English language acquisition.&lt;/p&gt;
+&lt;p&gt;This unit will present five different activities, one in each of five major areas: listening, speaking, reading, writing, and vocabulary. You will go through all five sections. In each section, there is an optional exploration activity to build familiarity with a technology or resource. Once you have completed the five areas, you will select one activity that you will actually engage in and report on in this unit. The activities differ regarding student level and experience with technology as well as skill area.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/topics.png" width="350" height="245" alt="A graphic displays five rectangles with the following words: listening, speaking, reading, writing, and vocabulary." style="float: right; margin: 10px;" /&gt;Part 1: “Focus on the Teacher”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;Reflect on your own digital literacy skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 2: “Focus on the Students: English Language Acquisition”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;Five activities, plus optional explorations:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listening&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Speaking&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Reading&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Writing&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Vocabulary learning&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 3: “Integrate Digital Tasks”&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;Final activity: Report on the activity you design to integrate digital literacy into your class, starting with one skill.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1763">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772310</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1764">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772310</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="871">
+        <prevpageid>870</prevpageid>
+        <nextpageid>872</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771474</timecreated>
+        <timemodified>1457710779</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U2_Slide-9.mp3"&gt;ELL_Mod2_U2_Slide-9.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You can earn a certificate of completion by going through the unit, reflecting on your own digital literacy, and then completing one of the activities after reading all five.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000000724284_Small.jpg" width="300" height="224" alt="" style="float: right; margin: 5px;" /&gt;You can earn a certificate of completion for this unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To earn a certificate of completion, you will need to&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;complete a reflective activity on your own digital literacy,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;read through all five skills and associated activities, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;select one activity from the five and complete it.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1752">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1753">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="872">
+        <prevpageid>871</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772723</timecreated>
+        <timemodified>1461891130</timemodified>
+        <title>Digital Literacy and English Language Acquisition</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs in English language acquisition programs have a wide variety of experience with technology. Among other things, they vary in&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; digital literacy in languages in which they are proficient,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; experience with technology in English, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; skills with print literacy.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A student’s experience with technology is influenced by&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; education,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; age,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; income,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; access to the Internet,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; access to devices,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; social networks,&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; family members’ use of technology, and&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; perceived relevance.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For more information on who is not online, watch this short presentation by Lee Rainie, Director of the Pew Research Center’s Internet &amp;amp; American Life Project here: &lt;a href="http://www.pewresearch.org/fact-tank/2013/11/08/whos-not-online-5-factors-tied-to-the-digital-divide/" title="Internet and American Life Project" target="_blank"&gt;http://www.pewresearch.org/fact-tank/2013/11/08/whos-not-online-5-factors-tied-to-the-digital-divide/&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1765">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1766">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

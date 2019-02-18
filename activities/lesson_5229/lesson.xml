@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="164" moduleid="5229" modulename="lesson" contextid="16125">
+  <lesson id="164">
+    <course>138</course>
+    <name>Unit 1: Part 1: Focus on the Teacher</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1460480849</timemodified>
+    <pages>
+      <page id="811">
+        <prevpageid>0</prevpageid>
+        <nextpageid>812</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454598379</timecreated>
+        <timemodified>1456973465</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0170.mp3"&gt;ELL_Mod2_0170.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Let’s start with the digital skills that you have and what you use them for. Then we will talk about the digital literacy needs of adult ELLs before moving on to activities that demonstrate strategies, tools, and guidelines for integrating digital literacy into adult-English-language-acquisition (referred to as ELA) classrooms.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Using technology is increasingly required for nearly all aspects of life, including family, community, education, and work.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1648">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454598379</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="812">
+        <prevpageid>811</prevpageid>
+        <nextpageid>813</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454598496</timecreated>
+        <timemodified>1460654176</timemodified>
+        <title>Unit 1 Activity</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0180_R.mp3"&gt;ELL_Mod2_0180_R.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here is an opportunity for you to think about your own uses of technology. In the box, list all the things that you do that involve technology during the course of 1 week.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Think about all the things that you do in a week that involve using technology, such as the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;E-mailing a friend&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Checking your bank balance&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Filling out an online report at work&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Putting grades into an online system&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Registering for an online course&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Checking traffic&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Looking up an address or phone number&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Finding a restaurant&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Brainstorm&lt;/strong&gt;:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;What is digital literacy in your life? List all the things that you do that involve technology during the course of one week.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1649">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454598496</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1650">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454598496</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="813">
+        <prevpageid>812</prevpageid>
+        <nextpageid>814</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454598660</timecreated>
+        <timemodified>1459904313</timemodified>
+        <title>Digital Literacy</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Think about the skills and the strategies that you used when you completed the brainstorming activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The skills involved both language (speaking, listening, reading, and writing) and the actual technology (e.g., cell phone, computer, Internet).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;As you watch this 3:17-minute video, think about how the ideas in it compare with your own ideas.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="100%" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/ESSIcLO3Z_Q?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="100%" height="315" src="https://www.youtube.com/v/ESSIcLO3Z_Q?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: x-small;"&gt;Used with permission from itfutures. https://www.youtube.com/watch?v=ESSIcLO3Z_Q&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1651">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454598660</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1652">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454598660</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="814">
+        <prevpageid>813</prevpageid>
+        <nextpageid>815</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454602893</timecreated>
+        <timemodified>1456973771</timemodified>
+        <title>What Is Digital Literacy?</title>
+        <contents>&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0190.mp3"&gt;ELL_Mod2_0190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many different definitions of digital literacy exist. A good, basic definition comes from the Institute of Museum and Library Services Act of 2010 and is used in the Workforce Innovations and Opportunity Act: The term digital literacy means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information. In this module, we are adding another element to the definition, which comes from Leu, Kinzer, Coiro, Castek, and Henry (2013). Although this element is interrelated with the other elements of the definition, it is distinct in some important ways. In this module, using the Internet and other technologies to solve problems is the fourth component of the definition of digital literacy. The four elements of digital literacy used in this definition are as follows: use basic skills in meaningful ways, create and communicate information, find and evaluate information, and solve problems in technology-rich environments&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="right" style="width: 30%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th colspan="4" style="border: 1px solid #19568b; text-align: center; background-color: #19568b;" scope="col"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Digital Literacy&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #19568b; text-align: center; background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;Use basic digital skills in meaningful ways.&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b; text-align: center; background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;Create and communicate information.&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b; text-align: center; background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;Find and evaluate information.&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b; text-align: center; background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;Solve problems in technology-rich environments.&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The term &lt;em&gt;digital literacy&lt;/em&gt; means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information (U.S. Department of Education, 2015).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Digital literacy&lt;/em&gt; means having the skills, strategies, and dispositions to use the Internet and other technologies productively in order to generate useful questions to solve problems, locate information, critically evaluate information, synthesize information, and communicate answers and solutions (Leu, Kinzer, Coiro, Castek, &amp;amp; Henry, 2013).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Examples of dispositions:&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;I believe the Internet can help me learn, network with others, and it is useful to my life. (positive)&lt;br /&gt; The Internet is too hard to learn. I do not need it, and I do not have the time to learn to use it. (negative)&lt;br /&gt; With technology, things always change, and I have a variety of general strategies to manage when they do. (positive)&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/To%20Go%20Deeper.jpg" width="50" height="53" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;b&gt;To Go Deeper&lt;/b&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For further reading on the definition of digital literacy and education, see Jacobs (2013). You might want to copy and paste the full reference (below) into the reflective notes. At the end of this unit, you can save the reflective notes to your own computer, e-mail them to yourself, or print a copy. As an alternative, you can immediately copy and paste the reference information to any format.&lt;/p&gt;
+&lt;p&gt;Jacobs, G. E. (2013). Multi, digital or technology? Seeking clarity of teaching through a clarity of terms. Journal of Adolescent &amp;amp; Adult Literacy, 57(2), 99–103.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1653">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454602893</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1654">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454602893</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="815">
+        <prevpageid>814</prevpageid>
+        <nextpageid>816</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454604680</timecreated>
+        <timemodified>1456973890</timemodified>
+        <title>Adult English Language Learners’ Digital Literacy Needs</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are some of the things that ELLs need to do that are increasingly in digital contexts?&lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="10" cellspacing="10" align="center"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Enroll children in school.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;E-mail children's teachers.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Read the parent portal on the school website.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sign up for e-health portal.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Communicate with a health care provider.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Fill out a job application.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Complete an on-the-job safety form.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Take the GED test online.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Find an address on a map or check traffic conditions.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Find the time that the next bus arrives.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Check a bank balance online.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use an automatic teller machine.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Apply for a loan.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Get promotional coupons through text messaging.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0200.mp3"&gt;ELL_Mod2_0200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Regardless of their ability to use technology and their proficiency level in English, the adult ELLs in our classes are faced with the same digital demands that we are. Many of the tasks that they need to accomplish to participate in community life, education, and career occur in technological or digital environments. Undoubtedly, many more tasks that need to be done with technology have arisen since this module was created.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1655">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454604680</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1656">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454604680</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="816">
+        <prevpageid>815</prevpageid>
+        <nextpageid>817</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454605367</timecreated>
+        <timemodified>1460082331</timemodified>
+        <title>The Evolving Meaning of Digital Literacy</title>
+        <contents>&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0210.mp3"&gt;ELL_Mod2_0210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;An important characteristic of digital literacy is that it is always evolving. As technology changes, what we want to do with it changes, as well. For example, the development and the availability of cameras in smartphones influenced the use of cameras in digital communication. E-mailing and texting photos has become widespread, and more functionality was demanded as people wanted to do more diverse and creative things with their photo communications. Apps like Instagram, Snapchat, and Pinterest arose and expanded the use of photos in instant communication.&lt;/p&gt;
+&lt;p&gt;  An implication of the consistent evolution of technology is that everyone is a learner in the realm of technology and digital literacy. An interesting aspect of digital literacy, compared with print literacy, is that our students are likely to know different things about using technology than we do. In the next part of this unit, we will consider that question in more detail, but for now, let us think about what that means for us as teachers.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Because of the rapid and constant evolution of technology, everyone is a learner.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;As technology shifts, the meaning of digital literacy also shifts.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Students and teachers all have different experiences and skills with technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The teacher is more likely to be a facilitator, not an expert.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/To%20Go%20Deeper.jpg" width="50" height="53" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;b&gt;To Go Deeper&lt;/b&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For further reading on the changing nature of literacy, instruction, and assessment, see Leu et al. (2013).&lt;/p&gt;
+&lt;p&gt;  Leu, D. J., Kinzer, C. K., Coiro, J., Castek, J., &amp;amp; Henry, L. A. (2013). New literacies: A dual-level theory of the changing nature of literacy, instruction and assessment. In D. E. Alvermann, N. J. Unrau, &amp;amp; R. B. Ruddell (Eds.), Theoretical models and processes of reading (6th ed., pp. 1150–1181). Newark, DE: International Reading Association.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1657">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454605367</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1658">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454605367</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="817">
+        <prevpageid>816</prevpageid>
+        <nextpageid>818</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454605914</timecreated>
+        <timemodified>1459904445</timemodified>
+        <title>A Continuum of Digital Literacy</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;We might think about digital natives&lt;sup&gt;&lt;span style="font-size: x-small;"&gt;1&lt;/span&gt;&lt;/sup&gt;, those who grow up using technology, as being really good at using technology; on the other hand, digital immigrants, those who learn how to use technology later in life, can really struggle to learn how to do things with technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;But perhaps a better way to think about digital literacy is as a continuum. People fall all along the continuum from not knowing how to turn on a device to being able to send an e-mail or a text message to being able to solve complex problems in a full range of technology-rich environments.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/continuum.png" width="750" height="266" alt="A graphic displays a continuum of digital literacy on a timeline. This includes: power up a device; send a text message; read a webpage; create and save a document; make an audio recording; search for information online; make a multimedia document; collaborate online; solve problems in technology-rich environments; emerging digital literacies." style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;&lt;sup&gt;&lt;span style="font-size: x-small;"&gt;1&lt;/span&gt;&lt;/sup&gt;Digital Natives&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The term digital native is generally credited to Prensky (2001). Prensky, M. (2001). Digital natives, digital immigrants, part 1. On the Horizon, 9(5), 1–6.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1659">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454605914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1660">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454605914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="818">
+        <prevpageid>817</prevpageid>
+        <nextpageid>819</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459822038</timecreated>
+        <timemodified>1457555699</timemodified>
+        <title>Identify ways that you use digital skills in your own life (Required for instructors)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0220.mp3"&gt;ELL_Mod2_0220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;It is valuable to think about your own digital literacy skills and where you are on the digital literacy continuum. All people have gaps in their technology skills, regardless of where they are on the continuum, and this is true for both teachers and students.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/continuum.png" width="750" height="266" alt="A graphic of a continuum of digital literacy should include a very general range of skills to evoke a continuum, including not knowing how to turn on a computer, sending a text, sending an e-mail, searching for information, and solving problems in technology-rich environments." style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Unit Activity 2&lt;/strong&gt;: On the graphic above, note the phrase that best describes your place on the digital literacy continuum.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Where do you place yourself on a continuum of digital literacy?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1661">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459822038</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1662">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459822038</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="819">
+        <prevpageid>818</prevpageid>
+        <nextpageid>820</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459822531</timecreated>
+        <timemodified>0</timemodified>
+        <title>Assessing Digital Literacy</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/Northstar.png" width="306" height="92" style="margin-top: 5px; margin-bottom: 5px;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="http://www.digitalliteracyassessment.org/%20" title="digitalliteracy assessment" target="_blank"&gt;digitalliteracyassessment.org&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;© 2014 Northstar Digital Literacy Project. Published under Creative Commons Attribution-NonCommercial-NoDerivs.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/jump.png" style="margin-top: 5px; margin-bottom: 5px;" width="306" height="112" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;A good way to think about your own digital literacy, as well as to learn more about ways to assess your students' digital literacy, is to take the &lt;a href="http://www.digitalliteracyassessment.org/%20" title="Digitalliteracy Assessment" target="_blank"&gt;Northstar Digital Literacy Assessment&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The Northstar Digital Literacy Project defines the basic skills needed to perform tasks on computers and online. The ability of adults to perform these tasks can be assessed through online, self-guided modules. This free assessment can be taken by anyone, including adult ELLs and teachers.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. Basic computer&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;2. World Wide Web&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;3A. Windows 7&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;3B. Mac OS X&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;4. Using e-mail&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;5. Basic word processing (Microsoft Word)&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;6. Social media&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;7. Microsoft Excel&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" width="75" height="75" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px; text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px; text-align: left;"&gt;&lt;b&gt;Tech Tips&lt;/b&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;As always with links, if this link is broken when you try to access it, use a browser to search. In this case, you would search for “Northstar Digital Literacy Assessment.” If you cannot find it, look for digital literacy assessments. When you are doing this digital literacy module, there may be new and exciting ways to assess digital literacy.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1663">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459822531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1664">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459822531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="820">
+        <prevpageid>819</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459822811</timecreated>
+        <timemodified>1461891000</timemodified>
+        <title>Unit Activity: Northstar Digital Literacy Assessment (Required for instructors)</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Go to the &lt;a href="http://www.digitalliteracyassessment.org/" title="Digital Literacy Assessment" target="_blank"&gt;Northstar Digital Literacy Assessment&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Explore the site to learn more about the assessment and why it was created.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Then select two modules to complete. Each module takes about 10–15 minutes to complete. Be sure to watch the orientation at least once.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;When you are finished with the first module, answer the following questions:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. What is the first module that you completed?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;2. How many did you get correct? Incorrect?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;3. In general, what do you know how to do and what do you still want to learn?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;4. What is the second module that you completed?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;5. How many did you get correct? Incorrect?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;6. How would learning new digital skills help you in your work or life?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231; font-size: medium;"&gt;Consider saving the link to the Northstar Digital Literacy Assessment so that you can use it with your students or share it with colleagues.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;To brush up on your basic digital skills, see the set of six short online classes at &lt;a href="http://digitallearn.org/learn" title="Digital Skills" target="_blank"&gt;http://digitallearn.org/learn&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" width="75" height="75" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;b&gt;Tech Tip&lt;/b&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Where do you keep links that you might want to use later? Consider asking your colleagues what they do, so that you can use a bookmarking resource to share your resources and look at your colleagues’ resources. diigo.com is a popular bookmark-sharing resource, but by the time you read this, there may be newer and better ways to organize and share your online resources.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1665">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459822811</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1666">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459822811</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

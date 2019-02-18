@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="138" contextid="16116">
+  <shortname>ELLDigitalLit</shortname>
+  <fullname>LINCS ESL Pro Module 2: Integrating Digital Literacy into Adult English Language Instruction</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;The self-paced professional development module is designed for teachers and administrators interested in integrating digital literacy in their classes and programs for adult English Language Learners. This module contains 4 units. Estimated completion time for each unit is 2-3 hours. A certificate can be earned for each unit upon completion of the unit activities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Units are:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital Literacy in our Lives&lt;/li&gt;
+&lt;li&gt;Information and Communication Technologies for Language Learning&lt;/li&gt;
+&lt;li&gt;Digital Information Literacy&lt;/li&gt;
+&lt;li&gt;Problem Solving in Technology Rich Environments&lt;/li&gt;
+&lt;/ol&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>0</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1451365200</startdate>
+  <marker>0</marker>
+  <maxbytes>20971520</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme>lincs</theme>
+  <timecreated>1451321486</timecreated>
+  <timemodified>1473980060</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>4</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>5</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="6">
+    <name>English Language Acquisition</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

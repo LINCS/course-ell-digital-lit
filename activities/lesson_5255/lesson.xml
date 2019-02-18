@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="175" moduleid="5255" modulename="lesson" contextid="16151">
+  <lesson id="175">
+    <course>138</course>
+    <name>Unit 4: Part 1: Focus on the Teacher/Administrator</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454772429</timemodified>
+    <pages>
+      <page id="966">
+        <prevpageid>0</prevpageid>
+        <nextpageid>967</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771583</timecreated>
+        <timemodified>0</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This professional development module is part of a suite of related resources.  The suite includes the following resources:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Issue Brief &lt;br class="kix-line-break" /&gt;This issue brief presents a broad overview of digital literacy as it relates to adult learners in English language acquisition programs. It is intended to serve as an introduction to the topic of digital literacy that teachers and administrators can use as a springboard to additional in-depth resources.&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Companion Learning Resource&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This digital magazine is a practical, comprehensive instructional resource written specifically for teachers. It provides numerous examples of instructional models, strategies, tools, and tasks for integrating digital literacy into English language instruction..  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The issue brief and companion learning resource can be found at &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://lincs.ed.gov/programs/eslpro" title="Learning Resources" target="_blank"&gt;https://lincs.ed.gov/programs/eslpro&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1953">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771583</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="967">
+        <prevpageid>966</prevpageid>
+        <nextpageid>968</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771755</timecreated>
+        <timemodified>1457728688</timemodified>
+        <title>Definition of Digital Literacy</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-4.mp3"&gt;ELL_Mod2_U4_Slide-4.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Digital literacy includes a wide range of skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information, including using basic digital skills in meaningful ways. It also means having the skills, strategies, and dispositions to use those skills to solve problems in increasingly technology-rich environments. These skills are important for participation in 21st century life, including education, work, and community.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="3" cellspacing="3"&gt;&lt;colgroup&gt;&lt;col width="45%" /&gt;&lt;col width="55%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The term digital literacy means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information (U.S. Department of Education, 2015).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy also means the ability to use those skills to solve problems in the increasingly technology-rich environments of 21st century life (Leu, Kinzer, Coiro, Castek, &amp;amp; Henry, 2013).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/wordle.png" width="212" height="331" alt="Decorative" style="margin: 10px; float: left;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1954">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1955">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771755</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="968">
+        <prevpageid>967</prevpageid>
+        <nextpageid>969</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771853</timecreated>
+        <timemodified>1460217710</timemodified>
+        <title>Welcome</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-5.mp3"&gt;ELL_Mod2_U4_Slide-5.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to Unit 4! This unit is part of an online module on integrating digital literacy into adult English language instruction. The four units in this professional development module parallel the definition of digital literacy, introduced on the previous page.&lt;/p&gt;
+&lt;p&gt;Unit 1 focuses on basic digital literacy skills, the importance of digital literacy, and ways to integrate digital literacy meaningfully into instruction. It is a good idea to start with Unit 1 and then move to any of the other units. Unit 2 focuses on information and communication technologies and the ways that creating and communicating information digitally also promote English language learning. Unit 3 looks at digital information literacy and ways to help students learn to find, understand, and critically evaluate information on the Internet. Unit 4 (this unit) incorporates a wide range of digital literacies into problem solving in technology-rich environments and is for teachers who have already been integrating digital literacy into their practice and want to take this integration further. By participating in this unit, teachers, professional developers, and administrators can learn ways to use information and communication technologies to enhance opportunities for their adult English-language-learning students to increase their English language acquisition and their digital literacy skills at the same time.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Welcome to Unit 4 of the module on Integrating Digital Literacy Into Adult English Language Instruction! &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: Digital Literacy in Our lives&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication Technologies for Language Learning&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Digital Information Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich Environments&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;While this unit can be done on its own, it is best if you first do Unit 1, “Digital Literacy in Our Lives.”&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1956">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1957">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="969">
+        <prevpageid>968</prevpageid>
+        <nextpageid>970</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771993</timecreated>
+        <timemodified>1460217727</timemodified>
+        <title>Organization of This Unit</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-5B.mp3"&gt;ELL_Mod2_U4_Slide-5B.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The first part of this unit will focus on you, the teacher (or administrator) and will help you to think about the ways that problem solving in technology-rich environments is part of your life, without your having necessarily defined it that way. Throughout this unit, problem solving in technology-rich environments will often be abbreviated as PSTRE. In Part 2, the focus shifts from you to the student, and the ways that problem solving in technology-rich environments is embedded in their lives as adults living in the United States and as English language learners in a new culture. Defining the concept of problem solving and its five components is the focus of this section. In Part 3, the focus shifts to instruction, and the way to design activities that integrate PSTRE into lessons and units.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 1: Focus on the Teacher &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Defining Problem Solving in Technology-Rich Environments (PSTRE) &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Reflective Activity&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 2: Focus on the Student&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Five Steps in Problem Solving&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Part 3: Problem Solving in English Language Acquisition&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;How To Design a PSTRE Activity&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Final Activity&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1958">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1959">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="970">
+        <prevpageid>969</prevpageid>
+        <nextpageid>971</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454771474</timecreated>
+        <timemodified>1458158811</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You can earn a certificate of completion by completing the three unit activities.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To earn a certificate of completion, you will need to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Complete a reflection activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Design a PSTRE activity and describe it.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1951">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1952">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454771474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="971">
+        <prevpageid>970</prevpageid>
+        <nextpageid>972</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772310</timecreated>
+        <timemodified>1460217754</timemodified>
+        <title>Defining Problem Solving in Technology-Rich Environments</title>
+        <contents>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Context&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As you know, technology permeates daily life in the areas of work and education. Increasingly it permeates community and family life, as well. These technology-rich environments are complex and involve problem-solving situations. For example, most information is now available online, but websites are complex; there are many different types, and they can be difficult to understand. Also, online information is nonlinear. You usually need to follow a series of links to find the information that you are seeking, but it may not be clear how that information is related to the previous information or the bigger picture. In addition, tasks done in technology-rich environments are not usually routine. Each task usually requires figuring out something new, which could be where the important information is; which app is needed and how to download it; whether the site is secure enough for personal information, and so forth. Nonroutine tasks are far more difficult than routine tasks that do not require much thought.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology permeates daily life in the areas of work, education, community, and even family.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology-rich environments present complex problem-solving situations for people.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Websites are complex, and there are many different types.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Nonlinear linking of information can be overwhelming.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Most tasks are not handled through simple routines.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1960">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772310</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1961">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772310</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="972">
+        <prevpageid>971</prevpageid>
+        <nextpageid>974</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454772723</timecreated>
+        <timemodified>1460217770</timemodified>
+        <title>Defining Problem Solving in Technology-Rich Environments for Adult ELLs</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-9.mp3"&gt;ELL_Mod2_U4_Slide-9.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Technology-rich environments are especially difficult for adult English language learners to navigate. Technology-rich environments are linguistically complex, as well as technologically complex. For example, English language learners are working in a new language, which makes a complex environment even more difficult. Many English language learners need to manipulate oral, written, and multimedia resources in multiple languages to work through digital environments. English language learners may need to use language support tools, such as page readers, lookup tools in applications, or translation tools. This is part of the way that English language learners use technology to solve problems. In addition, websites are often based on cultural knowledge and make assumptions that are unfamiliar. For example, a job search website categorizes the job search and even jobs into categories that are based on cultural assumptions about the job search process and how jobs are perceived. Making the process even more difficult, reading online requires reading skills and critical approaches that are counter to the cultural and educational experiences of many. PSTRE requires a whole host of digital skills.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology-rich environments are especially difficult for adult English language learners. Technology-rich environments are linguistically complex, as well as technologically complex.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For example:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs are working in a new language, which makes a complex environment even more difficult.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Websites are often based on cultural knowledge and make assumptions that are unfamiliar.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Reading online requires reading skills and critical approaches that are counter to the cultural and educational experiences of many.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1962">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1963">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454772723</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="974">
+        <prevpageid>972</prevpageid>
+        <nextpageid>973</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454880694</timecreated>
+        <timemodified>1457729971</timemodified>
+        <title>Defining PSTRE</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-10.mp3"&gt;ELL_Mod2_U4_Slide-10.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Throughout this module, in the various units, several different aspects of digital literacy have been the focus, including Unit 1, digital literacy in our lives, which focuses on foundational digital skills; Unit 2 which focuses on ways to create and communicate information for language learning; and Unit 3, which focuses on finding and evaluating information. As illustrated in the graphic, PSTRE includes all those elements and adds problem solving. Problem solving and digital literacy come together in PSTRE.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-09-07%20at%2010.50.07%20AM.png" width="350" height="203" alt="PSTRE includes all the elements identified on the page and adds problem solving. Problem solving and digital literacy come together in PSTRE." style="float: right; margin: 10px;" /&gt;Throughout this module, several different aspects of digital literacy have been the focus of individual units:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy in our lives—foundational digital skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create and communicate information for language learning.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Find and evaluate information—Internet searching.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;PSTRE includes all these aspects of digital literacy, as well as the aspect of problem solving.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1964">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454880694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1965">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454880694</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="975">
+        <prevpageid>973</prevpageid>
+        <nextpageid>976</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454883026</timecreated>
+        <timemodified>1457730502</timemodified>
+        <title>Three Dimensions of Problem Solving</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-12.mp3"&gt;ELL_Mod2_U4_Slide-12.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For adult English language learners, problems are not only embedded in technology but are also embedded in a new language and culture. For adult English language learners, there are three dimensions of problem solving—the technological dimension, the cognitive dimension and the multilingual dimension. The multilingual dimension includes the oral, written, and multimedia resources used in multiple languages, including such language support tools as screen readers, application-specific lookup tools, and page translators. One of the ways that English language learners can use technology to solve problems is to employ these types of language support tools.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/Untitled.png" width="700" height="393" alt="The problems encountered in everyday life are made up of technological dimensions, cognitive dimensions and Multilingual dimensions" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For ELLs solving a problem in a technology-rich environment has three dimensions: the technological, the cognitive, and the multilingual dimensions.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adapted from the Program for the International Assessment of Adult Competencies (PIAAC) Expert Working Group in Problem Solving in Technology-Rich Environments (2009), p. 11, and S. Reder, personal communication (2015, May 19).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1968">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454883026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1969">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454883026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="973">
+        <prevpageid>974</prevpageid>
+        <nextpageid>975</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454882819</timecreated>
+        <timemodified>1457730289</timemodified>
+        <title>Problem Solving</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-11.mp3"&gt;ELL_Mod2_U4_Slide-11.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;People encounter problems in day-to-day life in the multiple roles that they play, including roles as workers, citizens, consumers, and family members. Many, if not most, of these problems are embedded in technology of some kind. In general, problem solving in technology-rich environments, or PSTRE, has two dimensions: the technological and the cognitive. The technological dimension includes the devices, applications, and functionalities in which the problem is embedded and through which the problem may be solved. One example is using the Internet to find the address of a pharmacy after a late-night visit to the emergency room, when the prescriptions are electronically delivered to an unfamiliar pharmacy. The cognitive dimension includes the mental structures and the process by which a person solves the problem.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Untitled.png" width="750" height="409" alt="The problem- encountered in everyday life as workers, citizens, consumers, family members, et cetera is made up of a Technological dimention and a Cognitive dimension." style="margin: 5px; display: block;" /&gt;Solving a problem in a technology-rich environment has two dimensions: the technological dimension and the cognitive dimension.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Adapted from the &lt;/span&gt;&lt;span&gt;Programme&lt;/span&gt;&lt;span&gt; for the International Assessment of Adult Competencies (PIAAC) Expert Working Group in Problem Solving in Technology-Rich Environments (2009), p. 11.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1966">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454882819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1967">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454882819</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="976">
+        <prevpageid>975</prevpageid>
+        <nextpageid>977</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454886115</timecreated>
+        <timemodified>1457730786</timemodified>
+        <title>Defining PSTRE: An Example</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-13.mp3"&gt;ELL_Mod2_U4_Slide-13.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;A good way to think about the steps to PSTRE is to work through an example. The Online Job Search Problem is a good example because many of the English language learners in your classes and programs have getting a job or a better job as one of their goals. It is also a focus of 2014 national legislation, the Workforce Innovation and Opportunities Act, which brings a new focus to college and career readiness in adult English language acquisition programs. In this problem, the student wants a new or different job and is looking through online job search websites that have been identified. The student does not want to have to register or pay a fee. The task is to bookmark the sites of interest. The solution involves looking at each identified site to determine whether registration or a fee is required. The student has to monitor where he or she is on the site and navigate around it to find the needed information. In the next pages this example, as well as several others, will be used to illustrate the steps in problem solving.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Online Job Search Problem:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/32681018_thumbnail.jpg" width="250" height="240" alt="" style="float: right; margin: 5px;" /&gt;The Problem: You want a (different) job and are looking through online job search websites. A friend already did a search and identified five websites for you. You don’t want to have to register or pay a fee. Bookmark all the sites that you are interested in.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Solution: At each site you need to determine if there is registration or a fee required. One site clearly requires a registration. Click back to the search results. The next website doesn’t provide information about registration and fees on the first page. You have to look at options to select a link to where you may find that information. Several of the websites are complex and take quite a bit of clicking to find out whether registration or a fee is required. In each case, you have to get all the way back to the search result to go to the next website. Bookmark the job search websites that you select.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adapted from the presentation by Anne Britt, &lt;a href="https://www.youtube.com/watch?v=Ulqirbv9Q5g#t=372%20" title="Video Presentation" target="_blank"&gt;&lt;em&gt;Problem Solving in Technology-Rich Environments&lt;/em&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1970">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454886115</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1971">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454886115</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="977">
+        <prevpageid>976</prevpageid>
+        <nextpageid>978</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454886665</timecreated>
+        <timemodified>0</timemodified>
+        <title>Defining PSTRE: An example</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The difficulty of this problem is influenced by a variety of factors. This problem is somewhat difficult for the following reasons. Click each to learn more. &lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="33%" /&gt;&lt;col width="33%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Goal Setting&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span color="#ffffff" style="color: #ffffff;"&gt;This problem does not require goal setting because the goal was already set (the goal was to bookmark websites that did not require a fee or registration). &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span color="#ffffff" size="3" style="color: #ffffff; font-size: medium;"&gt;&lt;b&gt;Monitoring&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span color="#ffffff" style="color: #ffffff;"&gt;The solution to this problem requires self-organizing (you need to monitor whether each site meets the criteria). You can’t get distracted by other sites that you encounter. &lt;/span&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="http://techtipsforteachers.weebly.com/blog/effective-internet-searching" title="Effective Searching" target="_blank"&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Accessing Information&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span color="#ffffff" style="color: #ffffff;"&gt;Accessing the information requires selecting multiple links and reading a variety of pages to find the information. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Evaluating the Information&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span color="#ffffff" style="color: #ffffff;"&gt;Evaluating the information requires judging each job search website by the criteria (the criteria are that the job search site not require registration or a fee). &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span color="#ffffff" size="3" style="color: #ffffff; font-size: medium;"&gt;&lt;b&gt;Making Use of the Information&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span color="#ffffff" style="color: #ffffff;"&gt;Making use of the information requires using a bookmarking tool to bookmark the sites that meet the criteria. &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #ffffff; background-color: #19568b;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Technology in the Task&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;Read more&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span color="#ffffff" style="color: #ffffff;"&gt;Accomplishing the technological task requires two different types of tools (an Internet browser and an embedded bookmarking tool). &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1972">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454886665</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1973">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454886665</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="978">
+        <prevpageid>977</prevpageid>
+        <nextpageid>979</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454900268</timecreated>
+        <timemodified>1456679040</timemodified>
+        <title>Programme for the International Assessment of Adult Competencies: Results for the United States</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: 13px; line-height: 16.0029983520508px;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;object hspace="10" vspace="10" width="560" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/UgRwgFD-Ynk?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="560" height="315" src="https://www.youtube.com/v/UgRwgFD-Ynk?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;&lt;span style="font-family: arial, helvetica, clean, sans-serif; text-align: -webkit-center;"&gt;U&lt;/span&gt;&lt;span style="line-height: 16.0029983520508px;"&gt;.S. Department of Education. Institute of Education Sciences, National Center for Education Statistics. (2013, November 12).&lt;/span&gt;&lt;span style="line-height: 16.0029983520508px;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;span style="line-height: 16.0029983520508px;"&gt;The Program for the International Assessment of Adult Competencies (PIAAC)—Executive Summary.&lt;/span&gt;&lt;span style="line-height: 16.0029983520508px;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small; line-height: 16.0029983520508px;"&gt;Retrieved from https://www.youtube.com/watch?v=UgRwgFD-Ynk and http://piaacgateway.com/videos/&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;The Programme for the International Assessment of Adult Competencies (PIAAC) is an international survey of adult skills. The assessment measures&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Numeracy &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;PSTRE&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In 2012, the PIAAC survey of adults was conducted in more than 20 countries. The main findings can be found &lt;a href="http://www.oecd.org/site/piaac/Country%20note%20-%20United%20States.pdf" title="OECD PIAAC US" target="_blank"&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The video contains a brief summary of the results for the United States.&lt;/span&gt;&lt;span id="docs-internal-guid-affd960e-3e7f-2de8-53bc-a487a4b30b15"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;img src="@@PLUGINFILE@@/fig.png" width="350" height="326" alt="Percentage of adults ages 16-65 with low literacy skills by country. U.S. is in the middle at 17.5." style="float: left; margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1974">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454900268</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1975">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454900268</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="979">
+        <prevpageid>978</prevpageid>
+        <nextpageid>980</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454900583</timecreated>
+        <timemodified>1457730623</timemodified>
+        <title>Selected PIAAC Findings in the United States</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-23.mp3"&gt;ELL_Mod2_U4_Slide-23.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The Programme for the International Assessment of Adult Competencies (PIAAC) in 2013 included a Survey of Adult Skills that measured, among other things, skills in literacy, numeracy, and problem solving in technology-rich environments, and rated performance in five numbered levels for literacy and numeracy, and in three levels for problem solving. Thirty-six million adults in the United States were found to have low skills, scoring below Level 2 on the literacy assessment. In literacy, numeracy, and problem solving in a technology-rich environment, the United States has a high percentage of low performers: One in six adults has low literacy skills; one third are young; one third are immigrants. Two thirds of low-skilled adults (ages 16–65) are employed, and 40% have earnings in the bottom fifth of the wage spectrum. There are significant consequences for having low skills: Skills strongly affect economic growth, health, and civic participation.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/fig2.png" width="350" height="293" alt="one-third of low-skilled U.S. adults ages 16-65 were immigrants: 2012" style="float: right; margin: 10px;" /&gt;Who has low skills and what are the consequences?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;One is six adults has low literacy skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;One third of low-skilled U.S. adults are young.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;One third are immigrants.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Two thirds are employed.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Forty percent of low-skilled Americans have earnings in the bottom fifth of the wage spectrum.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What adults know and can do—not just how many years of education they complete—strongly affects economic growth.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Americans with low skills face much higher odds of poor health than their counterparts in other industrialized countries.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Low skills damage a sense of community and shared democracy by limiting civic participation. &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Adapted from U.S. Department of Education, Office of Career, Technical, and Adult Education. (2015, February).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more about the PIAAC results in the United States, go to the webpage America’s Adult Basic Skills Gap, at &lt;a href="http://www.digitalpromise.org/blog/entry/americas-adult-skills-gap" title="America's Adult Skills" target="_blank"&gt;http://www.digitalpromise.org/blog/entry/americas-adult-skills-gap&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1976">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454900583</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1977">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454900583</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="980">
+        <prevpageid>979</prevpageid>
+        <nextpageid>981</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454901024</timecreated>
+        <timemodified>1457730871</timemodified>
+        <title>PSTRE in the United States</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-24.mp3"&gt;ELL_Mod2_U4_Slide-24.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The PIAAC measure of PSTRE is not simply a measure of the ability to use technology or have digital skills. PSTRE measures the ability to solve &lt;strong&gt;complex problems&lt;/strong&gt; that are embedded in technology. The PIAAC used computers— not tablets or smart phones—for their PSTRE measurement. One in seven adults did not take the PSTRE assessment, because they had never used a computer, they did not want to use a computer even if they had used one before, or they did not have the basic computer skills needed for doing the PSTRE. Adults in the United States ranked far below the international average and was 18th of 20 countries for PSTRE. A higher proportion of U.S. adults are at the lowest levels of digital problem solving when compared with the international average. In addition, young Americans, aged 16 to 24 years, performed lower in digital problem solving than the international average of their peers, a finding that surprises many.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/fig3.png" width="399" height="322" alt="Three out of 10 adults in the U.S. are likely to have difficulty sorting through emails and organizing them in folders provided for them. In a recent international survey, the U.S. scored near the bottom of rankings in problem solving in digital environments for 18 countries, including Austria, Norway and the Czech Republic." style="float: right; margin: 10px;" /&gt;Adults in the United States ranked 18th of 20 participating countries for PSTRE.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A higher proportion of U.S. adults are at the lowest levels of digital problem solving when compared with the international average.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Young adults (ages 16–24) performed lower than the international average of their peers.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;American Institutes for Research. Problem Solving in Digital Environments infographic. Retrieved from http://piaacgateway.com/s/AIR_PIAAC_Infographic_2.pdf&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;(used with permission).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more about the PIAAC results on PSTRE and how it was assessed, see video at https://www.youtube.com/watch?v=Ulqirbv9Q5g#t=372 (17:54 minutes)&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1978">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454901024</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1979">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454901024</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="981">
+        <prevpageid>980</prevpageid>
+        <nextpageid>982</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454901328</timecreated>
+        <timemodified>1461889811</timemodified>
+        <title>PSTRE in the United States: Immigrants</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-25.mp3"&gt;ELL_Mod2_U4_Slide-25.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Immigrants have lower levels of literacy, numeracy, and PSTRE than their U.S.-born counterparts. Thirty-seven percent of immigrant adults were below the lowest level of PSTRE, as compared with 18% of U.S.-born adults, and 17% of immigrant adults have no computer experience, compared with 3% of U.S.-born adults. It is important for teachers and administrators who work with adult English language learners to know that, while many of them do have some digital literacy, there is a significant proportion who do not. With limited English language and technology skills, it is unlikely that these adult English language learners will be able to acquire digital literacy skills without help.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Immigrants have low levels of proficiency &lt;br class="kix-line-break" /&gt;on most scales, when compared with their &lt;br class="kix-line-break" /&gt;U.S.-born counterparts.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lower levels of literacy, numeracy and  problem solving in technology-rich environments&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;37% of immigrant adults were below the lowest level of PSTRE, as compared with 18% of &lt;br class="kix-line-break" /&gt;U.S.-born adults.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;17% of immigrant adults have no computer experience, compared with 3% of U.S.-born adults.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more about the PIAAC results on PSTRE and how it was assessed, see video at https://www.youtube.com/watch?v=Ulqirbv9Q5g#t=372 (17:54 minutes)&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1980">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454901328</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1981">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454901328</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="982">
+        <prevpageid>981</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459911871</timecreated>
+        <timemodified>1461891348</timemodified>
+        <title>Part 1: Focus on the Teacher/Administrator</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000044836024_HiRes.jpg" width="250" height="220" style="float: right; margin: 5px;" /&gt;To start learning about PSTRE, think about your own experiences. How are your skills for problem solving in technology-rich environments?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are two options for this reflective activity: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. Take the &lt;a href="http://www.oecd.org/skills/ESonline-assessment/" title="Education and Skills Assessment" target="_blank"&gt;Education and Skills Online Assessment&lt;/a&gt;, the assessment used in the PIAAC survey; then report your score in the Reflective Activity page. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Or&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. Describe a situation in which you had a problem in a technology-rich environment. Were you able to solve it? What skills did you use to solve (or not solve) the problem?&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span style="font-size: medium;"&gt;To Keep in Mind &lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now that you have thought about your own experience in PSTRE, keep in mind the skills that you have. As you learn about the components of problem solving, think about those skills and what skills your students will need as they encounter problems in technology-rich environments. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Identifying the skills that your students need will help you to develop a PSTRE activity for your class&lt;/span&gt;&lt;span style="font-size: medium;"&gt;es.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1982">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911871</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1983">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459911871</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

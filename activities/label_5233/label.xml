@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1164" moduleid="5233" modulename="label" contextid="16129">
+  <label id="1164">
+    <name>You will be able to print or save your Certificate...</name>
+    <intro>&lt;p&gt;&lt;span&gt;You will be able to print or save your &lt;strong&gt;Certificate of Completion&lt;/strong&gt; for this unit after you have completed the unit activities.  A link to the certificate will appear below once the requirements have been met for this unit.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1449775316</timemodified>
+  </label>
+</activity>

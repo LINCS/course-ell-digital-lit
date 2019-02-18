@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="166" moduleid="5231" modulename="lesson" contextid="16127">
+  <lesson id="166">
+    <course>138</course>
+    <name>Unit 1: Part 3: Integrate Digital Tasks</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454624565</timemodified>
+    <pages>
+      <page id="831">
+        <prevpageid>0</prevpageid>
+        <nextpageid>832</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454622867</timecreated>
+        <timemodified>1456976305</timemodified>
+        <title>Overview</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0320.mp3"&gt;ELL_Mod2_0320.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For the next part of this unit, we will use a short curriculum on health literacy to demonstrate strategies, tools, and guidelines to integrate digital literacy activities across lessons, units, and curricula. However, the strategies, tools, and guidelines apply equally to any topic or theme.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this part of the unit, we will examine a variety of lessons in a curriculum and identify the points at which the tasks might be undertaken in a digital context. After identifying the digital tasks, we will examine ways in which to incorporate at least one type of digital task across a short curriculum.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;At the end, you will look at a lesson yourself, identify where a digital task is appropriate, and design a digital task to add to the lesson. The final goal is to have at least one digital task to use consistently in each lesson in a unit or course.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1686">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622867</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="832">
+        <prevpageid>831</prevpageid>
+        <nextpageid>833</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454623189</timecreated>
+        <timemodified>1454623616</timemodified>
+        <title>Staying Healthy for Beginners</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="left" style="width: 25%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For this unit, we explore integrating a digital task into a beginning-level curriculum, but the approach described can be integrated into any level of an adult ELA program, depending on the students’ backgrounds and needs. At higher levels, the language will be more complex.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-08-14%20at%203.57.53%20PM.png" width="500" height="180" alt="Screenshot of Healthy Living Table of Contents" style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A health theme was selected to illustrate integrating digital literacy into adult education for this unit. We will be looking at the curriculum titled &lt;em&gt;Staying Healthy for Beginners: An English Learner’s Guide to Health Care and Healthy Living&lt;/em&gt;. This is five-lesson curriculum is designed for high-beginning adult ELLs.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Florida Literacy Coalition, Inc. (2014). &lt;em&gt;Staying healthy for beginners: an English learner’s guide to health care and healthy living&lt;/em&gt;. Orlando, FL: &lt;strong&gt;Florida Department of Education, Division of Career and Adult Education&lt;/strong&gt;. &lt;a href="http://floridaliteracy.org/health_literacy_curriculum.html" title="Health Literacy Curriculum" target="_blank"&gt;http://floridaliteracy.org/health_literacy_curriculum.html &lt;/a&gt;(used with permission).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1687">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454623189</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1688">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454623189</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="833">
+        <prevpageid>832</prevpageid>
+        <nextpageid>834</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454623553</timecreated>
+        <timemodified>1459904897</timemodified>
+        <title>Staying Healthy for Beginners: An English Learner’s Guide to Health Care and Healthy Living </title>
+        <contents>&lt;table border="0" align="right" style="float: right;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/staying_healthy.png" width="258" height="335" alt="A graphic displays a book titled, Staying Health for Beginners. Next to this are the chapters included in the book: Ch.1: Health Care; Ch. 2: Doctors; Ch. 3: Medicine; Ch. 4: Healthy Food; Ch. 5; Staying Healthy; Glossary; and Teacher’s Guide (A LINCS Publication)." style="float: right; margin: 10px;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;caption align="bottom" style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;The &lt;em&gt;Teacher’s Guide&lt;/em&gt; was written by the Florida Literacy Coalition Inc., under subcontract to Kratos Learning, with funding from the U.S. Department of Education, Office of Career, Technical and Adult Education.&lt;/span&gt;&lt;/caption&gt;&lt;/table&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The curriculum and associated materials are available at the Florida Literacy Coalition and in the &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-770" title="LINCS Resource Collection" target="_blank"&gt;LINCS Resource Collection&lt;/a&gt;. The curriculum resources for both teachers and students are freely available online at &lt;a href="http://floridaliteracy.org/health_literacy_curriculum.html" title="Health Literacy Curriculum" target="_blank"&gt;http://floridaliteracy.org/health_literacy_curriculum.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="CM2"&gt;&lt;span style="font-size: xx-small;"&gt;Florida Literacy Coalition, Inc. (2014). &lt;i&gt;Staying healthy for beginners: an English learner’s guide to health care and healthy living&lt;/i&gt;. Orlando, FL: &lt;strong&gt;Florida Department of Education, Division of Career and Adult Education.&lt;/strong&gt; (used with permission).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1689">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454623553</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1690">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454623553</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="834">
+        <prevpageid>833</prevpageid>
+        <nextpageid>835</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454623865</timecreated>
+        <timemodified>1461889700</timemodified>
+        <title>Unit Activity 4, Part 1: Get To Know the Curriculum</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0330.mp3"&gt;ELL_Mod2_0330.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Get to know the &lt;em&gt;Staying Healthy&lt;/em&gt; curriculum by reading the introduction and information for Chapter 1 in the &lt;em&gt;Teacher’s Guide&lt;/em&gt;. In addition, look at Chapter 1 in the &lt;em&gt;Student Book&lt;/em&gt;. Notice that each chapter includes a variety of related activities, which would translate into lessons. The next slide has some questions to think about regarding this &lt;em&gt;Staying Healthy curriculum&lt;/em&gt;. Then read a teacher’s responses to these same questions.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Look at the Teacher’s Guide. Read the foreword, the introduction, and Chapter 1 to get a feel for the way the guide works, what is included, and what is not.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Teacher’s Guide, pp. iii, 1–11:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://lincs.ed.gov/publications/pdf/StayingHealthyTeacherGuide2014.pdf" title="Staying Healthy" target="_blank"&gt;http://lincs.ed.gov/publications/pdf/StayingHealthyTeacherGuide2014.&lt;/a&gt;&lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://lincs.ed.gov/publications/pdf/StayingHealthyTeacherGuide2014.pdf"&gt;pdf&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Chapter 1, Student Resource Book, pp. 1–7: &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://floridaliteracy.org/pdf-docs/ch1healthcare.pdf"&gt;http&lt;/a&gt;&lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;a href="http://floridaliteracy.org/pdf-docs/ch1healthcare.pdf" title="Healthcare" target="_blank"&gt;://floridaliteracy.org/pdf-docs/ch1healthcare.pdf&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Notice that each chapter is a set of related lessons.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1691">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454623865</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1692">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454623865</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="835">
+        <prevpageid>834</prevpageid>
+        <nextpageid>836</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454624544</timecreated>
+        <timemodified>1461889577</timemodified>
+        <title>Question/Response</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 99%;"&gt;
+&lt;tbody&gt;&lt;/tbody&gt;
+&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="33%" /&gt;&lt;col width="33%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/1.png" width="225" height="294" alt="" style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/2.png" width="225" height="171" alt="" style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/3.png" width="225" height="228" alt="" style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;1. What do you like about this chapter?&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;2. In your life, what tasks related to health care are undertaken in a digital environment?&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;3. What activities could be added or adapted so that learners could work on them digitally?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;!--StartFragment--&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Florida Literacy Coalition, Inc. (2014). Staying healthy for beginners: an English learner’s guide to health care and healthy living. Orlando, FL: Florida Department of Education, Division of Career and Adult Education. &lt;span style="text-decoration: underline;"&gt;&lt;a href="http://floridaliteracy.org/health_literacy_curriculum.html"&gt;http://floridaliteracy.org/health_literacy_curriculum.html&lt;/a&gt;&lt;/span&gt; (used with permission)&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1693">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454624544</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1694">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454624544</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="836">
+        <prevpageid>835</prevpageid>
+        <nextpageid>840</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454624832</timecreated>
+        <timemodified>1456589742</timemodified>
+        <title>Question 1</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/1.png" width="250" height="326" alt="decorative - Screenshot of chapter 1" style="margin: 10px;" /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;1. What do you like about this chapter?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;I really like this chapter. It includes explicit vocabulary instruction and activities for oral skills as well as written skills; the activities are scaffolded well. The pictures are clear. Some activities will stretch some learners’ abilities (Maria’s Story), and some are easier (practice on p. 6). The lesson includes extra resources in the Teacher Guide (pp. 7–10).&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;I think that this lesson would work well for many different kinds of students. Depending on the level and how often the class meets, it could take a week or longer.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1695">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454624832</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1701">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454624832</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="840">
+        <prevpageid>836</prevpageid>
+        <nextpageid>838</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454624927</timecreated>
+        <timemodified>1459905162</timemodified>
+        <title>Question 2</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/2.png" width="250" height="190" alt="" style="margin: 10px;" /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. In your life, what tasks related to health care are undertaken in a digital environment? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;Increasingly, I need to fill out forms for my doctor online and communicate with my health care providers by e-mail. Sometimes, I have to order prescription refills online and check my test results online. &lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1696">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454624927</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1702">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454624927</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="841">
+        <prevpageid>837</prevpageid>
+        <nextpageid>842</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459820240</timecreated>
+        <timemodified>1459905766</timemodified>
+        <title>Unit Activity: Forms Part 2</title>
+        <contents>&lt;h3 dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Deliver the Online Form to Your Students &lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/form.png" width="338" height="376" alt="A graphic displays an online form for your students. The form is titled Staying Healthy Chapter 1: Health Care. The form includes the following questions: What is your last name?; What is your first name?; What is your address?; What is your phone number?; What is your email address?; Where  do you go for health care?; and what health insurance do you have? There is a submit button at the bottom of the form. " style="margin: 10px; float: right;" /&gt;Whether students bring their own devices or they are provided in the classroom, a variety of ways exist for you to deliver the online form to your students so that they can fill out the form online.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: If your students have e-mail accounts, e-mail the form to them. This would work in BYOD contexts and in those contexts for which the program provides the devices.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Document link&lt;/strong&gt;: Put a link into a document that is on the desktop of the devices that your students will use. This would work in contexts in which you take your students to a computer lab or contexts with classroom sets of devices.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Write the link&lt;/strong&gt;: This is the least desirable option but can be used if necessary. Pass out small squares of paper on which you have printed the link. Use large print. Ask your students to type the link into a browser.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1705">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1706">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820240</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="839">
+        <prevpageid>838</prevpageid>
+        <nextpageid>837</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454625454</timecreated>
+        <timemodified>1460216985</timemodified>
+        <title>How to Make an Online Form to go with Chapter 1: Health Care</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Watch this screencast to see how to make an online form with the information from Staying Healthy for Beginners, Chapter 1. If you’d like to read the instructions, a print version is available, as well, at the link provided on the screen.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="560" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/jJ4tOzIAoz4?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="560" height="315" src="https://www.youtube.com/v/jJ4tOzIAoz4?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/M2U1_GoogleForm_508.pdf" title="Google Form Directions"&gt;Download directions here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" width="75" height="75" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Tech Tips&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many ways exist for making free online forms. If Google forms are not available to you or if something new and exciting has come along since the creation of this module, feel free to use it. Search for online videos that show you how. Online forms are commonly called online surveys.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1698">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454625454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1699">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454625454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="837">
+        <prevpageid>839</prevpageid>
+        <nextpageid>841</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459820033</timecreated>
+        <timemodified>1460082492</timemodified>
+        <title>Unit Activity: Forms</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Step 1: Following the model demonstrated on the previous page, make an online form to accompany &lt;em&gt;Staying Healthy&lt;/em&gt;, Chapter 1.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Step 2: Look at &lt;a href="http://floridaliteracy.org/pdf-docs/ch2doctors.pdf" title="Chapter 2" target="_blank"&gt;Chapter 2&lt;/a&gt;. The action activity on page 15 lends itself to an online form that you might require students to complete online. Use the same process that you used in Part 2 to create an online form.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" width="75" height="75" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/M2U1_GoogleForm_508.pdf" title="Make a Google Form"&gt;Make a Google Form&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Tech Tips&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;object width="560" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/seBKg-sc5sY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="560" height="315" src="https://www.youtube.com/v/seBKg-sc5sY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1703">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820033</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1704">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820033</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="838">
+        <prevpageid>840</prevpageid>
+        <nextpageid>839</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454625014</timecreated>
+        <timemodified>1460216966</timemodified>
+        <title>Question 3</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 610px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/3.png" width="250" height="254" alt="" style="margin: 10px;" /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What activities could be added or adapted so that learners can work on them digitally?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;I think that I could create an online form that a gives students practice in filling out online forms. It seems to me that the Practice activity on page 6 would lend itself to an easy online form. This is the kind of thing that I have to do online more and more often these days.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1697">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454625014</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1700">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454625014</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="842">
+        <prevpageid>841</prevpageid>
+        <nextpageid>843</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459820614</timecreated>
+        <timemodified>1459905032</timemodified>
+        <title>Create a Form for the Remaining Chapters</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/form2.png" width="388" height="646" alt="A graphic displays an online form for your students. The form is titled Staying Healthy Chapter 1: Health Care. The form includes the following questions: What is your last name?; What is your first name?; What is your address?; What is your phone number?; What is your email address?; Where  do you go for health care?; and what health insurance do you have? There is a submit button at the bottom of the form. " style="margin: 10px; float: right;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;_√_ Ch. 1: Health Care&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;_√_ Ch. 2: Doctors &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;___ Ch. 3: Medicine &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;___ Ch. 4: Health Food&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;___ Ch. 5: Staying Healthy&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Notice that this form has several new formats, including the date and checkbox lists. Make sure that your students are ready for a new form before introducing new types of question formats.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" alt="&amp;quot;&amp;quot;" style="margin: 5px;" width="75" height="75" /&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details style="text-align: left;"&gt;&lt;summary&gt;Tech Tips&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;The &lt;em&gt;&lt;a href="http://lincs.ed.gov/publications/pdf/StayingHealthyTeacherGuide2014.pdf" title="Staying Healthy" target="_blank"&gt;Teacher’s Guide&lt;/a&gt;&lt;/em&gt;&lt;span&gt; includes several PDF forms that can serve as guides for making online forms. Sample medical forms can be found at &lt;/span&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span&gt;&lt;a href="http://lincs.ed.gov/health/10_forms" title="LINCS forms" target="_blank"&gt;http://lincs.ed.gov/health/10_forms&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1707">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820614</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1708">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820614</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="843">
+        <prevpageid>842</prevpageid>
+        <nextpageid>844</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459820987</timecreated>
+        <timemodified>0</timemodified>
+        <title>Sample Digital Tasks for Other Common Adult ELL Class Topics</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0350.mp3"&gt;ELL_Mod2_0350.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here are some examples of digital tasks that can be integrated into common adult ELA program topics. The digital tasks range in level of difficulty and type of classes for which they are appropriate. Integrating online forms is appropriate in almost every topic. In today’s world, online forms exist in almost every area of life. You will want to make special note about high-stakes online forms. Encourage your students to print out these types of forms and work on them offline to ensure accuracy. Help your students understand that it can be difficult to correct errors on high-stakes forms after they have been submitted.&lt;/p&gt;
+&lt;p&gt;In the next pages, a set of guidelines will help you design digital tasks. Digital tasks can be part of every topic that you teach in your adult ELA classes, to help your learners develop digital literacy skills to use in the areas of work, education, family, and more.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" style="width: 100%;"&gt;&lt;colgroup&gt;&lt;col width="115" /&gt; &lt;col width="283" /&gt; &lt;col width="274" /&gt; &lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr height="27"&gt;&lt;th scope="colgroup" style="background-color: #19568b;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Topic or theme&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="colgroup" style="background-color: #19568b;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Digital task&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="colgroup" style="background-color: #19568b;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;English language acquisition focus&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr height="45"&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Children’s education&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;E-mail the teacher&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Use online field trip permission and volunteer applications&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Find information on school website*&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Communicate informally through writing&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Convey personal information&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Scan for information&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="48"&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Employment&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;E-mail cover letter as an attachment&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Use online job application forms&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Search for a job online*&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Communicate formally through writing&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Convey personal information&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read carefully for information&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="47"&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Consumer information&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Use technical support by chat or e-mail&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Complete online forms for product registration or warranty&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Compare products using consumer reviews&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Communicate informally through writing&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read technical questions for understanding&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read for understanding, synthesize&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="32"&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Community&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Locate addresses on map and navigation help&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Find ESL classes available or volunteer opportunities*&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read maps for information&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Scan for information&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr height="80"&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Transportation&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Find local public transportation system and routes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Find bus/train arrival times&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Complete an online credit application for car purchase&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Read maps for information&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Scan for information&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Convey personal information&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span&gt;*Will be discussed in Units 3 and 4&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1709">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820987</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1710">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459820987</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="844">
+        <prevpageid>843</prevpageid>
+        <nextpageid>845</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459821096</timecreated>
+        <timemodified>0</timemodified>
+        <title>What do you and others in your community have to do digitally? </title>
+        <contents>&lt;h3 dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Guidelines for Designing Digital Tasks&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;These guidelines for creating digital tasks apply regardless of the level you teach. From beginning to advanced, all ESL students need the opportunity to engage in language activities in a digital context that approximates what they do (or will) encounter.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For each topic, ask yourself what you and others in your community have to do digitally.&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Chances are good that your students also will have to perform the same tasks digitally. For example, in a unit on education, your students are likely to need to read a school calendar, find the class webpage, e-mail the teacher to communicate, and fill out an online form to volunteer for a field trip. Pick one type of digital task and incorporate it into each lesson in that topic, as you did with online forms in Staying Healthy.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1711">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459821096</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1712">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459821096</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="845">
+        <prevpageid>844</prevpageid>
+        <nextpageid>846</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459821184</timecreated>
+        <timemodified>0</timemodified>
+        <title>Recognize the importance of Routine</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Just as it is important to have routines in the classroom, it also is important to have consistent patterns for the lessons within a unit or a curriculum. Consistent routines make the classroom predictable, so that students’ attention can focus on the new elements, including new information, words, and forms.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select one type of digital task and then do a version of it with each lesson.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Do the same digital task for each chapter (or unit) so that students become more and more familiar with it. For example, start with simple forms and gradually increase the complexity of the form to include different types of responses (e.g., check boxes, fill in the blank).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1713">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459821184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1714">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459821184</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="846">
+        <prevpageid>845</prevpageid>
+        <nextpageid>847</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459823217</timecreated>
+        <timemodified>0</timemodified>
+        <title>Use the Same Language Used in the Chapter or the Lesson</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The digital task should use the same words, phrases, sentences, and questions that are used in the lesson. Only the digital format should be new to the students.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1715">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459823217</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1716">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459823217</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="847">
+        <prevpageid>846</prevpageid>
+        <nextpageid>848</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459823850</timecreated>
+        <timemodified>0</timemodified>
+        <title>Gradually Change the Format of the Task To Look More Like a Real-World Task</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In the case of forms, pay attention to the forms that you fill out online and face to face in your own life. As the forms in your class gradually become more complex, make them look more and more like the forms you see in your own life. Chances are good that your students also will need to fill out these kinds of forms.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1717">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459823850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1718">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459823850</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="848">
+        <prevpageid>847</prevpageid>
+        <nextpageid>849</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459823993</timecreated>
+        <timemodified>0</timemodified>
+        <title>Check In With Your Students</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Do not assume that your students do (or do not) know how to use technology to accomplish the digital task. Check in with them. This also has the advantage of identifying students who have experience with technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-1f744378-3256-399e-44a3-2ced1f2eb8fd" style="font-size: medium;"&gt;Encourage students to share their expertise with technology. Distributed expertise enhances positive interactions to a class community.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1719">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459823993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1720">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459823993</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="849">
+        <prevpageid>848</prevpageid>
+        <nextpageid>850</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459824046</timecreated>
+        <timemodified>0</timemodified>
+        <title>Explain to Your Students That the Digital Task You Are Working on Is Part of Everyday Life</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;It is important for all adults to understand the reasons why they are doing things, especially new and potentially difficult things. Ask your students what they have encountered in their lives. Use examples from your life and the lives of others in your community to show your students the relevance of the digital tasks you are doing. Relevance is very important for adult learners.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1721">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824046</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1722">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824046</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="850">
+        <prevpageid>849</prevpageid>
+        <nextpageid>851</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459824152</timecreated>
+        <timemodified>0</timemodified>
+        <title>Provide Many Opportunities to Practice</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In the case of online forms, students can access the form as many times as they like. If they have access to a device with an Internet connection, they can practice at home, at the library, or wherever they access the Internet. Whatever digital task you select, provide many opportunities for practice.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1723">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1724">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824152</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="851">
+        <prevpageid>850</prevpageid>
+        <nextpageid>852</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459824323</timecreated>
+        <timemodified>0</timemodified>
+        <title>Expect That There Will Be Problems</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Because of the complexity of technology and adults’ varying comfort with it, there will always be problems. Expect them, and teach your students to expect them, as well.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Together with your students, learn a variety of strategies to solve problems. For example, look at all the menu options to see if something sounds potentially helpful, use an Internet browser and the search bar to ask a question, click on all the different icons on the page, and so forth.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Use problems as learning experiences. Of course, there may be a student in your class who knows possible solutions and can be the expert for a specific problem!&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1725">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824323</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1726">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824323</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="852">
+        <prevpageid>851</prevpageid>
+        <nextpageid>853</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459824406</timecreated>
+        <timemodified>0</timemodified>
+        <title>Take Advantage of Expertise in the Classroom</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;We are all learners in the rapidly-changing digital environment. In your class planning, take advantage of the expertise of your students. It is a good learning experience for them to be an expert on things that the teacher is not an expert in.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;When there is digital expertise among the students in your class, have the expert student(s) perform a demonstration for the class or serve as a roving helper, or you can pair up more expert learners with learners who are new to the technology skill. There are many ways to utilize students who are more expert with digital skills, and it benefits all the students to see that expertise.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1727">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1728">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824406</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="853">
+        <prevpageid>852</prevpageid>
+        <nextpageid>854</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459824705</timecreated>
+        <timemodified>0</timemodified>
+        <title>Unit Activity</title>
+        <contents>&lt;table border="0" align="right" style="width: 30%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/staying_healthy.png" width="225" height="292" alt="Cover image of Staying Healthy text" style="margin: 10px auto; display: block;" /&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Florida Literacy Coalition, Inc. (2014). &lt;/span&gt;&lt;span&gt;Staying healthy for beginners: an English learner’s guide to health care and healthy living&lt;/span&gt;&lt;span&gt;. Orlando, FL: &lt;/span&gt;&lt;span&gt;Florida Department of Education, Division of Career and Adult Education. &lt;/span&gt;&lt;a href="http://floridaliteracy.org/health_literacy_curriculum.html" title="Health Literacy Curriculum" target="_blank"&gt;&lt;span&gt;http://floridaliteracy.org/health_literacy_curriculum.html &lt;/span&gt;&lt;/a&gt;&lt;span&gt;(used with permission).&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;For this activity, we will use the same curriculum that was used in Unit Activity 4: &lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Staying Healthy for Beginners: An English Learner’s Guide to Health Care and Healthy Living.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;We are using a health literacy curriculum for this demonstration, but you can use any curriculum to complete Unit Activity 5.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Although the examples that we are using are for beginning and high-beginning adult ELA classes, you can use the same process for higher level classes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Even though the process is the same, the language of the task (e.g., online form) will be appropriate to the level of the class.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1729">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824705</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1730">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824705</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="854">
+        <prevpageid>853</prevpageid>
+        <nextpageid>855</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459824922</timecreated>
+        <timemodified>0</timemodified>
+        <title>Identify a Second Digital Task</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0360.mp3"&gt;ELL_Mod2_0360.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Earlier in this unit, we identified a variety of tasks related to health care that were often handled digitally. The tasks included filling out online medical forms, ordering prescription refills, checking test results, and communicating with health care providers. Getting information about health issues, information about prescriptions, and information explaining test results are also tasks often accomplished digitally.&lt;/p&gt;
+&lt;p&gt;In Unit 3 of this module, we will address access to high-quality information online. Increasingly, people are being encouraged to use eHealth portals to do a variety of things related to health, including communicating with health care providers. E-mail is an important element of this. Not only are e-mail conventions used to communicate with providers directly or through an eHealth portal, but an e-mail account is usually required for a user to sign up for the eHealth portal. For many adult ELLs, having an e-mail account and knowing how to use it are very important skills.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="375" height="189" alt="&amp;quot;&amp;quot;" style="float: right; margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Health care tasks that are often performed digitally include the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Filling out online medical forms&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ordering prescription refills&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Checking tests results &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Communicating with health care providers&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;eHealth Portals&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Are used to do a variety of things related to health (Chapman, Rowe, &amp;amp; Witte, 2010), including communication with health care providers&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Usually require an e-mail account as part of signup&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For many adult ELLs, having an e-mail account and knowing how to use it are very important.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1731">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824922</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1732">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459824922</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="855">
+        <prevpageid>854</prevpageid>
+        <nextpageid>856</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459825043</timecreated>
+        <timemodified>0</timemodified>
+        <title>Getting To Know the Curriculum (Again)</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Look at the Teacher’s Guide. Review the foreword, introduction, and Chapter 1.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Teacher’s Guide, pp. iii, 1–11:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://lincs.ed.gov/publications/pdf/StayingHealthyTeacherGuide2014.pdf" title="Staying Healthy Teacher's Guide" target="_blank"&gt;http://lincs.ed.gov/publications/pdf/StayingHealthyTeacherGuide2014.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Chapter 1, Student Resource Book, pp. 1–7: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://floridaliteracy.org/pdf-docs/ch1healthcare.pdf" title="Student Resource Book" target="_blank"&gt;http://floridaliteracy.org/pdf-docs/ch1healthcare.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This time, answer a different question (optional):&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What activities could be added or adapted so that learners can do them digitally in an e-mail?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1733">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459825043</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1734">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459825043</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="856">
+        <prevpageid>855</prevpageid>
+        <nextpageid>857</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459825445</timecreated>
+        <timemodified>1459905255</timemodified>
+        <title>Integrating E-mail as a Digital Task</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0370.mp3"&gt;ELL_Mod2_0370.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;On page 5 of the Student Resource Book is a speaking activity in which a patient and a health center worker have a telephone conversation. In the conversation, the patient asks to make an appointment and then describes his or her symptoms. The health center worker then gives the patient an appointment. The same type of communication often occurs by e-mail. This is an opportunity to integrate the digital task of sending an e-mail into Chapter 1. The e-mail on this slide demonstrates several of the guidelines for developing digital tasks: It uses the exact language that is used in the chapter and mirrors the patterns used in the speaking activity. Only the digital format is new to students.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/email.png" width="294" height="268" alt="A graphic displays an example of an email. The subject of the email is “appointment” and the following message is written: Hello, I am Fatima Tuma. I want to make an appointment. I have a headache and a sore throat. I don’t have a fever. Thank you, Fatima Tuma. " style="margin: 10px; float: right;" /&gt;The speaking activity on page 5 of the student resource book contains the following scenarios:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A patient and a health center worker have a telephone conversation.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The patient asks to make an appointment and then describes his or her symptoms.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The health center worker then gives the patient an appointment.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; The same type of communication often occurs by e-mail. This is an opportunity to integrate into Chapter 1 the digital task of sending an e-mail.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Notice several things about the e-mail at the right:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Uses the exact language that is used in the chapter.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Mirrors the patterns used in the speaking activity.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1735">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459825445</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1736">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459825445</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="857">
+        <prevpageid>856</prevpageid>
+        <nextpageid>858</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459825925</timecreated>
+        <timemodified>1459905287</timemodified>
+        <title>Do Your Students Have E-mail Accounts?</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Help students who do not already have e-mail accounts by clicking on the button &lt;em&gt;No Email?&lt;/em&gt; below.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0380.mp3"&gt;ELL_Mod2_0380.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For the next unit activity, create a classroom activity in which your students write an e-mail that aligns closely with the lesson that you use or with &lt;em&gt;Staying Healthy&lt;/em&gt;, Chapter 1. If you are engaging in an e-mail activity with &lt;em&gt;Staying Healthy&lt;/em&gt; Chapter 1, the e-mail should mirror the telephone conversation in which Fatima Tuma asks for an appointment and describes her symptoms. Use the routines that you normally use in your class to scaffold the activity. You may have students work in pairs to collaboratively craft an e-mail, or you may have students work individually. Depending on the technology environment, your students’ skills, and classroom routines, you can have students write the e-mail on paper first or compose it on a digital device. Include some information about e-mail conventions, as appropriate. Short topics can include, for example, appropriate greetings and closings, issues of privacy, politeness, and the audience.&lt;/p&gt;
+&lt;p&gt;Have your students send you the e-mail. Respond to each one. As an extension activity, you could have students write short e-mails to other students in the class. On the next page, describe the activity that you design to integrate e-mail into your class, using your own lesson or &lt;em&gt;Staying Healthy&lt;/em&gt;.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/at.jpg" width="141" height="149" alt="" style="float: right; margin: 5px;" /&gt;For students who have e-mail accounts:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create an activity in which your students write an e-mail that is related to the lesson.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In Staying Healthy, the e-mail should ask for a medical appointment using similar language to that used in the telephone conversation. In your lesson, the purpose and the language of the e-mail may be different.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The e-mail activity can be performed collaboratively in pairs or individually. It can be performed on paper first and then keyboarded in or composed directly on the computer, depending on your students’ abilities and preferences.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Have students use their e-mail accounts to send you the e-mail. You should respond to each e-mail.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Use this activity as an opportunity to talk about e-mail conventions, as appropriate. This could include, for example, the audience, politeness, greetings, closings, length, and privacy, depending on students’ level and topic.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1737">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459825925</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1738">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459825925</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="858">
+        <prevpageid>857</prevpageid>
+        <nextpageid>859</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459826169</timecreated>
+        <timemodified>0</timemodified>
+        <title>For Students Who Do Not Have E-mail Accounts</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0390.mp3"&gt;ELL_Mod2_0390.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many students will not have e-mail accounts, but it is very important for every student to get an e-mail account. Many resources exist to help students get e-mail accounts, and some will be presented on the next page. An important consideration for you, as a teacher, is to provide a supported environment in which your students work with a helpful person as they learn how to acquire an e-mail account. National research conducted by the Literacy, Language, and Technology Research Group is finding that human support is essential in the development of basic digital skills, including learning how to get and use an e-mail account.&lt;/p&gt;
+&lt;p&gt;To create the time to work with students, you might pair a more technologically experienced student with a less technologically experienced student. If you routinely use centers to manage the multilevel nature of your class (all adult ELA classes are multilevel in some way, after all), that is a good time to work with a small group of students on the issue of getting an e-mail account.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;It is very important for your students to have e-mail accounts. If they do not, it is worth the time and effort that it takes to help them get e-mail accounts and learn to use them.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There are a variety of options to help your students get e-mail accounts. Whatever option you select, be sure to have a person working with the student(s). When learning beginning computer skills, it is very important to have helpful, human support (Jacobs et al., 2014).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Arrange for some time to work with the student(s):&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Have the student(s) work in pairs with more digitally experienced students.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;As the teacher, work with a small group while the rest of the class works independently or at centers.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1739">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1740">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826169</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="859">
+        <prevpageid>858</prevpageid>
+        <nextpageid>860</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459826600</timecreated>
+        <timemodified>1459905395</timemodified>
+        <title>For Students Who Do Not Have E-mail Accounts</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="right" style="width: 50%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-08-15%20at%2012.36.33%20PM.png" width="348" height="268" alt="A graphic display of a web page at digital learn.org that includes six videos that provide explanations of the steps involved in getting and using e-mail. This page is titled Intro to Email and includes 5 lessons and is 14 minutes long. " style="margin: 10px;" /&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Sze, Lian. “Intro to Email.” DigitalLearn.org. Retrieved from http://digitallearn.org/learn/intro-email. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0400.mp3"&gt;ELL_Mod2_0400.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;A variety of high-quality resources exist that you can use to work with your students specifically on acquiring and using an e-mail account. The lesson plan provides step-by-step guidance for students and can be used both during and after the e-mail lesson plan. The videos created by digitallearn.org are short and clear.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Here is a &lt;a href="http://www.apsva.us/cms/lib2/VA01000586/Centricity/Domain/74/reepcurriculum/100-150_Email.pdf" title="Email Lesson Plan" target="_blank"&gt;lesson plan &lt;/a&gt;to help beginning adult ELLs learn how to acquire and use basic e-mail. The lesson plan comes from REEP: The Arlington Education &amp;amp; Employment Program.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Six videos (at right) provide very clear supplemental explanations of the different steps involved in getting and using e-mail:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lesson 1: What is e-mail?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lesson 2: Sign up for e-mail.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lesson 3: Login.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lesson 4: Open messages and reply.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Lesson 5: Compose and send.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1741">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826600</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1742">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826600</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="860">
+        <prevpageid>859</prevpageid>
+        <nextpageid>861</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459826797</timecreated>
+        <timemodified>1459905471</timemodified>
+        <title>For Students Who Do Not Have E-mail Accounts— Additional Resources</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0410.mp3"&gt;ELL_Mod2_0410.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here are two additional resources that can support an e-mail lesson plan.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object width="80%" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/VzIWURjhrRo?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="80%" height="315" src="https://www.youtube.com/v/VzIWURjhrRo?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Passwords 101&lt;/em&gt; is a simple1-minute video that explains what passwords are and how to make good passwords.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="line-height: 16.0029983520508px;"&gt;Fellows, Larraby. (2011, March 16). “Passwords 101.” &lt;/span&gt;&lt;span style="line-height: 16.0029983520508px;"&gt;http://youtu.be/VzIWURjhrRo.&lt;/span&gt;&lt;span style="line-height: 16.0029983520508px;"&gt; &lt;/span&gt;&lt;span style="line-height: 16.0029983520508px;"&gt;Vermont State Colleges/e-Vermont Community Broadband Project. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The &lt;a href="http://www.digitalliteracyassessment.org/" title="Northstar Digital Literacy Project" target="_blank"&gt;Northstar Digital Literacy Assessment e-mail module&lt;/a&gt; is helpful practice for students who are learning how to use e-mail.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1743">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826797</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1744">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826797</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="861">
+        <prevpageid>860</prevpageid>
+        <nextpageid>862</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459826930</timecreated>
+        <timemodified>1471649026</timemodified>
+        <title>Email Lesson Description</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You have just learned about various types of email lessons to use with your learners. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Write a description of your activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;!--StartFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Will you add an element about e-mail conventions? If so, what convention(s)? &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Share your email activity or your digital form activity with your community of Practice, or with your colleagues on the&lt;a href="https://community.lincs.ed.gov/comment/16549#comment-16549" title="ESL Pro Module 2 Unit 1 Discussion Forum"&gt;&lt;span class="nolink"&gt; LINCS discussion forum&lt;/span&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1745">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826930</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1746">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459826930</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="862">
+        <prevpageid>861</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459827027</timecreated>
+        <timemodified>1461891044</timemodified>
+        <title>Integrate Email Activity</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;After creating an e-mail activity for &lt;em&gt;Staying Healthy&lt;/em&gt; or for your lesson, look through the rest of the lessons in your unit or the rest of the chapters in Staying Healthy.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Think about ways to integrate an e-mail activity into every lesson or chapter. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Not all lessons of the &lt;/span&gt;&lt;em style="font-size: medium; line-height: 1.231;"&gt;Staying Healthy &lt;/em&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;chapters (or your own lessons) lend themselves to writing an e-mail. Which lesson is the most challenging? Why is it challenging?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;!--EndFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;!--StartFragment--&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Look back at the guidelines for designing digital tasks. What do you think is the best solution?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1747">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459827027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1748">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459827027</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

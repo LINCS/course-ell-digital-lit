@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="165" moduleid="5230" modulename="lesson" contextid="16126">
+  <lesson id="165">
+    <course>138</course>
+    <name>Unit 1: Part 2: Focus on the Students</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454611172</timemodified>
+    <pages>
+      <page id="821">
+        <prevpageid>0</prevpageid>
+        <nextpageid>822</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454611297</timecreated>
+        <timemodified>1457555893</timemodified>
+        <title>Introduction and Overview</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="384" height="194" alt="&amp;quot;&amp;quot;" style="float: right; margin: 5px;" /&gt;Knowing your own basic digital literacy and the digital skills that you use in many aspects of life are helpful as you think about your students' needs for digital literacy in their lives.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;For participation in modern workplaces and contemporary life, individuals need foundational skills, which include the following: &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cite="U.S. Department of Education"&gt;A combination of literacy, numeracy and English language (i.e., listening, reading, writing, speaking in English, digital literacy and the use of mathematical ideas); and employability skills. &lt;cite&gt;(U.S. Department of Education, 2013, p. 3)&lt;/cite&gt;&lt;/blockquote&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0230.mp3"&gt;ELL_Mod2_0230.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;There are several reasons why adult ELLs need digital literacy skills, along with traditionally taught English language skills. To participate in modern workplaces and contemporary life, individuals need foundational skills that include a combination of literacy, numeracy, and the use of mathematical ideas. For adult ELLs, the foundational skills present a big mountain to climb; they need to develop English skills in listening, reading, writing, and speaking, as well as learn to operate in digital environments in their new language. Digital literacy goes hand in hand with increased rigor of instruction, so that students work with complex texts and improve their critical thinking skills. The module titled “Meeting the Language Needs of Today’s Adult English Language Learner” contains more information on this concept and can be found at the link on this page. In this section of this unit, we will briefly address the reasons why digital literacy is so important to all adult learners and ELLs in particular.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy goes hand in hand with increased rigor of instruction, where students work with complex texts and improve their critical thinking skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;More information is in the module titled &lt;a href="https://lincs.ed.gov/programs/eslpro" title="Meeting the Language Needs of Today’s Adult English Language Learner" target="_blank"&gt;&lt;em&gt;Meeting the Language Needs of Today's Adult English Language Learner&lt;/em&gt;&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1667">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454611297</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="822">
+        <prevpageid>821</prevpageid>
+        <nextpageid>823</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454611743</timecreated>
+        <timemodified>1457555973</timemodified>
+        <title>Consequences of Low Foundational Skills, Including Digital Literacy Skills</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Adults, including English language learning adults, with weak basic skills have the following characteristics:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cite="U.S. Department of Education"&gt;&lt;span style="font-size: medium;"&gt;[They] are less likely to vote or volunteer in their communities, and are more likely to suffer poor health. In fact, adults with low skills are four times more likely to report “fair” or “poor” health than those with strong skills. This relationship [in the United States] is twice as strong as the international average. &lt;cite&gt;(U.S. Department of Education, 2013, p. 5)&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;You can read the full report here:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.timetoreskill.org/consultation-paper.pdf" title="Consultation Paper" target="_blank"&gt;http://www.timetoreskill.org/consultation-paper.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/To%20Go%20Deeper.jpg" width="50" height="53" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;b&gt;To Go Deeper&lt;/b&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For details on one example of integrating digital health literacy into a health literacy/ESL curriculum in an adult education setting, see Mein et al. (2012). You might want to copy and paste the full reference (below) into your notes. At the end of this unit, you can save the notes to your own computer, e-mail them to yourself, or print a copy. As an alternative, you can immediately copy and paste the reference information to any format.&lt;/p&gt;
+&lt;p&gt;Mein, E., Fuentes, B., &amp;amp; Soto F. (2012). Incorporating digital health literacy into adult ESL education on the US-Mexico border. Rhetoric Professional Communication and Globalization, 3(1), 162–174.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1668">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454611743</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1669">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454611743</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="823">
+        <prevpageid>822</prevpageid>
+        <nextpageid>824</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454611961</timecreated>
+        <timemodified>1466206329</timemodified>
+        <title>Consequences</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0240.mp3"&gt;ELL_Mod2_0240.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details open=""&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span&gt;In addition to developing strong skills in reading, mathematics, problem solving, and using technology, a&lt;/span&gt;dult ELLs have the added challenge of developing basic English skills, making it less likely that the doors of the 21st-century workforce will be open to them.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote cite="U.S. Department of Education"&gt;&lt;span style="font-size: medium;"&gt;“Adults who have trouble reading, doing math, solving problems, and using technology will find the doors of the 21st century workforce closed to them”.&lt;cite&gt;(&lt;a href="http://www.timetoreskill.org/consultation-paper.pdf" title="Report" target="_blank"&gt;U.S. Department of Education, 2013, p. 2&lt;/a&gt;)&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Research with employers indicates that the need for digital skills in the workforce will only increase.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Consequences of Low Foundational Skills in the Area of Employment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Among the applied skills that are expected to increase in importance in the next 5 years, information technology application is ranked by employers as the second-highest applied skill. Information technology application includes digital skills such as the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The ability to select and use appropriate technology to accomplish a given task&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The ability to apply computing skills to problem solving&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You can read the full report (Are They Really Ready for Work) here:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://files.eric.ed.gov/fulltext/ED519465.pdf" title="Report" target="_blank"&gt;http://files.eric.ed.gov/fulltext/ED519465.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0250.mp3"&gt;ELL_Mod2_0250.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The ability to select and use appropriate technology to accomplish a given task and apply computing skills to problem solving, comprises an information technology application. This is ranked by employers as the second-highest applied skill and is expected to increase in importance in the next 5 years.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1670">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454611961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1671">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454611961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="824">
+        <prevpageid>823</prevpageid>
+        <nextpageid>825</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454620116</timecreated>
+        <timemodified>1456975216</timemodified>
+        <title>What does it mean?</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What does this mean? All students need to learn skills in English listening, speaking, reading, and writing in a variety of real-world contexts, including digital contexts.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0260.mp3"&gt;ELL_Mod2_0260.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;What does this mean for students? All adult students, including ELLs, will need to learn skills in English listening, speaking, reading, and writing in a variety of real-world contexts, including digital contexts. These skills are required for adult ELLs to earn high school diplomas or a general equivalency diplomas (GEDs), transition to postsecondary education or training, and obtain employment or improved employment opportunities, in addition to achieving the many other goals that adult ELLs have.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1672">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454620116</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1673">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454620116</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="825">
+        <prevpageid>824</prevpageid>
+        <nextpageid>826</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454620467</timecreated>
+        <timemodified>1460654351</timemodified>
+        <title>Skills of Adult English Language Learners</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0270.mp3"&gt;ELL_Mod2_0270.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In working with adults at all levels of English language acquisition, we know that our students bring with them a range of skills and experiences. In particular, they bring with them a range of technology skills. Adult ELLs have had to be resourceful in their lives, and they are also resourceful in learning about and using technology. Teachers are often surprised that their students are using a variety of digital devices. One very good idea is to find out what devices your students use. This will help you determine how to pair up students who have some digital experience with other students who have less digital experience. Numerous ways exist to do this, and we will describe one way on the next page.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;strong style="text-align: left; line-height: 1.231;"&gt;Idea for a class activity: device survey&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Take a survey of the devices that your students&lt;br /&gt;have. You might be surprised by the answers.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs have the following characteristics:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;They have a range of skills and life experiences.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;They have a range of technology skills and experiences.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;They have had to be resourceful in their lives.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;They may have used those resources to learn how to use some technologies.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;One very good idea is to find out what devices your students use. This will help you determine how to pair up students with some digital experience with other students who have less digital experience. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1674">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454620467</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1675">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454620467</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="826">
+        <prevpageid>825</prevpageid>
+        <nextpageid>827</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454622254</timecreated>
+        <timemodified>1456975589</timemodified>
+        <title>Class Activity: A Can Do List</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0280.mp3"&gt;ELL_Mod2_0280.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;A good starting place for introducing digital literacy and basic digital skills is to make an “I can do” list. Depending on the level of your class, you can elicit the list from the whole class or as an information grid for students to ask one another. Another option is to ask your students to rate their own skills on a set of “I can do” statements that you provide. Whichever option you choose, you can increase the rigor by having students look at the results from the class and create a paper (or digital) chart of the class results. The purpose of this activity is to introduce the idea of integrating technology without the intimidation of working with technology to do so.&lt;/p&gt;
+&lt;p&gt;  As with all new things, it is important to find out what students already know and believe, in as much as detail is possible. An option is to use the Northstar Digital Literacy Assessment to assess your students’ digital literacy, but a better choice is to start without using technology and then use Northstar for new learning and practice.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This activity is important to do with all levels of adult ELA students.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make a “I can do” list. Depending on the level of your class, do this activity as a whole class discussion or as an information grid activity in which students ask each other. Be sure to generate ideas from students.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can … make a phone call.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can … send a text.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can … read a text message.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can … take a picture with my phone.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can … take video with my phone.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can … play a game on my phone.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;I can …  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/graph.png" width="400" height="240" alt="Sample Bar Graph" style="margin-top: 5px; margin-bottom: 5px;" /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To increase the rigor, add analysis to the activity by making a graph of the findings of the class with either paper and pencil or a spreadsheet program such as Microsoft Excel.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This activity was adapted from Harrison, Dwyer, and Castek (2014, pp. 28–29).&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" width="75" height="75" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Tech Tips&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;If you do not know how to make a bar chart using a computer, watch a screencast here or do an Internet search on how to make bar charts. &lt;br /&gt; &lt;object width="100%" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/I5r7eCJFIaY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="100%" height="315" src="https://www.youtube.com/v/I5r7eCJFIaY?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1676">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622254</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1677">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622254</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="827">
+        <prevpageid>826</prevpageid>
+        <nextpageid>828</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454622371</timecreated>
+        <timemodified>1456975802</timemodified>
+        <title>Beginning Basic Digital Skills</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0290.mp3"&gt;ELL_Mod2_0290.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The activities that will be described in Unit Activities 4 and 5 assume some basic digital literacy skills, such as using a mouse or a touchpad, keyboarding, or using a touch screen, and knowing how to click and double-click. Even though teachers are often surprised by the basic digital skills that their students have, many adult ELLs start at zero when it comes to basic digital skills. The beginning basic digital skills needed for digital literacy are evolving rapidly, and it is difficult to know what English learners need to be able to do. Here is an approximate list of beginning basic digital skills that you can use as a starting point: Turn devices on and off.&lt;/p&gt;
+&lt;p&gt;Use a mouse, touch pad, keyboard, and touchscreen as input devices.&lt;br /&gt; Find, open, close, save, and create files.&lt;br /&gt; Locate, open, and close programs and applications.&lt;br /&gt; Recognize e-mail and Web addresses.&lt;br /&gt; Create and send e-mails; add and read attachments.&lt;br /&gt; Locate and open a browser, use search box, and open and close tabs.&lt;br /&gt; Enter information into online forms; use the tab key to navigate.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="445" height="224" alt="&amp;quot;&amp;quot;" style="margin: 5px; float: right;" /&gt;The basic digital skills needed for digital literacy are evolving rapidly as technologies change. For example, at this time, beginning basic digital skills involve knowing how to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Turn devices on and off.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Use a mouse, touch pad, keyboard, and touchscreen as input devices.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Find, open, close, save, and create files.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Locate, open, and close programs and applications.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Recognize e-mail and Web addresses.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create and send e-mails; add and read attachments.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Locate and open a browser, use search box, and open and close tabs.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Enter information into online forms; use the tab key to navigate.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1678">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622371</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1679">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622371</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="828">
+        <prevpageid>827</prevpageid>
+        <nextpageid>829</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454622424</timecreated>
+        <timemodified>1456976044</timemodified>
+        <title>Learning Beginning Basic Digital Skills</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0300.mp3"&gt;ELL_Mod2_0300.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Because technology and its uses change rapidly, everyone is a learner. All members of the classroom have different experiences and expertise with technologies, so that knowledge is distributed. There is far less “sage on the stage,” partially because the “stage” in the room is gone, as represented in the picture. In the realm of technology, the teacher is more likely to be a facilitator than an expert. As with most things, learning is more effective when tasks are embedded in meaningful, contextualized content. Project-based and problem-based approaches both work well for integrating digital tasks across content. In these approaches, technology objectives support content and language objectives, and content and language objectives also support technology objectives in an integrated fashion. Even at very low levels, learners can acquire digital skills as they pursue a meaningful goal.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000025672401_HiRes%20%281%29.jpg" width="350" height="207" alt="&amp;quot;&amp;quot;" style="float: right; margin: 5px;" /&gt;It is common for ELLs (and their teachers) to have a variety of experiences with technology and a variety of digital skills.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Because technology is always evolving, everyone is a learner when it comes to technology.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Effective approaches take advantage of what individuals in the group already know and do.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;With technology, the teacher is a facilitator and colearner rather than an expert.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs, like most adults, learn basic digital skills better when the tasks are embedded in meaningful, contextualized classroom activities.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;ELLs can learn language skills through digital tasks and learn digital skills through language tasks (Quann &amp;amp; Satin, 2000).&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital skills may be acquired through hands-on learning while in pursuit of a meaningful goal rather than through normal teaching of isolated skills, even at very low levels.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1680">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1681">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="829">
+        <prevpageid>828</prevpageid>
+        <nextpageid>830</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454622460</timecreated>
+        <timemodified>1456976141</timemodified>
+        <title>Strategies for Beginning Basic Digital Skills</title>
+        <contents>&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="375" height="189" alt="&amp;quot;&amp;quot;" style="margin: 5px; float: right;" /&gt;Have your students sit with a more digitally capable peer.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Have small groups work together and call on the teacher or the more digitally capable peer when they cannot figure it out themselves.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Make mistakes yourself and encourage students to make mistakes.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Help students expect that there will always be problems to figure out when using technology and to expect this.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1682">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1683">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="830">
+        <prevpageid>829</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454622749</timecreated>
+        <timemodified>1461891021</timemodified>
+        <title>Resources for Beginning Basic Digital Skills</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0310_R.mp3"&gt;ELL_Mod2_0310_R.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here are some resources that you might find useful. The first two are tutorials with good multimedia support. It is important that the teacher, a tutor, or a more capable peer help facilitate learning. Emerging research at the Literacy, Language and Technology Research Group, at Portland State University, confirms that basic digital skills are not easily learned online when working independently, even with rich and multimedia tutorials. The Arlington Education &amp;amp; Employment Program (REEP) technology curriculum is very thorough and can be a useful resource for planning instruction. The ESL Literacy Network produces a variety of resources that are helpful when working with learners without formal educational experience or who have low levels of native-language literacy. You may want to copy these links to your reflective notes or add them to a social bookmarking site that you use.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digitallearn.org (&lt;a href="http://digitallearn.org/learn" title="Digital Learn" target="_blank"&gt;http://digitallearn.org/learn&lt;/a&gt;) has tutorials that are helpful for beginning basic digital skills (coming soon in Spanish).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;GCFLearnFree (&lt;a href="http://www.gcflearnfree.org/computerbasics" title="LearnFree" target="_blank"&gt;http://www.gcflearnfree.org/computerbasics&lt;/a&gt;) has tutorials that are helpful &lt;/span&gt;&lt;span style="font-size: medium;"&gt;for beginning basic digital skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The REEP Technology Curriculum &lt;br class="kix-line-break" /&gt;(&lt;a href="http://www.apsva.us/cms/lib2/va01000586/centricity/domain/74/reepcurriculum/techcurriculum.html" title="Technology Curriculum" target="_blank"&gt;http://www.apsva.us/cms/lib2/va01000586/centricity/domain/74/reepcurriculum/techcurriculum.html&lt;/a&gt;) has a series of lessons for teaching digital skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The ESL Literacy Network &lt;br class="kix-line-break" /&gt;(&lt;a href="http://www.esl-literacy.com/sites/default/files/Appendix%20B_Recommendations%20for%20Integrating%20Technology_0.pdf" title="Literacy Network" target="_blank"&gt;http://www.esl-literacy.com/sites/default/files/Appendix%20B_Recommendations%20for%20Integrating%20Technology_0.pdf&lt;/a&gt;) has a variety of recommendations and resources for digital literacy with low-literacy ELLs.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1684">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1685">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454622749</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

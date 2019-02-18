@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="167" moduleid="5232" modulename="lesson" contextid="16128">
+  <lesson id="167">
+    <course>138</course>
+    <name>Unit 1: Final Overview</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454698522</timemodified>
+    <pages>
+      <page id="863">
+        <prevpageid>0</prevpageid>
+        <nextpageid>864</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454698633</timecreated>
+        <timemodified>1460082617</timemodified>
+        <title>Unit Review</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0420_R.mp3"&gt;ELL_Mod2_0420_R.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In this unit, you have explored your own digital literacy skills and the ways in which we are all learners when it comes to the rapidly evolving world of technology. In the process, you learned about the Northstar Digital Literacy Assessment and read several definitions of digital literacy to find the core components of what it means to be digitally literate. You also read about the consequences that your students may experience if they do not develop foundational skills, including basic digital skills.&lt;/p&gt;
+&lt;p&gt;  To help your students acquire basic digital skills, you saw an example of how to integrate digital tasks across the curriculum and, in so doing, how digital skills support language learning and vice versa in your classroom. Creating digital forms for a specific curriculum provided an example of how you can use one simple type of task across lessons and build the skill of filling out online forms in conjunction with the language and content learning in the lessons. The guidelines for creating digital tasks provide guidance as you work toward integrating digital tasks in your own teaching. We hope that the variety of Internet resources that you have visited will also serve as continuing resources. We hope that you have copied these links into your social bookmarking site.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="347" height="175" alt="" style="margin: 5px; float: right;" /&gt;This unit included the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;An exploration of your own digital literacy skills&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;A basic definition of digital literacy&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Reasons why adult English-language-learning students need digital literacy skills&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Strategies to integrate digital tasks into an existing curriculum&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;A hands-on activity to make online forms to use for a variety of purposes&lt;/span&gt;&lt;/li&gt;
+&lt;li class="O0"&gt;&lt;span style="font-size: medium;"&gt;Guidelines for making digital tasks for any lesson, unit, or curriculum&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1749">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454698633</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="864">
+        <prevpageid>863</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454698828</timecreated>
+        <timemodified>1461891062</timemodified>
+        <title>Thank You!</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0430.mp3"&gt;ELL_Mod2_0430.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Thank you for completing this unit! We hope that it is helpful to you. Please keep working to integrate digital literacy into your adult ESL classes. Our students need digital skills to participate fully in 21st-century life.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Thank you for participating in Unit 1 of &lt;em&gt;Integrating Digital Literacy into Adult English Language Instruction&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you would like to learn more about integrating digital literacy into your classes, you can participate in additional units in this module:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication Technologies for Language Learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Digital Information Literacy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich Environments&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1750">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454698828</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1751">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454698828</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

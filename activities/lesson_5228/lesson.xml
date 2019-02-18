@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="163" moduleid="5228" modulename="lesson" contextid="16124">
+  <lesson id="163">
+    <course>138</course>
+    <name>Unit 1 Overview</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454532178</timemodified>
+    <pages>
+      <page id="792">
+        <prevpageid>0</prevpageid>
+        <nextpageid>808</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454597201</timecreated>
+        <timemodified>1460216647</timemodified>
+        <title>Module Resources</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0160.mp3"&gt;ELL_Mod2_0160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;You can customize this unit in a variety of ways to meet your learning needs. Two ways to customize your learning experience are to use the “Tech Tips” and “To Go Deeper” icons. For example, if you are not confident about your own technology skills, look at all the Tech Tips to learn strategies for dealing with unexpected issues or get more guidance with technology. If you’d like to learn more about a subject, look at all the “To Go Deeper” items, which are articles in academic journals and books that describe research studies or developing theories. Most of the “To Go Deeper” items can be found online or at your local public or academic library. In preparation, you might want to activate your library account.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Tech Tips&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Tips.jpg" width="74" height="74" alt="Tips" style="margin: 5px; float: right;" /&gt;Tech Tips are distributed throughout the unit and provide advice about strategies for dealing with the unexpected, as well as ideas for solutions to issues raised in technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;To Go Deeper&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/To%20Go%20Deeper.jpg" width="48" height="50" alt="&amp;quot;&amp;quot;" style="float: left; margin: 5px;" /&gt;Also distributed throughout the unit are readings for those who want to delve deeper into the specific topic. Most of the resources can be found at a public or academic library.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you'd like to delve deeper into topics while you are learning, establish (or activate) an account with your library and find out how to get journal articles online and how to get academic books.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1641">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454597201</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="808">
+        <prevpageid>792</prevpageid>
+        <nextpageid>809</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454597285</timecreated>
+        <timemodified>1460216672</timemodified>
+        <title>Certificates of Completion</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You can earn a certificate of completion for this unit by completing the five unit activities. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" width="275" alt="" style="float: right; margin: 5px;" /&gt;To earn a certificate of completion for this unit, you will need to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify ways that you use digital skills in your own life.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Complete two Northstar Digital Literacy Assessment modules.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create two online forms to supplement chapters from &lt;em&gt;Staying Healthy&lt;/em&gt; or from two lessons that you use in your teaching.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create one classroom e-mail activity to add to &lt;em&gt;Staying Healthy&lt;/em&gt; Chapter 1 or an e-mail activity to add to a unit or lesson that you use in your teaching.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1642">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454597285</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1647">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454597285</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="810">
+        <prevpageid>793</prevpageid>
+        <nextpageid>794</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454532436</timecreated>
+        <timemodified>1459904121</timemodified>
+        <title>Introduction for Administrators</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Welcome to Unit 1 of &lt;em&gt;Integrating Digital Literacy Into Adult English Language Instruction: Professional Development Module&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="383" height="193" alt="" style="float: right; margin: 5px;" /&gt;The following elements are included in this unit:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The need for digital literacy for adult English language learners’ lives&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The important roles for administrators&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The essential conditions to support digital literacy development throughout programs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology plans&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology environments&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The unit will take about 1 hour to complete, depending on how deeply you delve into the variety of resources provided.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0010.mp3"&gt;ELL_Mod2_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This section of “Unit 1: Digital Literacy in Our Lives,” is addressed specifically to administrators. It includes information about adult English language learners’ (ELLs’) needs for digital skills, the important role that administrators play in integrating digital literacy into programs and classes, and the essential conditions necessary to support digital literacy development throughout programs. Technology plans are discussed, along with different technology environments, including bring-your-own-device (BYOD) environments. The section ends with questions to guide your thinking about where your program is now and what you would like to see for the future.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1611">
+            <jumpto>809</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454532436</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1612">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454532436</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="795">
+        <prevpageid>794</prevpageid>
+        <nextpageid>796</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454533192</timecreated>
+        <timemodified>1461887218</timemodified>
+        <title>Consequences of Low Foundational Skills, Including Digital Literacy Skills</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adults, including English-language-learning adults, with weak basic skills exhibit the following characteristics:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;[They] are less likely to vote or volunteer in their communities and are more likely to suffer poor health. In fact, adults with low skills are four times more likely to report “fair” or “poor” health than those with strong skills. This relationship [in the United States] is twice as strong as the international average (U.S. Department of Education, 2013, p. 5).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You can read the full report here:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.timetoreskill.org/consultation-paper.pdf" title="Report" target="_blank"&gt;http://www.timetoreskill.org/consultation-paper.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;If you like to read deeply about a subject, look at all the “To Go Deeper” items, which are articles in academic journals and books that describe research studies or developing theories. Most of the &lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt; items can be found online at your local public or academic library.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/To%20Go%20Deeper.jpg" width="50" height="53" alt="&amp;quot;&amp;quot;" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;To Go Deeper&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For details on one example of integrating digital health literacy into a health literacy/ESL curriculum in an adult education setting, see Mein, Fuentes, and Soto (2012). You can copy and paste the reference into any format.&lt;/p&gt;
+&lt;p&gt;Reference: Mein, E., Fuentes, B., &amp;amp; Soto, F. (2012). Incorporating digital health literacy into adult ESL education on the US-Mexico border. Rhetoric Professional Communication and Globalization, 3(1), 162–174.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1615">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454533192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1616">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454533192</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="796">
+        <prevpageid>795</prevpageid>
+        <nextpageid>797</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454533513</timecreated>
+        <timemodified>1456887650</timemodified>
+        <title>Consequences</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0030.mp3"&gt;ELL_Mod2_0030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Adult ELLs have the challenge of developing basic English skills, in addition to developing strong skills in reading, mathematics, problem solving, and using technology, which makes it more likely that the doors of 21st-century workplaces will be closed to them.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;blockquote cite="U.S. Department of Education"&gt;&lt;span style="font-size: medium;"&gt;“Adults who have trouble reading, doing math, solving problems, and using technology will find the doors of the 21st century workforce closed to them”.&lt;cite&gt;(&lt;a href="http://www.timetoreskill.org/consultation-paper.pdf" title="Report" target="_blank"&gt;U.S. Department of Education, 2013, p. 2&lt;/a&gt;)&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Research with employers indicates that the need for digital skills in the workforce will only increase.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Consequences of Low Foundational Skills in the Area of Employment&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Among the applied skills that are expected to increase in importance in the next 5 years, information technology application is ranked by employers as the second-highest applied skill. Information technology application includes digital skills such as the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The ability to select and use appropriate technology to accomplish a given task&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The ability to apply computing skills to problem solving&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You can read the full report (&lt;em&gt;Are They Really Ready for Work&lt;/em&gt;) here:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://files.eric.ed.gov/fulltext/ED519465.pdf" title="Report" target="_blank"&gt;http://files.eric.ed.gov/fulltext/ED519465.pdf&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0040.mp3"&gt;ELL_Mod2_0040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The ability to select and use appropriate technology to accomplish a given task and apply computing skills to solve problems—which together comprise an information technology application—is ranked by employers as the second-highest applied skill and is expected to increase in importance in the next 5 years.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1617">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454533513</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1618">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454533513</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="797">
+        <prevpageid>796</prevpageid>
+        <nextpageid>798</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454534535</timecreated>
+        <timemodified>1461887476</timemodified>
+        <title>What does it mean?</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;What does this mean? All students need to learn skills in English listening, speaking, reading, and writing in a variety of real-world contexts, including digital contexts.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0050.mp3"&gt;ELL_Mod2_0050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;What does this mean for students? All adult students, including ELLs, will need to learn skills in English listening, speaking, reading, and writing in a variety of real-world contexts, including digital contexts. These skills are required for adult ELLs to earn high school diplomas or a general equivalency diplomas (GEDs), transition to postsecondary education or training, and obtain employment or improved employment opportunities, in addition to achieving the many other goals that adult ELLs have.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1619">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454534535</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1620">
+            <jumpto>798</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454534535</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1645">
+            <jumpto>799</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454534535</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="798">
+        <prevpageid>797</prevpageid>
+        <nextpageid>799</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454539332</timecreated>
+        <timemodified>1456887772</timemodified>
+        <title>For Administrators: Part 2</title>
+        <contents>&lt;h3 dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Program, district, and state administrators play an important role in enabling the integration of digital literacy into adult English-language-acquisition classes and programs.&lt;/span&gt;&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A review of research on technology use in schools suggests the following:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technology, by itself, is not likely to bring about reforms in schools, but it can be a powerful tool for educators if it is part of a comprehensive and systemic effort to change education. According to Moeller and Reitzes (2011), technology is most likely to be widely adopted by teachers and schools if it has the following characteristics:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;(1) It supports already existing practices and helps to solve problems or address challenges.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;(2) It is part of a systemic, organization-wide initiative.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;(3) Teachers have access to ample professional development and ongoing support.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(&lt;a href="http://www.nmefoundation.org/getmedia/befa9751-d8ad-47e9-949d-bd649f7c0044/Integrating-Technology-with-Student-Centered-Learning?ext=.pdf" title="Integrating Technology with Student Centered Learning" target="_blank"&gt;Moeller &amp;amp; Reitzes, 2011&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0060.mp3"&gt;ELL_Mod2_0060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;A very clear picture emerges from research on the integration of technology into education. Much of the research comes from K–12 settings, but the findings are readily generalized to adult-English-language-acquisition settings. Administrators play a very important role by supporting teachers as they integrate digital literacy into their classes. Administrators play a key role in all three factors that relate to successful technology adoption:&lt;/p&gt;
+&lt;p&gt;*Helping craft a technology plan that supports existing practices and the use of technology to solve problems or address challenges&lt;br /&gt; *Ensuring that technology is part of a systemic, organization-wide initiative &lt;br /&gt; *Providing teachers with ample professional development time and ongoing support&lt;/p&gt;
+&lt;p&gt;English language acquisition (ELA) teachers, in particular, need support. Often working part time and at multiple sites, ELA teachers have restricted access to school-based technologies, little access to support for using these technologies, and limited access to professional development related to these technologies. Although these teachers encounter significant barriers to necessary supports, ELA teachers also work with students who have very high needs to develop language and technology skills. Given both challenges, the needs of ELLs and those who teach them must be central to a program’s technology plan.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1621">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454539332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1622">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454539332</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="799">
+        <prevpageid>798</prevpageid>
+        <nextpageid>800</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454539580</timecreated>
+        <timemodified>1456887850</timemodified>
+        <title>Conditions Necessary to Effectively Leverage Technology for Learning</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The International Society for Technology in Education  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Essential conditions&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Shared vision&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Planning for implementation&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ongoing professional learning&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technical support&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Others&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;International Society for Technology in Education. (2009). &lt;em&gt;&lt;a href="http://www.iste.org/docs/pdfs/netsessentialconditions.pdf" title="Essential Conditions" target="_blank"&gt;Essential conditions&lt;/a&gt;: Necessary conditions to effectively leverage technology for learning&lt;/em&gt;. Arlington, VA: Author.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0070.mp3"&gt;ELL_Mod2_0070.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The International Society for Technology in Education has created a list of the 14 essential conditions for effectively leveraging technology for learning. There is wide agreement between these essential conditions and educational research.&lt;/p&gt;
+&lt;p&gt;In particular, having a shared vision, a systematic plan for implementation, ongoing professional learning, and technical support appear in many different reports. In this unit, we will discuss creating a technology plan, which includes crafting a shared vision, as well as supports for ongoing professional learning and technical support. We will examine one technology environment in particular—BYOD—and illustrate its pros and cons.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1623">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454539580</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1624">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454539580</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="800">
+        <prevpageid>799</prevpageid>
+        <nextpageid>801</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454540461</timecreated>
+        <timemodified>1456887956</timemodified>
+        <title>A Plan for Technology</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Having a shared, coherent, and consistent vision for the role of technology is key to the success of technology integration (Means, 2010; Moeller &amp;amp; Reitzes, 2011).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;An effective technology plan has the following characteristics: &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Is based on shared vision&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Ensures that technology strengthens existing curricula and programs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Supports meaningful, engaged learning for all students&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Specifies how technology resources are paid for and supported (adapted from November et al., 1998)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/extending-abe-with-wow.pdf" title="Who's Online Where Index" target="_blank"&gt;The Who’s Online Where Index&lt;/a&gt; uses information on the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The adult education eligible population&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Internet usage and access&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;It produces an index score that helps determine where to implement or expand online or hybrid instructional programming.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-1938c163-2912-4192-1b45-aafd70ae3610" style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0080.mp3"&gt;ELL_Mod2_0080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To reap the benefits of technology, schools must develop a plan for integrating technology into their curricula. An effective technology plan is based on the shared vision of educators, administrators, community members, and business leaders who have technological expertise. Such a plan ensures that technology strengthens the existing curricula and supports meaningful, engaged learning for all students. An effective technology plan also specifies how the technology will be paid for and how its use will be supported. A shared vision results from joint planning among administrators, teachers, and other stakeholders.&lt;/p&gt;
+&lt;p&gt;Another aspect of technology is that the Internet can help reach more learners who need adult education programs, including adult ELA programs. State directors and program administrators need data to help determine where to offer face-to-face, hybrid, or fully online adult education programs to reach more learners who need the programs. The Who’s Online Where Index takes into consideration several factors related to population demographics and broadband Internet access predictors. This providies administrators with county-level information about where the eligible adult population lives and how likely it is that the population can conveniently access the Internet. The resulting index score corresponds with the intervention recommendations that help state directors and others determine where to implement or expand online or hybrid instructional programming.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1625">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454540461</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1626">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454540461</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="801">
+        <prevpageid>800</prevpageid>
+        <nextpageid>802</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454592693</timecreated>
+        <timemodified>1460082303</timemodified>
+        <title>Technology Planning Resources</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0090.mp3"&gt;ELL_Mod2_0090.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The Outreach and Technical Assistance Network for Adult Educators has created a set of tools to help adult education programs create their own technology plans. Although originally created for adult education programs in California, the text resources are available to all programs. Technology planning resources are available in the areas of vision statement; needs, goals, and objectives; funding; technical support; and staff development are particularly helpful. The many resources provide important guidance. A public version of the technology plan development tool is available at this link.&lt;/p&gt;
+&lt;p&gt;Several examples of California program technology plans are available here. These programs have graciously agreed to serve as example technology plans to help other programs and are at the links below.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;img src="@@PLUGINFILE@@/OTAN.png" width="350" height="392" alt="A graphic displays a web page from Outreach and Technical Assistance Network (OTAN) for Adult Educators. The website shows various planning resource links. " style="float: right; margin: 10px;" /&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Outreach and Technical Assistance Network (OTAN) for Adult Educators&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.otan.us/browse/index.cfm?fuseaction=page&amp;amp;catid=10660" title="OTAN Technology Planning Resources" target="_blank"&gt;Technology Planning Resources&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Vision statement&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Needs, goals, and objectives&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Funding &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Technical support&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Staff development&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.otan.us/Techplans/public/login.cfm?fuseaction=login" title="Tech Planning Tool" target="_blank"&gt;Technology Plan Development Tool&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Examples of technology plans:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M2U1_TechPlanSynthesisSimiValley_508.pdf" title="Tech Plan Simi Valley"&gt;Simi Valley Tech Plan&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M2U1_TechPlanSynthesisJefferson_508.pdf" title="Jefferson Tech Plan"&gt;Jefferson Tech Plan&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M2U1_TechPlanSynthesisJefferson_508.pdf" title="Stockton Tech Plan"&gt;Stockton Tech Plan&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: small;"&gt;&lt;a href="http://www.otan.us/browse/index.cfm?fuseaction=page&amp;amp;catid=10656" title="Link to image source" target="_blank"&gt;Image source&lt;/a&gt;. Used with permission.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1627">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454592693</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1628">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454592693</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="802">
+        <prevpageid>801</prevpageid>
+        <nextpageid>803</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454593606</timecreated>
+        <timemodified>1461542213</timemodified>
+        <title>Technology Environments</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0100.mp3"&gt;ELL_Mod2_0100.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Part of developing a technology plan is describing where your program is now with respect to technology adoption and use. A variety of technology environments in programs serve adult ELLs, including but not limited to computer labs, computers in classrooms (e.g., a row of computers at the back of some classrooms), mobile classroom sets of laptops or tablets, and reliance on student tools. Using student tools is currently called BYOD (bring your own device), but its name may change by the time you complete this module.&lt;/p&gt;
+&lt;p&gt;  Other technology environments are not mentioned here, and each has pros and cons. At the time that this unit was created, national discussions were ongoing in educational technology circles regarding the value of BYOD environments.&lt;/p&gt;
+&lt;p&gt;  Administrators can help students get onto the Internet and can bring more Internet into classrooms through Everyone On, a national Internet access campaign. Through Everyone On, individuals can find Internet service for as little as $10 a month, low-cost computers, and free digital literacy courses. Read more about the program at the link on your screen.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/everyoneon_page_screenshot.png" width="250" height="323" alt="A graphic displays a web page from everyone on about using the internet to do the following things: connect with friends and family; save money; discover ways to stay health; find a job; and educate yourself." style="margin: 10px; float: right;" /&gt;A variety of technology environments:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Computer labs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Computers in classrooms&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Mobile classroom sets of devices&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Student tools (BYOD)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Others&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://everyoneon.org/knowledge-center/" title="EveryoneOn Knowledge Center" target="_blank"&gt;&lt;img src="@@PLUGINFILE@@/everyoneon_icon.png" width="250" height="47" alt="A graphic displays the everyone on logo." style="margin-top: 10px; margin-bottom: 10px;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;EveryoneOn is a national nonprofit that connects individuals to low-cost Internet service, affordable computers, and free digital literacy courses. To learn more, visit &lt;a href="http://www.everyoneon.org/adulted" title="EveryoneOn Website" target="_blank"&gt;EveryoneOn.org&lt;/a&gt; or text "Connect" to 215-45.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Logo used with permission.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1629">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454593606</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1630">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454593606</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="803">
+        <prevpageid>802</prevpageid>
+        <nextpageid>804</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454594337</timecreated>
+        <timemodified>1456888160</timemodified>
+        <title>Bring Your Own Devices: Are They Right for Your Program?</title>
+        <contents>&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0110.mp3"&gt;ELL_Mod2_0110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Real advantages exist in using digital devices that students own and bring with them. Students know how to use the devices and will be using the same devices when they are not in class. This promotes consistency for learners, especially those who struggle with digital skills or language, such as ELLs. BYOD is increasingly used in corporate, as well as education, environments and is associated with increased productivity and decreased costs.&lt;/p&gt;
+&lt;p&gt;In some ways, however, a program that uses student-provided devices is not different from a program that has program-provided devices. For example, BYOD programs will still need to have extra devices for students who do not own or bring their own devices. Technical support is just as important in BYOD contexts as it is in lab or classroom contexts and may be more difficult because of the range of devices to support. One big disadvantage, shared by Steve Quann of World Education (personal communication), is that in BYOD settings, teachers are limited to software programs and apps that operate equally well on all the platforms used by students in the class. Cross-platform software and apps were not readily available at the time this module was created. They may become more readily available with time, but the lack of compatibility also may be too great a problem. Nevertheless, it is important for programs to consider the issues involved in selecting a technology environment.&lt;/p&gt;
+&lt;p&gt;Providing time and support for teachers to plan—ideally, collaboratively—is just as important in BYOD contexts as it is in every technology environment. Support for teachers is absolutely essential for successful technology integration and thus the potential to integrate digital tasks across the curriculum.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" rules="cols" style="width: 99%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Advantages&lt;/th&gt;&lt;th scope="col"&gt;No Difference&lt;/th&gt;&lt;th scope="col"&gt;Disadvantages&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Students know how to use the devices they bring.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Students will be using the same devices when they are not in class.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Increasing BYOD use exists in corporate, as well as education environments.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Personal devices are associated with increased productivity and decreased costs.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Programs still need to have devices for students to use who do not own or bring their own devices.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Technical support continues to be very important.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Providing time and support for teachers to plan collaboratively and individually continues to be essential.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Programs and teachers need to select software and apps that are available on all the platforms used by students.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Cross-platform software and apps are not readily available.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For a summary of BYOD, see &lt;a href="http://cdn.nmc.org/media/2014-nmc-horizon-report-k12-EN.pdf" title="Horizon Report" target="_blank"&gt;Johnson, Adams Becker, Estrada, and Freeman&lt;/a&gt; (2014).&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1631">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454594337</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1632">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454594337</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="804">
+        <prevpageid>803</prevpageid>
+        <nextpageid>805</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454596453</timecreated>
+        <timemodified>1459903778</timemodified>
+        <title>For More Information About BYOD</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0120.mp3"&gt;ELL_Mod2_0120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;For more information on BYOD and its potential for your program, additional resources that address technological challenges include the following: First, there has been a discussion among adult education administrators about BYOD, especially with respect to technical questions. The discussion occurred in the LINCS Technology and Learning Community of Practice. To start the discussion, David Rosen posed some questions about the following:&lt;/p&gt;
+&lt;p&gt;BYOD policies&lt;br /&gt; Access&lt;br /&gt; BYOD maintenance and repair issues&lt;br /&gt; Separate wireless routers&lt;br /&gt; Mobile learning content&lt;br /&gt; You can read the discussion at the link on your screen.&lt;/p&gt;
+&lt;p&gt;Also, edutopia included a blog about the questions that schools should think about before going with BYOD. You can access the short article by clicking on the link to the article on the screen.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;a href="http://www.edutopia.org/blog/byod-discussions-schools-should-have-vicki-davis" title="Edutopia article" target="_blank"&gt;&lt;img src="@@PLUGINFILE@@/edutopia.png" width="350" height="409" alt="A graphic displays a link to an article on edutopia titled 6 BYOD discussions every school should have. " style="float: right; margin: 10px;" /&gt;&lt;/a&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://community.lincs.ed.gov/" title="LINCS site" target="_blank"&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://community.lincs.ed.gov/" title="LINCS site" target="_blank"&gt;LINCS &lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Technology and Learning Community of Practice&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;To start the discussion, David Rosen posed the following issues for discussion:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;BYOD policies&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Access&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;BYOD maintenance and repair &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Separate wireless routers&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Mobile learning content&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://community.lincs.ed.gov/discussion/bring-your-own-device-byod" title="Bring your own device discussion" target="_blank"&gt;Read the discussion here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://www.edutopia.org/blog/byod-discussions-schools-should-have-vicki-davis" title="6 BYOD Discussions Every School Should Have" target="_blank"&gt;Edutopia article&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;Davis, Vicki (2014). &lt;i&gt;6 BYOD Discussions Every School Should Have. &lt;/i&gt;Retrieved from&lt;i&gt; &lt;/i&gt;&lt;a href="http://www.edutopia.org/blog/byod-discussions-schools-should-have-vicki-davis" title="BYOD" target="_blank"&gt;http://www.edutopia.org/blog/byod-discussions-schools-should-have-vicki-davis&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;Originally published February 4, 2014 © Edutopia.org; George Lucas Educational Foundation.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1633">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596453</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1634">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596453</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="805">
+        <prevpageid>804</prevpageid>
+        <nextpageid>806</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454596570</timecreated>
+        <timemodified>1461887445</timemodified>
+        <title>Pedagogical Implications</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0130.mp3"&gt;ELL_Mod2_0130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;When teachers have access to technology and the support to use it with their students, whether BYOD or a classroom set of devices, the way that the class operates can change. Because technology and its uses change rapidly, everyone is a learner. All members of the classroom have different experiences and expertise with technologies, so that knowledge is distributed. There is far less “sage on the stage,” partially because the “stage” in the room is gone, as represented by the picture. In the realm of technology, the teacher is more likely to be a facilitator than an expert. When the students can be the experts and the teacher can be the facilitator, student-centered approaches are supported. In these approaches, students learn language through digital tasks and learn digital skills through language learning. When digital tasks are integrated across the curriculum, students learn basic digital skills by engaging in meaningful, relevant digital tasks.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000025672401_HiRes.jpg" width="342" height="203" alt="" style="float: right; margin: 5px;" /&gt;Because of the rapid and constant evolution of technology, everyone is a learner.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Students and teachers all have different experiences and skills with technology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The teacher is more likely to be a facilitator, not an expert.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt; Student-centered learning approaches, such as project-based and problem-based learning approaches, are supported.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In these approaches, students learn language through digital tasks and digital skills through language learning (Quann &amp;amp; Satin, 2000).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;When digital tasks are integrated across the curriculum, students learn basic digital skills by engaging in meaningful, relevant digital tasks.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1635">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596570</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1636">
+            <jumpto>806</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596570</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1646">
+            <jumpto>807</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596570</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="806">
+        <prevpageid>805</prevpageid>
+        <nextpageid>807</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454596790</timecreated>
+        <timemodified>1456888552</timemodified>
+        <title>Unit Activity for Administrators</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0140_R.mp3"&gt;ELL_Mod2_0140_R.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Think about these guiding questions as you prepare to enter your reflections in the blue boxes. Reflecting on these issues broadly is a good way to think about a technology plan or updates to your existing technology plan. The boxes will expand to encompass the length of your response. When you submit your response, it will be saved to the reflective notes where you can read them, e-mail them to yourself, or save them in a document.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;To finish this unit, take a moment to take stock. Use the questions to help you.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;1. Compared with where you would like to see your program with respect to technology, where is your program is now?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What are you considering as next steps?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What are areas that need improvement for ELLs?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1637">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596790</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1638">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596790</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="807">
+        <prevpageid>806</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1454597768</timecreated>
+        <timemodified>1461890936</timemodified>
+        <title>Thank You!</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0150.mp3"&gt;ELL_Mod2_0150.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Thank you for completing this section of this unit! We hope that it has been helpful for you. Please keep working to support technology in your adult ELA programs. Our students need digital skills to participate fully in 21st-century life.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Thank you for participating in Unit 1 of &lt;em&gt;Integrating Digital Literacy Into Adult English Language Instruction&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you would like to learn more about digital literacy as it relates to teachers and adult English learners in your program, continue with this unit or participate in additional units in this module.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication Technologies for Language Learning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Digital Information Literacy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich Environments&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #666699;"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #666699;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1643">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454597768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1644">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454597768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="809">
+        <prevpageid>808</prevpageid>
+        <nextpageid>793</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454532254</timecreated>
+        <timemodified>1497044857</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit is an overview for instructors and administrators about framing digital literacy as a critical component for language skill development. By participating in this unit, teachers can learn how to integrate digital literacy instruction and learning activities into all aspects of adult English language learner (ELL) instruction.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1609">
+            <jumpto>810</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454532254</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1610">
+            <jumpto>793</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454532254</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="793">
+        <prevpageid>809</prevpageid>
+        <nextpageid>810</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454596945</timecreated>
+        <timemodified>1460216128</timemodified>
+        <title>Introduction for Teachers</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Welcome to Unit 1 of &lt;em&gt;Integrating Digital Literacy Into Adult English Language Instruction: Professional Development Module&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000021693429_Small.jpg" width="392" height="198" alt="" style="float: right; margin: 5px;" /&gt;The following elements are included in this unit:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;An exploration of your own digital literacy skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A basic definition of digital literacy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Reasons why adult English-language-learning students need digital literacy skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Strategies to integrate digital tasks into an existing curriculum&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Hands-on activities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Guidelines for making digital tasks for any lesson, unit, or curriculum&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This unit will take between 2 and 3 hours to complete, depending on how deeply you delve into the resources provided.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1639">
+            <jumpto>809</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1640">
+            <jumpto>795</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454596945</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="794">
+        <prevpageid>810</prevpageid>
+        <nextpageid>795</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454532766</timecreated>
+        <timemodified>1456887220</timemodified>
+        <title>For Administrators: Part 1</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Focus on Students&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For participation in modern workplaces and contemporary life, individuals need foundational skills that include the following: &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A combination of literacy, numeracy, and English language (i.e., listening, reading, writing, speaking in English, digital literacy, and the use of mathematical ideas); and employability skills. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(U.S. Department of Education, 2013, p. 3)&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Digital literacy goes hand in hand with increased rigor of instruction, so that students work with complex texts and hone their critical thinking skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;More information is in &lt;a href="http://www.timetoreskill.org/consultation-paper.pdf%20" title="U.S. Department of Education, 2013" target="_blank"&gt;&lt;em&gt;Meeting the Language Needs of Today’s Adult English Language Learner: Professional Development Module&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_0020.mp3"&gt;ELL_Mod2_0020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many reasons explain why adult ELLs need digital literacy skills, along with traditionally taught English language skills. For participation in modern workplaces and contemporary life, individuals need foundational skills that include a combination of literacy, numeracy, and the use of mathematical ideas. For adult ELLs, the foundational skills present a big mountain to climb; they need to develop English skills in listening, reading, writing, and speaking, as well as learn to operate in digital environments in their new language. Digital literacy goes hand in hand with increased rigor of instruction, so that students work with complex texts and hone their critical thinking skills. The module titled “Meeting the Language Needs of Today’s Adult English Language Learner” contains more information on this concept. In this section, we will briefly address the reasons that digital literacy is so important to all adult learners and ELLs in particular.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1613">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454532766</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1614">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454532766</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

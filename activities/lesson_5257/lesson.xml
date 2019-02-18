@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="177" moduleid="5257" modulename="lesson" contextid="16153">
+  <lesson id="177">
+    <course>138</course>
+    <name>Unit 4: Part 3: Problem-Solving in English Language Acquisition</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>1</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1454984776</timemodified>
+    <pages>
+      <page id="990">
+        <prevpageid>0</prevpageid>
+        <nextpageid>991</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454985038</timecreated>
+        <timemodified>1497533427</timemodified>
+        <title>Overview</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-37.mp3"&gt;ELL_Mod2_U4_Slide-37.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Problem solving in educational settings is called problem-based learning. Problem-based approaches have long been used in English language acquisition programs.&lt;/p&gt;
+&lt;p&gt;21st-century problems often involve technology, which is why the PIAAC included a PSTRE component in the 2012 survey of adult skills. A modern adaptation of problem-based learning in second language acquisition includes problems that are embedded in technology, as well as use of technology as a solution.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problem-solving in educational settings is called problem-based learning. Problem-based approaches have long been used in English-language-acquisition programs.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;21st-century problems often involve technology, which is why the PIAAC included a PSTRE component in the 2012 survey of adult skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;A modern adaptation of problem-based learning in second language acquisition includes problems that are embedded in technology, as well as use of technology as a solution.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="docs-internal-guid-affd966b-4390-5d32-8723-e6976a840f21" style="font-size: medium;"&gt; &lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="margin: 5px;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details open=""&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Read &lt;em&gt;Problem-Based Learning and Adult English Language Learners&lt;/em&gt;, by Mathews-Aydinli, available at &lt;a href="http://www.cal.org/caela/esl_resources/briefs/problembased.html" title="Problem Based Learning and Adult English Language Learners" target="_blank"&gt;http://www.cal.org/caela/esl_resources/briefs/problembased.html&lt;/a&gt; and &lt;em&gt;Second Language Acquisition in Adults&lt;/em&gt;: From Research to Practice, by Moss &amp;amp; Feldman-Ross, available at &lt;a href="http://www.cal.org/caela/esl_resources/digests/SLA.html" target="_blank"&gt;http://www.cal.org/caela/esl_resources/digests/SLA.html&lt;/a&gt;.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1997">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985038</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="991">
+        <prevpageid>990</prevpageid>
+        <nextpageid>992</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454985119</timecreated>
+        <timemodified>1457731804</timemodified>
+        <title>Integrating PSTRE Into English Language Acquisition</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-38.mp3"&gt;ELL_Mod2_U4_Slide-38.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In a problem-based approach, the problem provides a context and a purpose for learning new skills, including language and technology skills. It is appropriate for adult English language acquisition because it promotes interaction among students, is relevant to students’ lives and goals, and leverages and builds background knowledge as students learn (or define) the problem and the language needed to talk about the problem. Problem-based learning builds collaborative skills as students work together to define the problem, collect information, and evaluate possible solutions. For the same reasons, problem-based learning promotes active, engaged learning.&lt;/p&gt;
+&lt;p&gt;Problem-based learning can provide the curriculum for an entire course or program, but problem-based activities can also be used to supplement other types of approaches, including project-based learning, contextualized instruction, topic or theme-based learning, and Learners’ Lives as Curriculum®.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problem-based learning is appropriate for adult English language acquisition because it&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Promotes interaction among students&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Is relevant to students’ lives and goals&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Leverages and builds background knowledge&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Builds collaborative skills&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Promotes active, engaged learning&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problem-based learning can provide the curriculum for an entire course or program, or supplement other types of approaches, including&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Project-based learning&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Contextualized instruction&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Topic or theme-based learning&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Learners’ Lives as Curriculum®&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1998">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985119</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1999">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985119</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="992">
+        <prevpageid>991</prevpageid>
+        <nextpageid>993</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454985454</timecreated>
+        <timemodified>0</timemodified>
+        <title>Problem Based Activities</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="center"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="row" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Consumerism&lt;/span&gt;&lt;/th&gt;
+&lt;td scope="row" style="border: 1px solid #19568b;"&gt;&lt;span style="font-size: medium;"&gt;Buying a Computer Problem&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Education&lt;/span&gt;&lt;/th&gt;
+&lt;td scope="row" style="border: 1px solid #19568b;"&gt;&lt;span style="font-size: medium;"&gt;Parent-Teacher Conference Problem&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Employment&lt;/span&gt;&lt;/th&gt;
+&lt;td scope="row" style="border: 1px solid #19568b;"&gt;&lt;span style="font-size: medium;"&gt;Online Job Search Problem&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Community&lt;/span&gt;&lt;/th&gt;
+&lt;td scope="row" style="border: 1px solid #19568b;"&gt;&lt;span style="font-size: medium;"&gt;Find a Volunteer Opportunity that Fits Your Schedule and Interest Problem&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Daily Living&lt;/span&gt;&lt;/th&gt;
+&lt;td scope="row" style="border: 1px solid #19568b;"&gt;&lt;span style="font-size: medium;"&gt;Where to Find Fresh and Local Foods that aren't too Expensive Problem&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Problem-based activities can be added to almost any curriculum unit. These examples add a problem-based activity to each topical unit.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2000">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2001">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985454</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="993">
+        <prevpageid>992</prevpageid>
+        <nextpageid>994</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454985683</timecreated>
+        <timemodified>1471899648</timemodified>
+        <title>Design a PSTRE Activity</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-40.mp3"&gt;ELL_Mod2_U4_Slide-40.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In order to design a PSTRE problem to integrate into your teaching, first select a class into which you would like to integrate a problem-based activity. To make your selection, review your units for that class and elect a unit that would benefit from the supplementation that a problem-based activity would provide—for example, if you need to build language review into a unit, or build in additional practice with digital skills introduced in the unit, or if further speaking practice through interaction is needed. Then design a problem-based activity that would benefit the unit. Build from the background knowledge, language, and content of the unit that you have selected. Be sure to avoid overspecifying the problem. Defining the problem is part of the problem-solving process. The examples in this unit model the appropriate level of detail. Of course, it goes without saying that you will match the level of difficulty of the problem to the language level and digital skills of your students.&lt;/p&gt;
+&lt;p&gt;Keep mind the types of things that make problems more difficult to solve. Problems are more difficult when the context is unfamiliar, the application or software is unfamiliar, the solution requires multiple applications, the solution requires multiple steps, or the required information is embedded in a lot of unfamiliar language. Problems are also more difficult to solve when there is a barrier or are multiple barriers, such as a defunct website, a broken link, or conflicting information.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Select a class into which you would like to integrate a problem-based activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Review your units for that class. Select a unit that would benefit from the supplementation that a problem-based activity would provide (e.g., language review, practice with digital skills, or further opportunity for interaction).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Design a problem-based activity that would benefit the unit. Build from the background knowledge, language, and content of the curricular unit that you have selected.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Don’t overspecify the problem. Defining the problem is part of the problem-solving process. Use the examples in this unit for the appropriate level of detail.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Match the level of difficulty of the problem to the language level and digital skills of your students.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Share the activity you create with your Community of Practice, or with your colleagues on the&lt;a href="https://community.lincs.ed.gov/comment/16578#comment-16578" title="ESL Pro Module 2 Unit 4, problem Solving with Technology"&gt; LINCS discussion forum.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Problems are more difficult to solve when the&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Context is unfamiliar&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Application or software is unfamiliar&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Solution requires multiple applications &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Solution requires multiple steps&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Required information is embedded in a lot of unfamiliar language &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;There is a barrier (e.g., defunct website, broken link, conflicting information)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2002">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985683</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2003">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454985683</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="994">
+        <prevpageid>993</prevpageid>
+        <nextpageid>995</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454986047</timecreated>
+        <timemodified>1457732005</timemodified>
+        <title>The PSTRE Activity: Understand the Nature of the Problem</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-41.mp3"&gt;ELL_Mod2_U4_Slide-41.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The first few times that you include a PSTRE activity, you may want to have the whole class work on the same problem. After several successful experiences, assign groups to work on different problems.&lt;/p&gt;
+&lt;p&gt;Start the activity by introducing the problem. This introduction includes&lt;br /&gt; -Connecting the problem to the unit &lt;br /&gt; -Explaining the importance of PSTRE and giving real examples&lt;br /&gt; - Discussing the context of the problem and students’ (as well as your) personal experience with similar problems&lt;br /&gt; - Reviewing relevant vocabulary from the unit&lt;/p&gt;
+&lt;p&gt;Then work together to understand the nature of the problem by creating a pair or small-group activity in which the students work together to identify the goals of the problem and predict what the solution may look like. When they have finished, come back together to compare different answers and discuss them.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/fig4v2.png" width="200" height="504" alt="Five basic steps to solving problems in technology-rich environments:  Understand the nature of the problem. Make a plan. Monitor progress. Select information. Make use of the information." style="float: right; margin: 10px;" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The first few times that you include a PSTRE activity, you may want to have the whole class work on the same problem. After several successful experiences, assign groups to work on different problems.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Introduce the problem.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Connect the problem to the unit for the students.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Explain the importance of PSTRE.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Discuss the context of the problem and students’ (and teacher’s) personal experience with similar problems.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Review relevant vocabulary from the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Understand the nature of the problem.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Create a pair or small-group activity in which the students work together to &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Identify the goals of the problem&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Predict what the solution may look like&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Come back together to compare different answers and discuss them.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2004">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454986047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2005">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454986047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="995">
+        <prevpageid>994</prevpageid>
+        <nextpageid>996</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454986674</timecreated>
+        <timemodified>1457732141</timemodified>
+        <title>The PSTRE Activity: Make a Plan</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-42.mp3"&gt;ELL_Mod2_U4_Slide-42.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The next step is to identify the resources available. Resources may include websites, people, and experience. For lower level students, you may want to provide some resources that you’ve preselected. For example, in the Online Job Search Problem, the jobscout website is appropriate for adult English language learners and will be a good resource to add. In the buying a computer problem, the everyoneon website will be helpful for adult English language learners. For higher level students, working together to find resources with some general guidance from you is a better option. Then work together to decide on the amount of time that can be spent on finding a solution. This is an important part of the problem-solving process, and it is important to model it regularly. People proficient in problem solving often perform this step without thinking, but it needs to be made explicit for adult English language learners.&lt;/p&gt;
+&lt;p&gt;Next, design the format of the solution. You may want to provide guidance for your students by creating a simple work sheet that gives the questions to answer. For lower level students, you might want to give more support and provide sentence frames to use. Of course, the amount of modeling and guidance that you provide depends on the language level and digital literacy skill of your students.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" align="right" style="width: 35%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;a href="http://www.myjobscout.org" title="My Job Scout" target="_blank"&gt;&lt;img src="@@PLUGINFILE@@/jobscout.png" width="150" height="183" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Used with permission from JobScout.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.myjobscout.org" title="My Job Scout" target="_blank"&gt;&lt;span style="font-size: small;"&gt;www.myjobscout.org&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;a href="http://EveryoneOn.org/adulted" title="Everyone On/Adult Ed" target="_blank"&gt;&lt;img src="@@PLUGINFILE@@/everyoneon.png" width="225" height="72" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span&gt;Used with permission.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://EveryoneOn.org/adulted" title="Everyone On/Adult Ed" target="_blank"&gt;&lt;span style="font-size: small;"&gt;EveryoneOn.org/adulted&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Identify the resources available. &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Resources may include websites, people, and experience.  &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For lower level students, you may want to provide some resources that you’ve preselected. For example, in the Online Job Search Problem, the jobscout website is appropriate for adult English language learners and will be a good resource to add. In the Buying-a-Computer Problem, the everyoneon website will be helpful for adult English language learners.  &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Predetermine the amount of time that students should spend on finding a solution.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Design the format of the solution.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You may also provide guidance by creating a simple worksheet to give the questions to answer and possibly sentence frames to use in response.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The amount of modeling and guidance that you provide depends on the language level and digital literacy skill of your students.   &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more about how your students can get online and how the U.S. Department of Education, Office of Career, Technical, and Adult Education is working to get everyone connected, go to &lt;a href="http://www.ed.gov/edblogs/ovae/2014/04/09/octae-is-working-to-get-everyone-on/" title="How your students can get online" target="_blank"&gt;http://www.ed.gov/edblogs/ovae/2014/04/09/octae-is-working-to-get-everyone-on/&lt;/a&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2006">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454986674</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2007">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454986674</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="996">
+        <prevpageid>995</prevpageid>
+        <nextpageid>997</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454986930</timecreated>
+        <timemodified>1457732184</timemodified>
+        <title>The PSTRE Activity: Monitor Progress</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-43.mp3"&gt;ELL_Mod2_U4_Slide-43.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Once the plan is made, it is time to use the resources and search for and gather the information. You will want to have students working in groups, at least the first few times that you engage in the activity in your class. Students working collaboratively are more likely to stay on track and manage problems that may occur. Depending on the level of your class, you are likely to want to provide work sheets that include the questions being asked, constraints that exist, or preorganize the information to be collected, to help students monitor their own progress. As a whole class, discuss the process of monitoring one’s own progress. It is an important strategy in PSTRE.&lt;/p&gt;
+&lt;p&gt;-Monitoring your own progress means&lt;br /&gt; - Staying on track and attending to the goal or question at hand&lt;br /&gt; - Being prepared to handle unexpected events (e.g., software incompatibility, a broken link, or conflicting information)&lt;br /&gt; - Paying attention to progress toward the goal&lt;br /&gt; - Staying aware of the constraints (e.g., in the Online Job Search Problem, that you don’t want to have to register or pay a fee)&lt;/p&gt;
+&lt;p&gt;You may elect to teach a mini-lesson on a grammar point or vocabulary that is important to understanding the information that the students may be finding in their search, in their interviews, or other data-collection sources. You can decide in advance on the mini-lesson to teach, or you can respond to the needs that arise in the process of working on the PSTRE activity.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Once the plan is made, it is time to use the resources and search for and gather the information.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Students working collaboratively are more likely to stay on track and manage problems that may occur.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Teacher-provided guides that include the questions being asked, constraints that exist or that pre-organize the information to be collected can also help students monitor progress.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Discuss the process of monitoring one’s own progress. It is an important strategy in PSTRE.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;You may elect to teach a minilesson on a grammar point or vocabulary that is important to understanding the information that the students may be finding in their search, their interviews, or other data collection sources.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Monitoring one’s own progress means&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Staying on track and attending to the goal or question at hand&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Being prepared to handle unexpected events (e.g., software incompatibility, a broken link, or conflicting information)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Paying attention to progress toward the goal&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Staying aware of the constraints (e.g., in the Online Job Search Problem: that you don’t want to have to register or pay a fee)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2008">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454986930</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2009">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454986930</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="997">
+        <prevpageid>996</prevpageid>
+        <nextpageid>998</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454987097</timecreated>
+        <timemodified>1457732236</timemodified>
+        <title>The PSTRE Activity: Select Information</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-44.mp3"&gt;ELL_Mod2_U4_Slide-44.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This is the step in the activity in which a lot of the student work happens; the students select the information needed for the solution. On the Internet, students search for the information, using the resources that they have already identified. As they find information, they evaluate possible sources for relevance, accuracy, reliability, and bias or perspective. For more information about this process, see Unit 3, linked here. Teach mini-lessons, as needed, such as the language for writing an e-mail and the language for leaving a voicemail with the same information. You can provide guidance and support through guiding materials, such as a checklist of questions to ask to determine relevance, accuracy, reliability, and bias or perspective for each source of information. In the case of the parent–teacher conference problem, the adult ELL students will look at a school website (ideally, a website of one of the group members’ kids’ school), look for things such as the calendar to see if parent–teacher conference information is there, look for class blogs, and look for the teachers’ e-mail addresses and phone/voicemail numbers.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this phase, the students select the information that they need for the solution.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;On the Internet, students will search for the information, evaluating possible sources for relevance, accuracy, reliability, and bias or perspective. For more information about this process, see Unit 3 of this module.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Potential minilessons include the language for writing an e-mail and the language for leaving a voicemail with the same information.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Support can be provided through guiding materials, such as a checklist of questions to ask to determine relevance, accuracy, reliability, and bias or perspective for each source of information.  &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Parent–Teacher Conference Problem: Select Information&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The students will look at a school website (ideally, a website of one of the group members’ kids’ school), and look for the parent–teacher conference information in places such as&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The school calendar&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Class blogs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The teachers’ e-mail address &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The school phone/voicemail numbers.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2010">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454987097</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2011">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454987097</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="998">
+        <prevpageid>997</prevpageid>
+        <nextpageid>999</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454987549</timecreated>
+        <timemodified>1457732319</timemodified>
+        <title>The PSTRE Activity: Make Use of the Information</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-45.mp3"&gt;ELL_Mod2_U4_Slide-45.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In this step, the students take the information that they have collected and organize or transform it in a way that will help them select a solution. There are many different ways that the students can organize or reorganize the information. For example, the information may be organized into a PowerPoint presentation to the class about a proposed solution (e.g., the computer to buy and Internet service to get) or into a table about information available on each job search website, as seen in the example on this page. Graphic organizers or note-taking formats can be useful in this step in the process.&lt;/p&gt;
+&lt;p&gt;In this step, a solution is reached or proposed. As the PSTRE activity concludes, it is important to discuss the problem-solving process and the way it can be used in real-world problems.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="1" cellpadding="5" cellspacing="5" align="right" style="border: 1px solid #000000; width: 40%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan="2" style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Job Search Website&lt;/span&gt;&lt;/td&gt;
+&lt;td colspan="3" style="border: 1px solid #000000; text-align: center;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Information Included&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Responsibilities&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Pay per hour&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Location*&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;1. www.jobscout.org&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Yes&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;Yes&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;No&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;2. &lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;span style="font-size: small;"&gt;3.&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" scope="colgroup"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="4" style="border: 1px solid #000000;" scope="colgroup"&gt;*Use to calculate travel distance from home.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this step, the students take the information that they have collected and organize or transform it in a way to help select the solution.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The information may be organized into many different forms, including a PowerPoint presentation to the class about a proposed solution or a table about information available on each job search website (see sample table).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Graphic organizers or note-taking formats can be useful in this step in the process.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;In this step, a solution is reached or proposed.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;As the PSTRE activity concludes, it is important to discuss the problem-solving process and the way it can be used in real-world problems.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/68886853_thumbnail.jpg" width="100" height="105" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;&lt;span style="font-size: medium;"&gt;To Go Deeper&lt;/span&gt;&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;To learn more about graphic organizers and note-taking techniques, see Meeting the Language Needs of Today's Adult English Language Learner: Professional Development Module, Unit 3: Incorporating Language Strategies for Success at All Levels of Adult ESL Instruction.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2012">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454987549</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2013">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454987549</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="999">
+        <prevpageid>998</prevpageid>
+        <nextpageid>1000</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454987647</timecreated>
+        <timemodified>1459912196</timemodified>
+        <title>Final Things To Consider</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-46.mp3"&gt;ELL_Mod2_U4_Slide-46.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;There are three things to keep in mind as general principles when integrating PSTRE into your courses and programs. The first is the importance of integration. Integrating problem-solving instruction into units is more effective than a teaching a course or workshop devoted to problem solving as a skill. The second is sustained practice. Adult learners need many opportunities to practice with new technologies and problem-solving skills. The practice needs to be distributed across time; so it is important to integrate activities that include problem solving across units, levels, and programs. In addition, PSTRE is a skill that benefits all learners, not just English language learners. The third thing to keep in mind is collaboration. Collaboration facilitates learning in the context of PSTRE. Students collaborating on problem-solving tasks are more likely to employ the activities of planning, monitoring, and evaluating in the problem-solving process. The ability to collaborate and work in groups is an important soft skill for both college and career readiness.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Integration&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Integrating problem-solving instruction into units is more effective than teaching a course or workshop devoted to problem solving as a skill.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Sustained practice&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Adult learners need many opportunities to practice new technologies and problem-solving skills. The practice needs to be distributed across time. Integrate activities that include problem solving across units, levels, and programs. PSTRE is a skill that benefits all learners, not just English language learners.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Collaboration&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Collaboration facilitates learning in the context of PSTRE. Students collaborating on problem-solving tasks are more likely to engage in the activities &lt;br class="kix-line-break" /&gt;of planning, monitoring, and evaluating in the problem-solving process.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;When you click on End you will see a page stating that you are finished with this lesson. Click on the link below to return to the main page of this unit and move on to the next activity.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2014">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454987647</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2015">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454987647</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1000">
+        <prevpageid>999</prevpageid>
+        <nextpageid>1001</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459912384</timecreated>
+        <timemodified>1459963097</timemodified>
+        <title>Final Activity (administrators)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-48.mp3"&gt;ELL_Mod2_U4_Slide-48.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As a teacher, you must reflect on your own learning, as well as on the ways to support the learning of the teachers and students in your program. Your own experiences as an adult learner in this course, as well as the information that you learned, can inform the decisions that you make in your own programs.&lt;/p&gt;
+&lt;p&gt;For this unit, there is one final question for reflection, and here it is: 2015 research indicates that administrators and teachers alike are enthusiastic about “the potential for technology to support instruction. Administrators and practitioners are open to and interested in thoughtful, appropriate deployment of technology to meet the needs and goals of their students” (Tyton Partners, 2015, p. 2). Despite this enthusiasm, teachers also report that lack of organizational support is one of the barriers to teachers’ use of technology in the classroom.&lt;/p&gt;
+&lt;p&gt;After taking the online course, what ideas do you have about supporting the development of digital skills in your program? What barriers exist? What are the potential solutions?&lt;/p&gt;
+&lt;p&gt;Thank you for taking the time to learn about integrating digital literacy in adult English language instruction!&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://tytonpartners.com/library/learning-for-life-the-opportunity-for-technology-to-transform-adult-education/" title="Learning for life: The opportunity for technology to transform adult education" target="_blank"&gt;&lt;img src="@@PLUGINFILE@@/tyton.png" width="250" height="342" style="margin: 10px auto; display: block;" /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Tyton Partners. (2015). &lt;i&gt;Learning for life: The opportunity for technology to transform adult education. Part 1: Interest in and aptitude for technology.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Stamford, CT: Tyton Partners. (used with permission)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://tytonpartners.com/library/learning-for-life-the-opportunity-for-technology-to-transform-adult-education/" title="Learning for life: The opportunity for technology to transform adult education" target="_blank" style="font-family: arial, helvetica, clean, sans-serif; font-size: x-small; line-height: 12.3100004196167px;"&gt;Learning for life: The opportunity for technology to transform adult education&lt;/a&gt;&lt;span style="font-family: arial, helvetica, clean, sans-serif; font-size: x-small; line-height: 12.3100004196167px;"&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial, helvetica, clean, sans-serif; font-size: x-small; line-height: 12.3100004196167px;"&gt; Part 1: Interest in and aptitude for technology. &lt;br /&gt;Stamford, CT: Tyton Partners. Used with permission.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Question for reflection&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2015 research indicates that administrators and teachers alike are enthusiastic about “the potential for technology to support instruction. Administrators and practitioners are open to and interested in thoughtful, appropriate deployment of technology to meet the needs and goals of their students” &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(Tyton Partners, 2015, p. 2).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Despite this enthusiasm, teachers also report that lack of organizational support is one of the barriers to teachers’ use of technology in the classroom.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;After taking the online course, what ideas do you have about supporting the development of digital skills in your program? What barriers exist? What are the potential solutions?&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Thank you for taking the time to learn about integrating digital literacy in adult English language instruction!&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2016">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459912384</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2017">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459912384</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1001">
+        <prevpageid>1000</prevpageid>
+        <nextpageid>1002</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459912664</timecreated>
+        <timemodified>1460083256</timemodified>
+        <title>Final Activity (teachers)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-48.mp3"&gt;ELL_Mod2_U4_Slide-48.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As a teacher, you must reflect on your own learning, as well as on the ways to support the learning of students in your classes. Your own experiences as an adult learner in this course, as well as the new information that you possess, can inform the decisions that you make in your own classes.&lt;/p&gt;
+&lt;p&gt;For the final activity of this unit, design a PSTRE activity that you might use in your own class. Design it so that you can use the same process in multiple units because, with technology, it is often good to try one new thing and do it widely. First, select one class that you teach that would benefit from additional language and digital literacy skill development and practice. Second, review the units in that class and select two or three that could benefit from a PSTRE activity. Pick one to detail for this activity. Third, design a problem-based activity, similar to the examples used here, to go with the unit. Fourth, create an activity that includes the five steps in problem solving, as appropriate for the purposes of the unit, as well as the language level and digital skills of your students. Last, enter information about your activity on the next page. For your convenience and to use as a guide, a list containing the three sample problems used in this unit is linked on this page.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For the final activity, design a PSTRE activity that you might use in your own class. With technology, it is often good to try one new thing and do it widely.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;1. Select one class that you teach that would benefit from additional language and digital literacy skill development and practice.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;2. Review the curriculum units in that class and select two or three that could benefit from a PSTRE activity. Pick one to detail for this activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;3. Design a problem, similar to the &lt;a href="@@PLUGINFILE@@/M2U4_SamplePSTRE_508.pdf" title="Samples"&gt;examples used here&lt;/a&gt;, to go with the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;4. Create an activity that includes the five steps in problem solving, as appropriate to the purposes of the unit, as well as the language level and digital skills of your students.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #19568b;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Sample problems used in this unit:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Online Job Search Problem&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Parent-Teacher Conference Problem&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The Buying-a-Computer Problem&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2018">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459912664</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2019">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459912664</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1002">
+        <prevpageid>1001</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1459913025</timecreated>
+        <timemodified>1461891389</timemodified>
+        <title>You have completed unit 4</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod2_U4_Slide-50.mp3"&gt;ELL_Mod2_U4_Slide-50.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary style="text-align: left;"&gt;&lt;span style="text-align: left;"&gt;Audio transcript&lt;/span&gt;&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="text-align: left;"&gt;Congratulations! You have completed Unit 4. As you work to integrate PSTRE into your classes, enjoy it! Ideally, you are working with colleagues who are interested in doing the same thing and are sharing ideas. If not, consider starting up such a group, either virtually or face to face. There is nothing like working with other teachers to spark creativity and enthusiasm for new teaching ideas. Good luck! &lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Congratulations!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/iStock_000000724284_Small.jpg" width="250" height="187" style="margin: 5px; float: right;" /&gt;You have completed Unit 4. &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Thank you for participating in Unit 4 of Integrating Digital Literacy Into Adult English Language Instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Enjoy integrating a PSTRE activity into your class!&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;If you would like to learn more about integrating digital literacy into your classes, you can participate in additional units in this module.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr" style="text-align: left;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: “Digital Literacy in Our lives”&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="text-align: left;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: “Information and Communication Technologies for Language Learning”&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Unit 3: “Digital Information Literacy”&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;A list of further resources is &lt;a href="@@PLUGINFILE@@/M2U4_References_508.docx" title="References"&gt;available here&lt;/a&gt; (&lt;a href="@@PLUGINFILE@@/M2U4_References.pdf" title="PDF version"&gt;printer-friendly version&lt;/a&gt;).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2020">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459913025</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2021">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1459913025</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

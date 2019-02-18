@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="162" moduleid="5225" modulename="lesson" contextid="16121">
+  <lesson id="162">
+    <course>138</course>
+    <name>Module 2 Introduction</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1450229799</timemodified>
+    <pages>
+      <page id="779">
+        <prevpageid>0</prevpageid>
+        <nextpageid>780</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450230318</timecreated>
+        <timemodified>1462058311</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;h2&gt;&lt;span style="color: #000000;"&gt;Welcome to &lt;em&gt;Integrating Digital Literacy Into Adult English Language Instruction&lt;/em&gt;!&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Author: Kathy Harris, Portland State University&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Editors: Mariann Fedele-McLeod, American Institutes for Research Cherise Moore, American Institutes for Research&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;This module was prepared with funding from the U.S. Department of Education, Office of Career, Technical, and Adult Education, under contract No. ED-VAE-13-C-0058. The opinions expressed herein do not necessarily reflect the opinions or policies of the U.S. Department of Education. This module is in the public domain and may be reproduced without permission.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;em style="line-height: 16.0029983520508px;"&gt;Using the buttons at the bottom will present the materials in order. &lt;/em&gt;&lt;em&gt;You can also navigate to the pages in this section by using the &lt;/em&gt;&lt;strong&gt;Lesson menu&lt;/strong&gt;&lt;em&gt; on the left.&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1584">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230318</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="780">
+        <prevpageid>779</prevpageid>
+        <nextpageid>782</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1450230711</timecreated>
+        <timemodified>1459902045</timemodified>
+        <title>Integrating Digital Literacy Into Adult English Language Instruction: Professional Development Module</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This professional development module is part of a suite of related resources. The suite includes the following resources:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt; Integrating Digital Literacy Into English Language Instruction: Issue Brief&lt;/strong&gt; &lt;br class="kix-line-break" /&gt;This issue brief presents a broad overview of digital literacy as it relates to adult learners in English language acquisition programs. It is intended to serve as an introduction to the topic of digital literacy that teachers and administrators can use as a springboard to additional in-depth resources.&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt; Integrating Digital Literacy Into English Language Instruction: Companion Learning Resource&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This digital magazine is a practical, comprehensive instructional resource written specifically for teachers. It provides numerous examples of instructional models, strategies, tools, and tasks for integrating digital literacy into English language instruction.  &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1587">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1588">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="782">
+        <prevpageid>780</prevpageid>
+        <nextpageid>781</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1450230624</timecreated>
+        <timemodified>1465851983</timemodified>
+        <title>Digital Literacy</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/digital-inclusion-infographic-image-01.png" width="500" height="508" alt="Graphic displays five areas in which the Internet is Important for Everyone.  These areas include: work, economy, government, education, and health. Each area has a description on how the internet benefits each one: Work—Using the internet to look for a job reduces the time spent unemployed by 25%; Economy: Securing 15 million more broadband lines in the U.S. can increase the GDP by $50 billion; Government: 54% of U.S. adults went online to get information about or to get involved in the 2010 midterm election; Education: As of January 2014 the GED test will only be available online; and Health: Broadband enabled remote health care monitoring can save $197 billion in health care costs over 25 years. Below these areas it says that you can learn how you can increase access and use of information technology in your community with a link to visit below: oc.lc/digitalinclusion. " style="margin: 10px auto; display: block;" /&gt;&lt;/p&gt;
+&lt;p&gt;Used with permission from WebJunction, a program of OCLC,&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.webjunction.org/news/webjunction/the-internet-is-important-to-everyone.html" title="Source" target="_blank"&gt;http://www.webjunction.org/news/webjunction/the-internet-is-important-to-everyone.html&lt;/a&gt;.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Modern life in the United States requires technology skills:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Applying for a job&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Communicating with children’s schools &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Getting accurate health information&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Communicating and collaborating using the Internet for higher education&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Communicating and collaborating for employment&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(Federal Communications Commission, 2010)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For adult English language learners, the digital divide is widened by:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Limits to technology hardware &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Limited Internet access&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Limited and varied English readability levels &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Limited availability of information in learners’ native languages &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Limited basic digital literacy skills&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;(National Institute for Literacy, 2008)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Intro_0010.mp3"&gt;ELL_Intro_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;The demands of modern life in the United States require technology skills. Applying for a job, communicating with children’s schools, getting accurate health information, and communicating and collaborating using the Internet for higher education or employment all require the ability to use information and communication technologies.&lt;/p&gt;
+&lt;p&gt;The challenge to meet these demands is even greater when, in addition to the “digital divide,” there is a language barrier. For adult ELLsEnglish language learners, the digital divide is widened by limits to technology hardware, limited Internet access, limited and varied English readability levels, limited availability of information in learners’ native languages, and limited basic digital literacy skills.&lt;/p&gt;
+&lt;p&gt;Access to the Internet, and the digital literacy skills necessary for access, are important to individuals and to the nation. Whether for work, education, voting, or health, Internet access and digital literacy are important for individuals. Increased Internet capacity can spur economic growth nationally, while Internet use can cut national healthcare costs significantly.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1585">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230624</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1586">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230624</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="783">
+        <prevpageid>781</prevpageid>
+        <nextpageid>788</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454531020</timecreated>
+        <timemodified>1462736186</timemodified>
+        <title>Unit 1: Digital Literacy in Our Lives</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;For instructors, curriculum developers, administrators, and state directors, this unit presents an overview of digital literacy in modern life, building from contexts and functions in participants’ own lives (e.g., online forms to prepare for medical visits, online bank transactions, e-mails from teachers).&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The unit reviews digital literacy needs in adult English language learners’ lives and the need to integrate digital literacy into English language acquisition instruction, curriculum topics, themes, and units.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1600">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531020</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1601">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531020</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="781">
+        <prevpageid>782</prevpageid>
+        <nextpageid>783</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450230846</timecreated>
+        <timemodified>1461539768</timemodified>
+        <title>Integrating Digital Literacy Into English Language Instruction</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The module is designed for teachers and administrators interested in integrating digital literacy in their adult English Language Acquisition (previously referred to as ESL) classes and programs.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 1: Digital Literacy in Our lives&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 2: Information and Communication &lt;br class="kix-line-break" /&gt;&lt;span class="Apple-tab-span"&gt; &lt;/span&gt;Technologies for Language Learning&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 3: Digital Information Literacy&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Unit 4: Solving Problems in Technology-Rich&lt;br class="kix-line-break" /&gt;&lt;span class="Apple-tab-span"&gt; &lt;/span&gt;Environments&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Each unit in the module looks at a different component of digital literacy.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Each unit includes activities that take you to the Internet to experience some aspect of digital literacy that is relevant to instruction for adult English language learners.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Each unit is independent. The units can be completed in any order. However, Unit 4 is targeted to teachers who are already using technology with their students and want to deepen and expand that use.&lt;/span&gt;&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Sections within each unit are addressed specifically to administrators.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Intro_0020.mp3"&gt;ELL_Intro_0020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt; Welcome! This module is designed for teachers and curriculum developers as well as administrators and state directors who are interested in increasing digital literacy in their adult English language acquisition classes and programs. It includes four units:&lt;/p&gt;
+&lt;p&gt;Unit 1: Digital Literacy in Our Lives&lt;br /&gt; Unit 2: Information and Communication Technologies for Language Learning&lt;br /&gt; Unit 3: Digital Information Literacy&lt;br /&gt; Unit 4: Solving Problems in Technology-Rich Environments&lt;/p&gt;
+&lt;p&gt;Each unit in the module looks at a different component of digital literacy.&lt;/p&gt;
+&lt;p&gt;Each unit includes information as well as unit activities that take you to the Internet to experience some aspect of digital literacy that is relevant to instruction for adult English language learners.&lt;/p&gt;
+&lt;p&gt;Each unit is independent, and the units can be completed in any order. However, Unit 4 is more for teachers who are already using technology with their students and want to deepen and expand that use. Sections within each unit are addressed specifically to administrators.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1589">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230846</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1590">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450230846</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="788">
+        <prevpageid>783</prevpageid>
+        <nextpageid>789</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454531168</timecreated>
+        <timemodified>1462736214</timemodified>
+        <title>Unit 2: Information and Communication Technologies</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit is an overview on using information and communication technologies to communicate in everyday life and in English language acquisition classes.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The focus is on instructional strategies that leverage technology to extend learning beyond the classroom as well as to provide independent learning opportunities.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Information and communication technologies provide the opportunity for English language learners to interact with people outside of English class, read and write for authentic purposes, and read and create multimodal texts.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1602">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531168</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1603">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531168</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="785">
+        <prevpageid>784</prevpageid>
+        <nextpageid>786</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450231423</timecreated>
+        <timemodified>1461887614</timemodified>
+        <title>Peer or Small Group Study</title>
+        <contents>&lt;h2&gt;&lt;img src="@@PLUGINFILE@@/peer%20study.png" alt="two women studying off a laptop" style="float: right; margin: 5px 20px;" height="243" width="313" /&gt;&lt;span style="color: #000000;"&gt;How to Use this Module&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Find a &lt;strong&gt;peer&lt;/strong&gt; or &lt;strong&gt;small group&lt;/strong&gt; to explore the issues in this module in depth. The module readings, resources, and tasks can be completed between meetings and can be used for the basis of intentional exploration of the issues addressed in the module.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;A third way to use the units in this module is to form one’s own small group of peers. The pages of the module can be read together and the Internet “field trips” done together or done in between meetings. Either way, the material can serve as a springboard for intentional exploration of and experimentation with new ideas and practices. Reciprocal peer observation, where peers doing collaborative professional learning take turns observing each other’s teaching, can also support professional learning in conjunction with the units in this model.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now, it is time to get started! It is best to do Unit 1 first. After completing Unit 1, select any of the other units. Happy learning!&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1595">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231423</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1596">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231423</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="786">
+        <prevpageid>785</prevpageid>
+        <nextpageid>787</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450231546</timecreated>
+        <timemodified>1462059428</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" alt="certificate icon" style="margin: 5px 20px; float: right;" height="150" width="200" /&gt;&lt;span&gt;This module contains four units; however, completion of all units is not required for a certificate to be issued. You will be eligible to receive a Certificate of Completion at the end of each unit, upon conclusion of the required activities.  &lt;/span&gt;&lt;span&gt;There are no graded activities or tasks for this module. &lt;/span&gt;&lt;span&gt;Please follow the links at the end of the unit to print your certificate upon completing required activities.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1597">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231546</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1598">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231546</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="787">
+        <prevpageid>786</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450233049</timecreated>
+        <timemodified>1461890913</timemodified>
+        <title>Choose your unit now</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M2_IntroRef_508.docx" title="Introduction References"&gt;Introduction References&lt;/a&gt; (&lt;a href="@@PLUGINFILE@@/M2_IntroRef_508.pdf" title="PDF"&gt;printer-friendly version&lt;/a&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This completes the introduction and overview to Module 1.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #666699;"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #666699;"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1599">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450233049</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1608">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450233049</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="789">
+        <prevpageid>788</prevpageid>
+        <nextpageid>790</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454531293</timecreated>
+        <timemodified>1462736248</timemodified>
+        <title>Unit 3: Digital Information Literacy</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit is an overview of digital information literacy. &lt;/span&gt;&lt;span style="font-size: medium;"&gt;The unit includes using search techniques for things that are important to English language learners, such as how to navigate the complex website of a child’s school; how to compare information from different sources on a medication being prescribed, in a medical unit; and how to compare loan interest rates and terms, in a financial unit.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;The unit includes ways to teach effective search strategies and ways to teach learners how to be critical consumers of online information.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1604">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531293</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1605">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531293</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="790">
+        <prevpageid>789</prevpageid>
+        <nextpageid>791</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1454531374</timecreated>
+        <timemodified>1462736272</timemodified>
+        <title>Unit 4: Solving Problems in Technology-Rich Environments</title>
+        <contents>&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit is an overview of solving problems in technology-rich environments. &lt;/span&gt;&lt;span style="font-size: medium;"&gt;The unit uses examples from a variety of topics taught in adult English language acquisition classrooms to illustrate strategies for teaching problem solving.  Problem-solving strategies are extended to technology-rich environments, expanding students’ digital literacy skills.  &lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;This unit is designed for teachers who are already integrating technology into their classrooms and want to expand that use.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1606">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531374</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1607">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1454531374</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="791">
+        <prevpageid>790</prevpageid>
+        <nextpageid>784</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450231119</timecreated>
+        <timemodified>1462742271</timemodified>
+        <title>Individual Self-Study</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/woman%20and%20laptop.png" alt="woman and laptop" style="float: right; margin: 5px 20px;" height="263" width="198" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;How to Use this Module&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;This self-paced module allows individuals to complete any or all units at their own pace. Each unit should take approximately two and a half to three hours to complete, including readings and activities.  However, each unit offers many opportunities for deeper learning and access to many resources which would take longer to complete if you choose to access these additional opportunities.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;You can complete the module over time, stopping as often as you’d like.  &lt;strong&gt;&lt;/strong&gt;After a period of inactivity, you will be logged out of the module and will need to login to continue the activities. Use the checkboxes on the module home page to keep track of the activities you’ve completed. The unit activities are presented in a suggested order of completion.  However, you can complete the unit activities in any order and also return to previously completed activities to review material. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;span&gt;The professional development modules in this series can be used in a number of different ways. They can be used for self study by individuals working at their own pace, by a group of educators working together in a professional learning community, as the focus of a study circle or by a small group of peers. When working individually, each unit takes 2–3 hours to complete. Each unit involves an examination of one’s own digital literacy as a springboard for thinking about digital literacy in students’ lives. Each unit includes opportunities to go deeper as well as technology tips for learning how to manage in a technology environment. Each unit also includes multiple “field trips” to a variety of Internet sites. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1591">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231119</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1592">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231119</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="784">
+        <prevpageid>791</prevpageid>
+        <nextpageid>785</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1450231271</timecreated>
+        <timemodified>1461887597</timemodified>
+        <title>Professional Learning Communities/Study Circles</title>
+        <contents>&lt;h2&gt;&lt;img src="@@PLUGINFILE@@/class%20discussion.png" alt="Class discussion" style="float: right; margin: 5px 20px;" height="183" width="291" /&gt;&lt;span style="color: #000000;"&gt;How to Use this Module&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;A &lt;strong&gt;professional learning community&lt;/strong&gt;, or PLC, is a group of educators that meets regularly, shares expertise, and works collaboratively to improve teaching skills and the academic performance of learners. Shirley Hord (1997), an expert on school leadership, defines professional learning communities this way: “The three words explain the concept: Professionals coming together in a group—a community—to learn.” One technique for your PLC is to conduct Study Circles. Anyone can initiate a study circle, but it is important to collaborate with an instructional leader to support this activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The module readings, resources, and tasks can be completed between meetings and can be used as the basis for intentional exploration of the issues addressed in the module.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;This module can also be used as the material for a professional learning community or study circle. Professionals coming together for professional learning can be a powerful force for professional growth that improves student learning. Each unit in the module contains readings and Internet site visits that can be done between meetings. These readings form the basis for professional discussion and intentional exploration of the issues involved with integrating digital literacy into English language instruction.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1593">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231271</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1594">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1450231271</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>
